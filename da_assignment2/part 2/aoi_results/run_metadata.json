@@ -1,0 +1,27 @@
+{
+  "dimensions": [
+    "industry_code_detailed",
+    "occupation_code_detailed",
+    "household_family_status",
+    "state_prev_residence",
+    "education"
+  ],
+  "levels": {
+    "industry_code_detailed": 1,
+    "occupation_code_detailed": 1,
+    "household_family_status": 1,
+    "state_prev_residence": 1,
+    "education": 1
+  },
+  "removed_attributes": [],
+  "minimum_count": 25,
+  "hierarchy_conflicts_resolved": [
+    "household:'In group quarters' resolved to 'Group Quarters- Secondary individual' using the most frequent parent (187 observations).",
+    "previous_residence:'Abroad' resolved to 'Abroad' using the most frequent parent (733 observations)."
+  ],
+  "formulas": {
+    "t_weight": "count_target / total_target",
+    "contrast_weight": "count_contrast / total_contrast",
+    "d_weight": "t_weight - contrast_weight"
+  }
+}

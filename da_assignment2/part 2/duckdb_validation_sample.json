@@ -16,9 +16,9 @@
     "state_prev_residence"
   ],
   "minsup": 50,
-  "buc_seconds": 0.040239546000066184,
-  "duckdb_seconds": 4.06042937899997,
-  "record_load_seconds": 0.0033566100000825827,
+  "buc_seconds": 0.1168346130007194,
+  "duckdb_seconds": 12.360228356000334,
+  "record_load_seconds": 0.011809217000518402,
   "number_buc_cells": 4318,
   "number_duckdb_cells": 4318,
   "cells_only_in_buc": 0,

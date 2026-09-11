@@ -1,0 +1,1742 @@
+[
+  {
+    "rule": {
+      "industry_code_detailed": "Other professional services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 540,
+    "t_weight": 0.02908229211546747,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Not in universe or children",
+      "occupation_code_detailed": "Not in universe",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 501,
+    "t_weight": 0.0269819043515726,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Education",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 438,
+    "t_weight": 0.023588970271434726,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 425,
+    "t_weight": 0.0228888410168031,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Medical except hospital",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 401,
+    "t_weight": 0.021596294700560105,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Finance insurance and real estate",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 399,
+    "t_weight": 0.021488582507539853,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Finance insurance and real estate",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 331,
+    "t_weight": 0.017826367944851356,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 328,
+    "t_weight": 0.017664799655320983,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Other professional services",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 306,
+    "t_weight": 0.016479965532098233,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 267,
+    "t_weight": 0.014379577768203361,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Education",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 230,
+    "t_weight": 0.012386902197328738,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Not in universe or children",
+      "occupation_code_detailed": "Not in universe",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 212,
+    "t_weight": 0.011417492460146488,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Not in universe or children",
+      "occupation_code_detailed": "Not in universe",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 210,
+    "t_weight": 0.011309780267126238,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Wholesale trade",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 207,
+    "t_weight": 0.011148211977595864,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Public administration",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 200,
+    "t_weight": 0.010771219302024989,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Education",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 194,
+    "t_weight": 0.01044808272296424,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Hospital services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 188,
+    "t_weight": 0.010124946143903489,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Public administration",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 186,
+    "t_weight": 0.01001723395088324,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Retail trade",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 168,
+    "t_weight": 0.00904782421370099,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Education",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 162,
+    "t_weight": 0.008724687634640241,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Business and repair services",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 157,
+    "t_weight": 0.008455407152089617,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Retail trade",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 148,
+    "t_weight": 0.007970702283498492,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 136,
+    "t_weight": 0.007324429125376993,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Business and repair services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 134,
+    "t_weight": 0.007216716932356743,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Retail trade",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 132,
+    "t_weight": 0.0071090047393364926,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 131,
+    "t_weight": 0.007055148642826368,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Construction",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 123,
+    "t_weight": 0.006624299870745368,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 119,
+    "t_weight": 0.006408875484704869,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Medical except hospital",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 118,
+    "t_weight": 0.006355019388194744,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Other professional services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 113,
+    "t_weight": 0.006085738905644119,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Public administration",
+      "occupation_code_detailed": "Protective services",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 113,
+    "t_weight": 0.006085738905644119,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Wholesale trade",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 113,
+    "t_weight": 0.006085738905644119,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Hospital services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 111,
+    "t_weight": 0.005978026712623869,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 110,
+    "t_weight": 0.005924170616113744,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Finance insurance and real estate",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 107,
+    "t_weight": 0.005762602326583369,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Retail trade",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 107,
+    "t_weight": 0.005762602326583369,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Construction",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 104,
+    "t_weight": 0.005601034037052995,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Other professional services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 104,
+    "t_weight": 0.005601034037052995,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Finance insurance and real estate",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 103,
+    "t_weight": 0.00554717794054287,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Other professional services",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 99,
+    "t_weight": 0.00533175355450237,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Not in universe or children",
+      "occupation_code_detailed": "Not in universe",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 94,
+    "t_weight": 0.0050624730719517445,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Transportation",
+      "occupation_code_detailed": "Transportation and material moving",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 94,
+    "t_weight": 0.0050624730719517445,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Public administration",
+      "occupation_code_detailed": "Protective services",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 91,
+    "t_weight": 0.00490090478242137,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Wholesale trade",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 90,
+    "t_weight": 0.004847048685911245,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Construction",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 88,
+    "t_weight": 0.004739336492890996,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Wholesale trade",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 83,
+    "t_weight": 0.004470056010340371,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Finance insurance and real estate",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 82,
+    "t_weight": 0.004416199913830246,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Construction",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 81,
+    "t_weight": 0.004362343817320121,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Medical except hospital",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 79,
+    "t_weight": 0.0042546316242998705,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Transportation",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 79,
+    "t_weight": 0.0042546316242998705,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Finance insurance and real estate",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 76,
+    "t_weight": 0.004093063334769496,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 76,
+    "t_weight": 0.004093063334769496,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Construction",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 75,
+    "t_weight": 0.004039207238259371,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Hospital services",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 74,
+    "t_weight": 0.003985351141749246,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 73,
+    "t_weight": 0.003931495045239121,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 69,
+    "t_weight": 0.003716070659198621,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 68,
+    "t_weight": 0.0036622145626884965,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 68,
+    "t_weight": 0.0036622145626884965,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Public administration",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 68,
+    "t_weight": 0.0036622145626884965,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 66,
+    "t_weight": 0.0035545023696682463,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 64,
+    "t_weight": 0.0034467901766479965,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Agriculture",
+      "occupation_code_detailed": "Farming forestry and fishing",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 63,
+    "t_weight": 0.0033929340801378714,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Communications",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 63,
+    "t_weight": 0.0033929340801378714,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Education",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 61,
+    "t_weight": 0.0032852218871176216,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Machine operators assmblrs & inspctrs",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 61,
+    "t_weight": 0.0032852218871176216,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Communications",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 60,
+    "t_weight": 0.003231365790607497,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Finance insurance and real estate",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 60,
+    "t_weight": 0.003231365790607497,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 56,
+    "t_weight": 0.003015941404566997,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Not in universe or children",
+      "occupation_code_detailed": "Not in universe",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 56,
+    "t_weight": 0.003015941404566997,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Retail trade",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 56,
+    "t_weight": 0.003015941404566997,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Business and repair services",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 55,
+    "t_weight": 0.002962085308056872,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Utilities and sanitary services",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 54,
+    "t_weight": 0.002908229211546747,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Machine operators assmblrs & inspctrs",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 53,
+    "t_weight": 0.002854373115036622,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Retail trade",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 53,
+    "t_weight": 0.002854373115036622,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Transportation",
+      "occupation_code_detailed": "Transportation and material moving",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 52,
+    "t_weight": 0.0028005170185264974,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Transportation",
+      "occupation_code_detailed": "Adm support including clerical",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 51,
+    "t_weight": 0.0027466609220163723,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 50,
+    "t_weight": 0.002692804825506247,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Medical except hospital",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 50,
+    "t_weight": 0.002692804825506247,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Business and repair services",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 49,
+    "t_weight": 0.0026389487289961225,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Finance insurance and real estate",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 49,
+    "t_weight": 0.0026389487289961225,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Business and repair services",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 48,
+    "t_weight": 0.0025850926324859974,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Hospital services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 48,
+    "t_weight": 0.0025850926324859974,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Utilities and sanitary services",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 48,
+    "t_weight": 0.0025850926324859974,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Education",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 47,
+    "t_weight": 0.0025312365359758723,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Transportation",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 47,
+    "t_weight": 0.0025312365359758723,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Utilities and sanitary services",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 45,
+    "t_weight": 0.0024235243429556225,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Education",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 44,
+    "t_weight": 0.002369668246445498,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Not in universe or children",
+      "occupation_code_detailed": "Not in universe",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 44,
+    "t_weight": 0.002369668246445498,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Public administration",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 44,
+    "t_weight": 0.002369668246445498,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Retail trade",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 44,
+    "t_weight": 0.002369668246445498,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Not in universe or children",
+      "occupation_code_detailed": "Not in universe",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 43,
+    "t_weight": 0.0023158121499353727,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Other professional services",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 43,
+    "t_weight": 0.0023158121499353727,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Agriculture",
+      "occupation_code_detailed": "Farming forestry and fishing",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 42,
+    "t_weight": 0.0022619560534252476,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Public administration",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 42,
+    "t_weight": 0.0022619560534252476,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Utilities and sanitary services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 41,
+    "t_weight": 0.002208099956915123,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Business and repair services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 40,
+    "t_weight": 0.002154243860404998,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Machine operators assmblrs & inspctrs",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 40,
+    "t_weight": 0.002154243860404998,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 40,
+    "t_weight": 0.002154243860404998,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Wholesale trade",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 40,
+    "t_weight": 0.002154243860404998,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Construction",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 38,
+    "t_weight": 0.002046531667384748,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 38,
+    "t_weight": 0.002046531667384748,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Mining",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 38,
+    "t_weight": 0.002046531667384748,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Communications",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 37,
+    "t_weight": 0.001992675570874623,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Finance insurance and real estate",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 37,
+    "t_weight": 0.001992675570874623,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Hospital services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 37,
+    "t_weight": 0.001992675570874623,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Machine operators assmblrs & inspctrs",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 37,
+    "t_weight": 0.001992675570874623,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Mining",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 37,
+    "t_weight": 0.001992675570874623,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Other professional services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 37,
+    "t_weight": 0.001992675570874623,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Public administration",
+      "occupation_code_detailed": "Adm support including clerical",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 37,
+    "t_weight": 0.001992675570874623,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Public administration",
+      "occupation_code_detailed": "Protective services",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 36,
+    "t_weight": 0.001938819474364498,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 35,
+    "t_weight": 0.0018849633778543731,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Agriculture",
+      "occupation_code_detailed": "Farming forestry and fishing",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 34,
+    "t_weight": 0.0018311072813442482,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Public administration",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 34,
+    "t_weight": 0.0018311072813442482,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Business and repair services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 33,
+    "t_weight": 0.0017772511848341231,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Hospital services",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 33,
+    "t_weight": 0.0017772511848341231,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Technicians and related support",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 33,
+    "t_weight": 0.0017772511848341231,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Retail trade",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 33,
+    "t_weight": 0.0017772511848341231,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Transportation",
+      "occupation_code_detailed": "Adm support including clerical",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 33,
+    "t_weight": 0.0017772511848341231,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Transportation",
+      "occupation_code_detailed": "Technicians and related support",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 33,
+    "t_weight": 0.0017772511848341231,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Business and repair services",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 32,
+    "t_weight": 0.0017233950883239983,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Business and repair services",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 32,
+    "t_weight": 0.0017233950883239983,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Construction",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 32,
+    "t_weight": 0.0017233950883239983,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 32,
+    "t_weight": 0.0017233950883239983,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Social services",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 32,
+    "t_weight": 0.0017233950883239983,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Retail trade",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 31,
+    "t_weight": 0.0016695389918138734,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Wholesale trade",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 31,
+    "t_weight": 0.0016695389918138734,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Business and repair services",
+      "occupation_code_detailed": "Technicians and related support",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 30,
+    "t_weight": 0.0016156828953037485,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Entertainment",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 30,
+    "t_weight": 0.0016156828953037485,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Finance insurance and real estate",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 30,
+    "t_weight": 0.0016156828953037485,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Finance insurance and real estate",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 30,
+    "t_weight": 0.0016156828953037485,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Personal services except private HH",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 30,
+    "t_weight": 0.0016156828953037485,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-nondurable goods",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 29,
+    "t_weight": 0.0015618267987936234,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Not in universe or children",
+      "occupation_code_detailed": "Not in universe",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary incomplete"
+    },
+    "count_target": 29,
+    "t_weight": 0.0015618267987936234,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Public administration",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 29,
+    "t_weight": 0.0015618267987936234,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Mining",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 28,
+    "t_weight": 0.0015079707022834985,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Communications",
+      "occupation_code_detailed": "Precision production craft & repair",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 27,
+    "t_weight": 0.0014541146057733736,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Hospital services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 27,
+    "t_weight": 0.0014541146057733736,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 27,
+    "t_weight": 0.0014541146057733736,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Medical except hospital",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 27,
+    "t_weight": 0.0014541146057733736,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Not in universe or children",
+      "occupation_code_detailed": "Not in universe",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Primary/elementary"
+    },
+    "count_target": 27,
+    "t_weight": 0.0014541146057733736,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Other professional services",
+      "occupation_code_detailed": "Professional specialty",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Doctorate"
+    },
+    "count_target": 27,
+    "t_weight": 0.0014541146057733736,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Retail trade",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Spouse of householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 27,
+    "t_weight": 0.0014541146057733736,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Transportation",
+      "occupation_code_detailed": "Adm support including clerical",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "University degree"
+    },
+    "count_target": 27,
+    "t_weight": 0.0014541146057733736,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Manufacturing-durable goods",
+      "occupation_code_detailed": "Sales",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Postsecondary non-degree"
+    },
+    "count_target": 26,
+    "t_weight": 0.0014002585092632487,
+    "target_class": ">50K"
+  },
+  {
+    "rule": {
+      "industry_code_detailed": "Transportation",
+      "occupation_code_detailed": "Executive admin and managerial",
+      "household_family_status": "Householder",
+      "state_prev_residence": "Not in universe",
+      "education": "Secondary complete"
+    },
+    "count_target": 26,
+    "t_weight": 0.0014002585092632487,
+    "target_class": ">50K"
+  }
+]
