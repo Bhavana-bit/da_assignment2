@@ -1,0 +1,61 @@
+{
+  "missing_value": "?",
+  "root_value": "ANY",
+  "hierarchies": [
+    {
+      "name": "industry",
+      "levels": ["industry_code_detailed", "industry_code_major"],
+      "mapping_source": {
+        "child_column": "industry_code_detailed",
+        "parent_column": "industry_code_major"
+      }
+    },
+    {
+      "name": "occupation",
+      "levels": ["occupation_code_detailed", "occupation_code_major"],
+      "mapping_source": {
+        "child_column": "occupation_code_detailed",
+        "parent_column": "occupation_code_major"
+      }
+    },
+    {
+      "name": "household",
+      "levels": ["household_family_status", "household_summary"],
+      "mapping_source": {
+        "child_column": "household_family_status",
+        "parent_column": "household_summary"
+      }
+    },
+    {
+      "name": "previous_residence",
+      "levels": ["state_prev_residence", "region_prev_residence"],
+      "mapping_source": {
+        "child_column": "state_prev_residence",
+        "parent_column": "region_prev_residence"
+      }
+    },
+    {
+      "name": "education",
+      "levels": ["education", "education_group"],
+      "mapping": {
+        "Children": "Not applicable",
+        "Less than 1st grade": "Primary/elementary",
+        "1st 2nd 3rd or 4th grade": "Primary/elementary",
+        "5th or 6th grade": "Primary/elementary",
+        "7th and 8th grade": "Primary/elementary",
+        "9th grade": "Secondary incomplete",
+        "10th grade": "Secondary incomplete",
+        "11th grade": "Secondary incomplete",
+        "12th grade no diploma": "Secondary incomplete",
+        "High school graduate": "Secondary complete",
+        "Some college but no degree": "Postsecondary non-degree",
+        "Associates degree-occup /vocational": "Postsecondary non-degree",
+        "Associates degree-academic program": "Postsecondary non-degree",
+        "Bachelors degree(BA AB BS)": "University degree",
+        "Masters degree(MA MS MEng MEd MSW MBA)": "University degree",
+        "Prof school degree (MD DDS DVM LLB JD)": "University degree",
+        "Doctorate degree(PhD EdD)": "Doctorate"
+      }
+    }
+  ]
+}

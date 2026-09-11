@@ -1,0 +1,31 @@
+{
+  "csv_path": "M26_DA_A2_Part2.csv",
+  "rows_compared": 500,
+  "dimensions": [
+    "sex",
+    "race",
+    "marital_status",
+    "tax_filer_status",
+    "employment_status",
+    "class_of_worker",
+    "education",
+    "industry_code_major",
+    "occupation_code_major",
+    "household_summary",
+    "region_prev_residence",
+    "state_prev_residence"
+  ],
+  "minsup": 50,
+  "buc_seconds": 0.040239546000066184,
+  "duckdb_seconds": 4.06042937899997,
+  "record_load_seconds": 0.0033566100000825827,
+  "number_buc_cells": 4318,
+  "number_duckdb_cells": 4318,
+  "cells_only_in_buc": 0,
+  "cells_only_in_duckdb": 0,
+  "support_mismatches": 0,
+  "maximum_absolute_support_difference": 0,
+  "only_in_buc_examples": [],
+  "only_in_duckdb_examples": [],
+  "support_mismatch_examples": []
+}

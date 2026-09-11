@@ -1,0 +1,4289 @@
+region_name,state_abbr,city_name,total_revenue,num_orders
+,,,15799033.70999876,98392
+Southeast,,,10224635.179999337,67643
+Southeast,SP,,5919501.569999843,41360
+South,,,2295785.850000002,14027
+Southeast,SP,são paulo,2147609.700000012,15247
+Southeast,RJ,,2125802.4099999955,12730
+Northeast,,,1874175.2300000032,9307
+Southeast,MG,,1855006.1700000118,11534
+Southeast,RJ,rio de janeiro,1133579.069999996,6721
+Central-West,,,993279.1799999967,5564
+South,RS,,885513.0399999969,5428
+South,PR,,800059.209999997,4987
+South,SC,,610213.6000000011,3612
+Northeast,BA,,610121.9900000015,3350
+Southeast,MG,belo horizonte,418759.54999999946,2758
+North,,,411158.27000000054,1851
+Central-West,GO,,346991.7500000006,1998
+Central-West,DF,,324399.5700000006,1956
+Southeast,ES,,324325.0300000013,2019
+Northeast,PE,,321781.9799999999,1644
+Northeast,CE,,274453.5800000001,1323
+South,PR,curitiba,244739.86999999997,1510
+Central-West,DF,brasilia,237031.12000000034,1447
+South,RS,porto alegre,224064.09,1372
+North,PA,,217033.7899999995,967
+Northeast,BA,salvador,216145.3000000002,1235
+Southeast,SP,campinas,212541.69999999972,1429
+Central-West,MT,,185931.19000000024,901
+Southeast,SP,guarulhos,161411.73,1168
+Northeast,MA,,150178.44999999992,736
+Northeast,PB,,139567.14999999997,530
+Southeast,RJ,niteroi,137919.37999999986,845
+Central-West,MS,,135956.66999999998,709
+Central-West,GO,goiânia,121215.77999999978,669
+Northeast,CE,fortaleza,118646.06999999988,650
+Southeast,SP,sao bernardo do campo,116087.13999999994,909
+Southeast,SP,santos,111670.21000000005,706
+Northeast,PE,recife,111483.5399999999,619
+Northeast,PI,,107529.33999999988,490
+Southeast,SP,santo andre,104566.24999999987,791
+Northeast,RN,,101603.67000000019,480
+Northeast,AL,,96047.7800000001,410
+North,PA,belem,95622.12000000004,441
+Southeast,SP,osasco,93231.72999999985,732
+South,SC,florianopolis,92251.28000000003,519
+Southeast,SP,sao jose dos campos,91958.58999999992,698
+Southeast,SP,jundiai,91406.76999999993,560
+Southeast,SP,sorocaba,87148.83999999992,624
+Southeast,SP,ribeirão preto,78258.46999999994,526
+Southeast,MG,juiz de fora,73676.4599999999,413
+Northeast,SE,,72891.29000000001,344
+Southeast,RJ,nova iguacu,70823.74999999991,439
+Central-West,MS,campo grande,65485.25000000004,315
+Northeast,PB,joao pessoa,63070.910000000025,254
+Southeast,ES,vitoria,62678.32999999998,377
+Northeast,MA,são luís,61385.47000000001,332
+North,TO,,61146.63000000001,278
+Southeast,RJ,são gonçalo,60933.78000000005,400
+Northeast,PI,teresina,60001.309999999954,278
+Southeast,SP,piracicaba,58940.96999999989,366
+Southeast,SP,barueri,58591.63999999993,429
+North,RO,,57295.87,245
+Southeast,MG,uberlândia,56786.08999999994,372
+Southeast,ES,vila velha,56458.35999999997,335
+Southeast,SP,mogi das cruzes,55663.86999999996,361
+Southeast,MG,contagem,55130.71000000001,407
+Southeast,SP,sao jose do rio preto,53752.12000000001,333
+South,PR,londrina,53105.00999999999,303
+Northeast,AL,maceió,51456.59000000001,239
+Southeast,SP,maua,48426.11999999999,319
+Central-West,MT,cuiaba,47104.680000000015,248
+South,PR,maringá,44985.80000000004,267
+Southeast,SP,bauru,44963.33999999998,270
+Northeast,SE,aracaju,44598.80000000001,220
+South,RS,caxias do sul,44321.35999999997,224
+Southeast,SP,praia grande,44261.15000000003,306
+Southeast,RJ,campos dos goytacazes,44022.219999999936,261
+Southeast,ES,serra,42965.76999999996,285
+Southeast,SP,taboão da serra,42947.85999999999,297
+Northeast,RN,natal,42851.000000000015,205
+Southeast,SP,indaiatuba,41834.50999999999,278
+South,SC,joinville,40972.07000000003,263
+Southeast,RJ,duque de caxias,39908.04999999997,263
+Southeast,SP,são caetano do sul,39691.049999999974,294
+Southeast,RJ,petropolis,39578.92999999996,238
+Southeast,MG,divinopolis,38792.23999999999,135
+Southeast,RJ,volta redonda,38645.95000000001,228
+Central-West,DF,taguatinga,38328.08999999999,225
+Southeast,RJ,macae,37607.24999999996,237
+Southeast,SP,marília,37493.97000000001,196
+Southeast,SP,carapicuiba,37266.979999999974,325
+South,RS,santa maria,37224.65000000001,194
+Southeast,SP,cotia,35267.18000000001,248
+Southeast,SP,taubate,34742.909999999996,267
+Southeast,MG,betim,34349.919999999984,201
+Southeast,SP,sao carlos,34193.06999999997,233
+Southeast,SP,diadema,33993.359999999964,284
+Southeast,SP,guaruja,33687.80999999998,224
+Southeast,MG,uberaba,33337.750000000015,189
+Northeast,BA,feira de santana,32466.800000000007,185
+South,RS,canoas,31982.83000000001,209
+Southeast,MG,montes claros,31487.39,211
+Southeast,SP,presidente prudente,29912.289999999994,160
+South,SC,blumenau,29242.920000000006,187
+Southeast,SP,suzano,29068.73999999999,233
+Southeast,SP,americana,28679.729999999978,221
+Southeast,RJ,nova friburgo,27884.080000000005,139
+North,AM,,27835.729999999996,147
+South,PR,cascavel,27649.609999999986,148
+South,RS,pelotas,27356.590000000004,184
+Southeast,SP,sao paulo,27166.369999999995,173
+Southeast,SP,limeira,26374.17,189
+Southeast,MG,ipatinga,26176.78,171
+North,RO,porto velho,26121.91999999999,109
+Southeast,SP,santana de parnaíba,25827.750000000022,177
+North,AM,manaus,25793.059999999987,139
+Southeast,SP,valinhos,25660.619999999988,183
+Southeast,SP,embu,24966.300000000007,175
+Southeast,SP,franca,24677.89,149
+Southeast,SP,sumaré,24618.779999999995,181
+Northeast,PB,campina grande,24460.85999999999,75
+South,SC,são josé,24347.43000000001,168
+Southeast,MG,pouso alegre,24195.410000000007,131
+Southeast,RJ,rio das ostras,23827.820000000007,136
+Southeast,SP,atibaia,23786.410000000003,157
+Southeast,SP,sao vicente,23743.4,163
+Northeast,PE,jaboatão dos guararapes,23587.240000000005,124
+Southeast,MG,nova lima,23287.84,98
+Southeast,SP,rio claro,23268.910000000007,153
+Southeast,SP,araraquara,23201.749999999996,154
+Southeast,MG,governador valadares,23184.609999999993,139
+Southeast,RJ,barra mansa,23042.799999999985,121
+South,RS,novo hamburgo,22932.32000000001,122
+Southeast,SP,bragança paulista,22683.229999999992,144
+South,PR,ponta grossa,22152.280000000002,142
+South,SC,itajai,22126.970000000012,120
+Southeast,RJ,sao joao de meriti,22001.109999999993,132
+Southeast,SP,itaquaquecetuba,21929.33000000001,171
+North,TO,palmas,21790.369999999984,90
+South,RS,gravataí,21719.359999999993,112
+Southeast,RJ,angra dos reis,21654.729999999996,85
+North,AC,,21518.829999999998,100
+Southeast,SP,itapevi,21151.41,170
+North,PA,ananindeua,21006.53,87
+Southeast,SP,jacareí,20887.740000000013,189
+Southeast,ES,cariacica,20593.75,138
+Southeast,RJ,teresopolis,20266.360000000004,119
+Southeast,MG,sete lagoas,20239.320000000003,127
+Southeast,RJ,cabo frio,20078.220000000005,116
+Southeast,MG,pocos de caldas,20016.030000000002,119
+Central-West,DF,cruzeiro,19970.550000000007,104
+Northeast,BA,vitoria da conquista,19549.93,90
+Southeast,SP,aracatuba,19457.08000000001,139
+South,RS,rio grande,19450.49,124
+South,SC,balneario camboriu,19408.90000000001,100
+Southeast,MG,patos de minas,19346.97999999999,100
+Southeast,ES,cachoeiro de itapemirim,19282.440000000006,122
+Southeast,RJ,araruama,19196.05,77
+Southeast,SP,botucatu,18983.05,100
+Central-West,GO,anápolis,18869.519999999993,105
+Southeast,SP,paulínia,18790.840000000007,129
+Southeast,SP,hortolandia,18748.56999999999,145
+Southeast,MG,viçosa,18714.730000000003,90
+Southeast,RJ,mage,18581.770000000008,109
+South,RS,passo fundo,18163.870000000014,113
+South,SC,criciuma,17812.23,92
+South,SC,chapecó,17750.750000000004,103
+South,PR,são josé dos pinhais,17555.02,130
+Northeast,PE,petrolina,16796.61,64
+Southeast,RJ,resende,16787.960000000003,119
+Southeast,RJ,marica,16774.19,124
+Southeast,RJ,belford roxo,16552.320000000003,111
+Southeast,SP,guaratinguetá,16507.170000000002,95
+Southeast,MG,itajuba,16505.199999999997,94
+North,AP,,16262.799999999996,68
+Southeast,SP,birigüi,16247.189999999995,75
+Southeast,MG,varginha,16097.100000000002,88
+Central-West,GO,aparecida de goiânia,16038.369999999997,102
+Southeast,RJ,nilópolis,15810.210000000001,105
+Northeast,PE,olinda,15650.040000000008,93
+Southeast,SP,caraguatatuba,15499.29,88
+South,SC,jaragua do sul,15356.050000000003,89
+North,AC,rio branco,15317.66,63
+Southeast,MG,lavras mg,15307.959999999992,83
+Northeast,BA,porto seguro,15307.480000000005,45
+Southeast,SP,araras,15187.250000000004,94
+Southeast,MG,araxá,15147.01,76
+Southeast,SP,caieiras,15133.21,99
+Southeast,SP,pindamonhangaba,14840.340000000006,101
+Southeast,MG,ribeirão das neves,14740.570000000003,98
+Southeast,SP,itu,14560.270000000011,134
+Southeast,MG,barbacena,14321.699999999997,80
+Southeast,SP,ourinhos,14316.780000000002,77
+Southeast,SP,jaguariúna,14158.730000000001,67
+Central-West,MT,rondonopolis,14105.630000000003,65
+Southeast,SP,itapetininga,14048.450000000004,77
+Southeast,SP,mogi guaçu,13972.329999999998,91
+South,PR,foz do iguaçu,13902.67,87
+Southeast,SP,assis,13819.310000000007,84
+North,AP,macapá,13666.029999999995,54
+Southeast,SP,itatiba,13634.010000000006,97
+Southeast,SP,sao joao da boa vista,13608.180000000011,81
+Southeast,MG,santa luzia,13575.689999999997,91
+South,SC,palhoca,13550.249999999995,94
+Southeast,SP,ferraz de vasconcelos,13392.890000000007,104
+Northeast,CE,sobral,13295.73,35
+South,RS,sao leopoldo,13225.18,104
+Southeast,SP,amparo,13001.82,66
+Northeast,BA,barreiras,12945.760000000002,52
+Southeast,MG,itabira,12741.86,79
+Southeast,SP,varzea paulista,12659.480000000003,78
+Southeast,ES,linhares,12565.020000000002,53
+Southeast,MG,muriaé,12562.870000000004,63
+Northeast,PE,caruaru,12512.210000000003,63
+Southeast,SP,itanhaem,12338.120000000004,79
+Southeast,SP,votorantim,12245.149999999998,85
+Southeast,SP,salto,12186.320000000003,94
+South,SC,tubarao,12125.77,60
+Southeast,MG,araguari,12048.939999999997,54
+Southeast,ES,guarapari,12021.139999999996,67
+South,RS,santa cruz do sul,11974.650000000001,62
+Southeast,SP,franco da rocha,11893.330000000007,109
+South,SC,lages,11848.490000000005,73
+Central-West,GO,rio verde,11834.949999999993,64
+Southeast,SP,ribeirao pires,11780.630000000005,107
+Southeast,SP,cacapava,11752.649999999998,74
+South,PR,toledo,11688.659999999996,70
+Southeast,SP,catanduva,11430.290000000005,75
+South,SC,videira,11379.619999999997,57
+Central-West,GO,jataí,11337.939999999995,54
+Southeast,MG,caratinga,11211.449999999997,62
+Southeast,MG,conselheiro lafaiete,11192.379999999997,84
+Northeast,BA,lauro de freitas,11162.120000000003,74
+South,RS,cachoeirinha,10975.339999999998,72
+Southeast,SP,sao roque,10927.99,78
+Southeast,RJ,mesquita,10927.319999999996,75
+Southeast,SP,barretos,10860.640000000003,73
+Southeast,SP,jau,10847.519999999997,73
+Northeast,BA,ilhéus,10822.67,70
+South,PR,paranagua,10813.830000000002,59
+Southeast,SP,poa,10803.800000000003,85
+South,RS,bage,10791.900000000001,63
+Southeast,SP,francisco morato,10781.31,98
+Southeast,SP,vinhedo,10718.830000000004,94
+Southeast,SP,santa barbara d oeste,10626.7,84
+South,PR,pato branco,10599.579999999998,53
+Central-West,MS,dourados,10596.640000000001,64
+Southeast,SP,bertioga,10590.620000000006,48
+South,SC,gaspar,10582.330000000002,27
+Southeast,SP,lins,10399.730000000001,55
+Southeast,SP,tatuí,10381.15,59
+Southeast,SP,mairipora,10345.670000000004,75
+Southeast,SP,ubatuba,10303.160000000005,76
+Southeast,SP,mogi-mirim,10290.66,78
+Southeast,SP,itapecerica da serra,10245.850000000002,98
+Southeast,MG,paracatu,10182.22,63
+Northeast,AL,arapiraca,10150.03,29
+Northeast,BA,itabuna,10149.32,61
+South,PR,pinhais,10146.84,67
+Southeast,RJ,rio janeiro,10131.659999999998,49
+South,PR,guarapuava,10117.630000000003,64
+Southeast,MG,manhuacu,10066.599999999997,64
+North,RR,,10064.619999999997,46
+Southeast,SP,cajamar,10031.730000000001,84
+North,RR,boa vista,9892.929999999998,45
+Southeast,MG,são joão del rei,9889.990000000002,67
+Southeast,SP,pirassununga,9866.230000000001,69
+Southeast,SP,votuporanga,9740.189999999999,63
+Southeast,MG,lagoa santa,9721.159999999998,59
+South,SC,brusque,9714.82,60
+Southeast,SP,avare,9713.470000000003,63
+Southeast,SP,jandira,9658.309999999998,84
+Southeast,MG,teofilo otoni,9586.630000000003,75
+Northeast,BA,luís eduardo magalhães,9538.69,36
+Southeast,SP,lorena,9471.610000000002,83
+South,RS,lajeado,9440.380000000001,50
+Northeast,RN,parnamirim,9400.969999999998,59
+Southeast,MG,itaúna,9236.130000000001,57
+South,PR,colombo,9174.640000000001,61
+Central-West,DF,guará,9157.120000000004,41
+Southeast,SP,leme,9157.010000000004,50
+Northeast,MA,imperatriz,9144.78,40
+Southeast,MG,nova serrana,9127.500000000002,51
+Southeast,MG,timoteo,9041.119999999999,53
+Southeast,SP,sao sebastiao,9019.920000000002,49
+South,PR,apucarana,8993.339999999997,54
+Northeast,BA,juazeiro,8954.58,44
+Southeast,SP,itapira,8605.019999999999,54
+Northeast,CE,juazeiro do norte,8586.069999999998,34
+South,PR,campo mourao,8579.690000000002,56
+Southeast,SP,boituva,8556.880000000001,49
+Southeast,ES,colatina,8552.72,65
+Southeast,SP,matao,8449.77,52
+Southeast,MG,ibirité,8449.080000000004,49
+Southeast,MG,ouro preto,8439.040000000005,58
+Southeast,SP,fernandopolis,8409.209999999997,53
+North,TO,araguaína,8382.340000000002,33
+South,PR,paranavaí,8379.450000000004,46
+Central-West,MS,três lagoas,8363.920000000002,40
+South,RS,bento gonçalves,8359.349999999999,55
+Southeast,MG,joao monlevade,8264.990000000002,51
+Central-West,MT,varzea grande,8163.100000000001,41
+Southeast,SP,aruja,8125.97,67
+Southeast,MG,patrocínio,8108.199999999999,46
+South,RS,viamão,8101.119999999998,72
+Southeast,MG,ponte nova,8090.340000000002,40
+Southeast,RJ,três rios,8084.49,39
+Southeast,RJ,itaperuna,8081.539999999999,47
+Southeast,MG,unai,8064.509999999998,54
+South,PR,francisco beltrão,8055.569999999999,50
+Southeast,SP,cubatão,8045.280000000002,77
+Southeast,SP,sertaozinho,8003.770000000002,62
+Southeast,MG,para de minas,7994.590000000002,37
+Southeast,RJ,itaboraí,7951.490000000001,56
+Northeast,BA,eunapolis,7916.78,38
+South,RS,erechim,7883.779999999999,58
+Southeast,SP,jaboticabal,7874.529999999998,54
+Southeast,SP,peruíbe,7865.639999999998,44
+Southeast,MG,pirapora,7842.1600000000035,42
+Northeast,BA,paulo afonso,7842.130000000003,39
+Central-West,MT,sinop,7814.6500000000015,42
+Northeast,BA,jacobina,7766.0999999999985,24
+Southeast,SP,cosmópolis,7751.950000000003,52
+Southeast,MG,uba,7733.999999999998,53
+Southeast,SP,andradina,7651.94,43
+Southeast,RJ,barra do pirai,7648.260000000003,61
+Northeast,BA,camaçari,7619.489999999998,57
+Southeast,SP,lençóis paulista,7565.4800000000005,43
+Southeast,RJ,paracambi,7516.230000000001,35
+South,SC,florian&oacute;polis,7510.999999999998,44
+Southeast,SP,tupa,7490.939999999996,52
+South,PR,arapongas,7479.900000000002,34
+South,RS,esteio,7466.140000000002,41
+Southeast,SP,cruzeiro,7458.77,56
+Southeast,RJ,itaguaí,7432.630000000002,47
+Northeast,BA,alagoinhas,7428.329999999998,40
+Northeast,BA,valença,7406.42,35
+Southeast,ES,sao mateus,7380.499999999998,44
+Southeast,RJ,queimados,7380.399999999999,54
+South,RS,alvorada,7368.620000000001,50
+Southeast,SP,itapeva,7300.209999999998,52
+North,PA,santarem,7272.6399999999985,44
+South,SC,sao miguel do oeste,7241.379999999999,40
+South,SC,itapema,7233.420000000001,44
+South,RS,osorio,7225.750000000002,35
+South,RS,cachoeira do sul,7223.410000000001,32
+Southeast,SP,registro,7186.38,46
+Southeast,MG,vespasiano,7108.710000000001,43
+Southeast,SP,mococa,7108.5599999999995,34
+Central-West,MT,primavera do leste,7092.91,28
+Northeast,CE,caucaia,7092.719999999998,35
+Northeast,PE,paulista,7076.619999999998,41
+Southeast,SP,embu-guaçu,7062.819999999999,46
+Southeast,MG,guaxupe,6967.000000000003,37
+South,PR,rolândia,6955.900000000001,27
+South,RS,ijuí,6870.159999999998,52
+South,RS,sapucaia do sul,6868.660000000002,40
+Southeast,SP,artur nogueira,6845.3,41
+South,SC,concórdia,6836.350000000002,47
+Southeast,RJ,casimiro de abreu,6798.69,33
+Southeast,MG,ituiutaba,6794.8,55
+Southeast,MG,curvelo,6734.369999999999,43
+Central-West,MT,lucas do rio verde,6627.809999999998,24
+Northeast,MA,balsas,6607.739999999999,17
+Southeast,SP,olimpia,6600.43,37
+Southeast,SP,vargem grande paulista,6595.940000000002,44
+South,RS,santo angelo,6578.63,46
+Central-West,GO,itumbiara,6570.69,36
+South,PR,umuarama,6542.9000000000015,39
+Southeast,MG,alfenas,6539.450000000001,43
+Northeast,RN,mossoro,6519.480000000002,36
+South,SC,taió,6475.800000000001,15
+Central-West,GO,catalao,6440.9,34
+Central-West,GO,valparaiso de goias,6424.510000000001,37
+Southeast,RJ,arraial do cabo,6409.310000000001,29
+North,PA,altamira,6399.839999999997,25
+Southeast,SP,mirassol,6383.329999999998,29
+Southeast,RJ,valenca,6369.200000000002,32
+Southeast,RJ,paraty,6338.450000000001,32
+Southeast,SP,itupeva,6323.219999999999,44
+North,PA,parauapebas,6280.710000000002,31
+South,PR,araucaria,6255.869999999998,54
+Southeast,SP,mongagua,6232.17,42
+Central-West,GO,caldas novas,6204.569999999999,36
+Southeast,SP,batatais,6158.210000000001,28
+Southeast,SP,adamantina,6154.090000000001,36
+Southeast,SP,bebedouro,6140.509999999999,51
+South,RS,guaiba,6139.13,31
+Central-West,GO,formosa,6124.119999999999,34
+Southeast,RJ,bom jardim,6113.989999999999,24
+South,SC,sao bento do sul,6105.45,44
+Southeast,RJ,santo antônio de pádua,6064.969999999999,31
+Southeast,MG,arcos,5989.360000000002,25
+North,TO,gurupi,5984.389999999999,23
+Southeast,SP,sao jose do rio pardo,5971.049999999998,44
+South,PR,união da vitória,5962.500000000001,28
+North,PA,tucuruí,5931.749999999999,17
+Central-West,MT,campo novo do parecis,5915.780000000001,16
+Southeast,MG,santa barbara,5889.97,26
+Southeast,MG,itabirito,5886.35,29
+Southeast,MG,pedro leopoldo,5875.049999999999,40
+Southeast,SP,campo limpo paulista,5841.24,48
+South,PR,mandaguari,5829.06,18
+Northeast,BA,guanambi,5801.059999999999,37
+Northeast,BA,jequié,5766.869999999999,34
+Northeast,CE,maracanau,5723.519999999998,32
+Southeast,RJ,são pedro da aldeia,5712.969999999999,46
+South,RS,uruguaiana,5712.599999999999,48
+South,SC,rio do sul,5695.130000000002,35
+South,PR,cianorte,5691.549999999998,39
+Southeast,MG,salinas,5691.16,22
+Southeast,RJ,japeri,5682.820000000001,34
+Central-West,MT,caceres,5668.56,25
+South,RS,montenegro,5632.509999999998,32
+South,RS,capão da canoa,5629.08,38
+Central-West,MS,corumba,5627.08,27
+Southeast,RJ,búzios,5612.870000000001,29
+South,RS,santo antonio da patrulha,5603.12,17
+Southeast,SP,louveira,5596.559999999997,44
+Southeast,SP,taquaritinga,5557.629999999999,35
+Southeast,MG,bom despacho,5554.599999999999,38
+Southeast,SP,penapolis,5549.26,37
+Southeast,MG,sao sebastiao do paraiso,5509.71,35
+Southeast,MG,tres coracoes,5476.22,41
+South,SC,cacador,5469.620000000001,40
+Southeast,SP,tremembé,5462.700000000001,38
+South,PR,telemaco borba,5458.209999999999,34
+South,SC,botuvera,5450.69,18
+Central-West,MT,juína,5417.129999999999,17
+Southeast,SP,santo antonio de posse,5393.22,20
+Northeast,PE,garanhuns,5368.34,31
+Southeast,SP,piraju,5365.750000000001,18
+Southeast,SP,capivari,5363.369999999999,34
+Southeast,RJ,vassouras,5336.56,37
+South,RS,alegrete,5296.240000000001,35
+South,SC,canoinhas,5291.0199999999995,27
+Southeast,MG,ouro branco,5283.79,41
+South,RS,campo bom,5283.35,36
+Southeast,MG,cataguases,5273.520000000001,33
+Northeast,PI,parnaiba,5261.510000000001,23
+Southeast,RJ,seropedica,5256.3499999999985,33
+Southeast,MG,extrema,5251.990000000001,40
+South,SC,joacaba,5233.090000000002,26
+Northeast,BA,simões filho,5223.070000000001,21
+Southeast,MG,mariana,5212.95,33
+South,PR,fazenda rio grande,5204.96,29
+Southeast,MG,carangola,5198.49,27
+Southeast,MG,passos,5189.809999999999,43
+Southeast,SP,dracena,5186.390000000002,27
+Southeast,MG,sabará,5176.76,41
+Northeast,BA,santo antônio de jesus,5146.04,30
+Southeast,SP,monte mor,5074.09,39
+South,PR,almirante tamandare,5041.83,35
+Southeast,MG,formiga,5033.34,32
+Southeast,RJ,rio bonito,5013.789999999999,28
+Southeast,MG,sao lourenco,4988.96,33
+Southeast,SP,promissão,4980.68,32
+Southeast,MG,coronel fabriciano,4976.480000000001,41
+North,RO,ariquemes,4969.64,13
+Southeast,ES,aracruz,4968.830000000001,38
+South,RS,taquara,4954.91,21
+Southeast,SP,são joaquim da barra,4952.039999999999,34
+Central-West,MT,barra do garcas,4924.3,25
+Southeast,MG,bom jesus do galho,4923.81,4
+South,RS,santana do livramento,4911.299999999999,20
+South,SC,xanxerê,4906.490000000002,29
+Southeast,SP,tietê,4871.7300000000005,36
+Central-West,MT,tangara da serra,4870.22,24
+Southeast,RJ,miguel pereira,4839.550000000001,32
+Central-West,DF,gama,4824.85,29
+Northeast,PB,patos,4795.279999999999,16
+Northeast,PE,camaragibe,4762.900000000001,35
+South,SC,biguacu,4753.849999999999,22
+North,RO,ji-parana,4748.7699999999995,19
+Southeast,MG,piumhii,4737.630000000001,31
+South,PR,campo largo,4725.210000000001,37
+Southeast,SP,pereira barreto,4723.13,19
+Southeast,RJ,saquarema,4722.39,36
+Southeast,MG,santa rita do sapucaí,4687.130000000001,35
+Southeast,SP,barra bonita,4682.95,29
+North,PA,abaetetuba,4672.27,11
+Southeast,SP,santa fe do sul,4668.629999999999,35
+Southeast,MG,carmo do paranaiba,4652.950000000001,16
+Central-West,MS,ponta pora,4652.16,18
+Central-West,GO,luziânia,4630.7,25
+Southeast,RJ,rj,4625.92,23
+Northeast,CE,russas,4622.34,9
+Southeast,MG,andradas,4595.969999999999,12
+South,PR,cambe,4559.0599999999995,27
+Southeast,SP,orlândia,4552.400000000001,28
+North,PA,maraba,4551.42,22
+Southeast,MG,santa vitoria,4546.180000000001,17
+South,SC,imbituba,4540.26,34
+Southeast,SP,itarare,4520.989999999999,28
+North,PA,castanhal,4500.219999999999,21
+Northeast,PI,picos,4493.759999999999,17
+Northeast,CE,pacatuba,4469.860000000001,5
+South,SC,timbó,4468.119999999999,20
+Southeast,SP,santa barbara doeste,4423.980000000001,36
+Southeast,SP,guaíra,4423.03,36
+Northeast,PE,trindade,4406.200000000001,4
+South,RS,sapiranga,4404.819999999998,25
+Southeast,SP,ituverava,4372.430000000001,29
+South,PR,castro,4347.650000000001,22
+South,PR,marechal candido rondon,4326.85,31
+Southeast,ES,guaçuí,4311.75,16
+Southeast,SP,presidente venceslau,4298.7699999999995,25
+Southeast,SP,nova odessa,4278.09,28
+Southeast,SP,alvares machado,4227.42,8
+Central-West,GO,mineiros,4219.64,25
+Southeast,SP,aparecida,4208.91,25
+Northeast,CE,iguatu,4202.500000000001,14
+Northeast,BA,cicero dantas,4156.379999999998,10
+South,SC,tijucas,4144.17,30
+Southeast,MG,frutal,4116.67,26
+Southeast,SP,ilhabela,4112.150000000001,45
+Southeast,SP,martinópolis,4084.1099999999997,8
+Northeast,PB,catole do rocha,4066.69,6
+South,RS,panambi,4059.15,17
+Southeast,SP,cerqueira cesar,4059.120000000001,18
+Northeast,BA,campo formoso,4054.34,10
+South,SC,indaial,4052.060000000001,26
+Southeast,MG,januária,4050.95,22
+South,PR,laranjeiras do sul,4039.1699999999996,20
+Southeast,SP,itapolis,4017.499999999999,28
+Southeast,RJ,bom jesus do itabapoana,4011.2699999999995,20
+Southeast,SP,ibiuna,4009.9300000000007,31
+Central-West,MT,sorriso,4009.0299999999993,20
+South,RS,são luiz gonzaga,4008.720000000001,15
+Southeast,SP,campos do jordao,3997.0199999999995,26
+South,RS,guapore,3987.0600000000013,18
+Central-West,GO,posse,3986.7200000000003,16
+Central-West,MT,alta floresta,3951.08,12
+Central-West,GO,pires do rio,3930.0300000000007,12
+Northeast,SE,itabaiana,3929.66,16
+Southeast,MG,ipanema,3916.27,7
+Southeast,SP,são pedro,3903.33,12
+Southeast,RJ,paraiba do sul,3897.69,20
+Northeast,CE,crato,3895.83,19
+Northeast,MA,bacabal,3883.4999999999995,11
+Southeast,SP,cerquilho,3861.71,30
+South,RS,dois irmãos,3847.42,17
+South,RS,cruz alta,3836.93,32
+South,RS,gramado,3822.9500000000007,30
+Southeast,MG,monte carmelo,3819.480000000001,24
+South,RS,ibirubá,3806.4299999999994,21
+Southeast,RJ,cachoeiras de macacu,3795.11,31
+South,SC,camboriu,3789.08,28
+Southeast,SP,cachoeira paulista,3768.0099999999993,25
+Southeast,SP,águas de lindóia,3758.3600000000006,22
+Southeast,MG,espera feliz,3751.42,19
+Southeast,SP,guararapes,3750.050000000001,19
+Southeast,SP,jales,3746.8100000000004,29
+Southeast,MG,janaúba,3699.2200000000003,17
+South,RS,santa rosa,3667.060000000001,33
+Southeast,MG,claudio,3664.0699999999997,22
+Southeast,ES,viana,3661.55,19
+Northeast,CE,itapaje,3661.21,7
+Southeast,MG,cambuí,3660.8099999999995,22
+Southeast,SP,sao manuel,3655.8700000000003,21
+Central-West,DF,santa maria,3623.019999999999,25
+Southeast,SP,capão bonito,3622.1700000000005,28
+Southeast,MG,congonhas,3618.8300000000004,30
+Northeast,PE,cabo de santo agostinho,3618.2499999999995,21
+Northeast,BA,valente,3614.1000000000004,9
+Central-West,MT,nova xavantina,3602.16,10
+Southeast,SP,serra negra,3599.5099999999998,14
+Northeast,CE,aracati,3596.2500000000005,22
+South,SC,ituporanga,3580.25,15
+Southeast,SP,garça,3577.3800000000006,28
+Southeast,RJ,guapimirim,3568.8900000000003,22
+Northeast,PE,escada,3556.7000000000003,10
+Northeast,BA,ipira,3555.2299999999996,7
+South,PR,medianeira,3549.8100000000004,22
+Southeast,MG,além paraíba,3548.32,28
+South,PR,matinhos,3538.8300000000004,27
+Southeast,SP,juquitiba,3529.9899999999993,21
+Southeast,SP,porto feliz,3521.8999999999996,22
+Central-West,MS,maracaju,3511.2100000000005,13
+North,PA,rondon do pará,3484.39,9
+Northeast,BA,brumado,3474.1900000000005,22
+South,SC,curitibanos,3469.8,20
+Southeast,SP,macatuba,3452.4499999999994,12
+Southeast,SP,pederneiras,3450.0099999999993,21
+Southeast,SP,barrinha,3439.5699999999993,20
+South,RS,estancia velha,3425.12,19
+South,SC,braco do norte,3423.4199999999996,20
+Southeast,SP,quatá,3417.2900000000004,12
+Northeast,PE,santa cruz do capibaribe,3409.190000000001,13
+Southeast,SP,pedreira,3391.29,36
+South,RS,trindade do sul,3372.73,4
+Southeast,SP,ibitinga,3368.45,22
+South,RS,venâncio aires,3352.8400000000006,26
+Southeast,SP,mairinque,3346.7000000000007,25
+Northeast,RN,alto do rodrigues,3346.7,8
+Southeast,SP,santa cruz do rio pardo,3343.1700000000005,35
+Central-West,MT,água boa,3336.8200000000006,18
+South,SC,porto uniao,3329.4300000000003,14
+South,SC,garopaba,3326.7100000000005,23
+South,PR,mandaguaçu,3325.86,4
+Southeast,MG,buritizeiro,3315.51,9
+Southeast,RJ,quissama,3309.22,13
+South,SC,santo amaro da imperatriz,3296.0499999999997,12
+South,RS,tramandaí,3289.9200000000005,25
+Southeast,SP,santa isabel,3289.4500000000007,29
+Southeast,SP,monte azul paulista,3287.1000000000004,19
+Southeast,ES,marataizes,3274.3100000000004,16
+Southeast,ES,alegre,3265.0099999999998,17
+Southeast,SP,piedade,3261.850000000001,23
+Southeast,MG,oliveira,3255.1000000000004,23
+Northeast,BA,senhor do bonfim,3241.66,19
+Northeast,BA,ibotirama,3233.2000000000003,7
+Northeast,RN,caico,3215.3100000000004,10
+Southeast,MG,almenara,3212.33,14
+Southeast,SP,novo horizonte,3210.62,17
+South,RS,encantado,3196.45,11
+Southeast,SP,piracaia,3184.7900000000004,22
+Southeast,MG,machado,3182.8,21
+Northeast,RN,pau dos ferros,3176.8100000000004,9
+Northeast,CE,quixada,3176.57,12
+Southeast,ES,venda nova do imigrante-es,3171.2200000000003,15
+Northeast,BA,itapetinga,3169.5,18
+Northeast,MA,codo,3163.9800000000005,8
+Northeast,SE,estância,3157.9500000000003,9
+Northeast,BA,bom jesus da lapa,3153.6900000000005,9
+Southeast,MG,caeté,3153.0499999999997,27
+Northeast,BA,dias d'ávila,3147.5499999999993,25
+Northeast,PI,floriano,3145.5100000000007,18
+Southeast,MG,jacutinga,3136.2400000000002,18
+Southeast,SP,cunha,3118.0000000000005,14
+South,PR,marialva,3115.0200000000004,16
+Southeast,SP,rancharia,3113.0,22
+South,RS,imbe,3105.6699999999996,13
+Southeast,MG,taiobeiras,3103.8,13
+Southeast,SP,holambra,3102.05,23
+Southeast,RJ,cordeiro,3098.4300000000003,24
+Southeast,MG,são joão nepomuceno,3088.13,14
+Southeast,RJ,natividade,3081.95,15
+Southeast,SP,iperó,3079.7999999999993,18
+Southeast,MG,sao gotardo,3078.920000000001,20
+Southeast,MG,santana do paraiso,3077.7299999999996,16
+North,RO,vilhena,3076.5299999999997,18
+Southeast,SP,bariri,3075.2199999999993,15
+Southeast,SP,pirapora do bom jesus,3067.5400000000004,16
+Southeast,SP,monte alto,3066.6999999999994,33
+Southeast,MG,pitangui,3064.2,22
+Southeast,SP,paraguaçu paulista,3063.9600000000005,20
+South,SC,fraiburgo,3052.72,14
+Northeast,PE,salgueiro,3044.75,17
+Southeast,RJ,campo grande,3044.4300000000003,13
+Southeast,SP,castilho,3043.6,10
+Southeast,MG,nanuque,3029.96,26
+South,RS,vacaria,3016.4299999999994,23
+South,RS,carlos barbosa,3015.4200000000005,19
+Southeast,SP,presidente epitacio,3014.1499999999996,23
+Central-West,GO,trindade,3003.9100000000003,19
+South,PR,dois vizinhos,3000.900000000001,28
+South,PR,irati,2994.16,22
+Northeast,PE,vitoria de santo antao,2988.4700000000003,15
+Northeast,PI,sao raimundo nonato,2987.0399999999995,7
+Southeast,MG,ouro fino,2978.2300000000005,16
+South,RS,santiago,2974.7,26
+Southeast,MG,capelinha,2968.1199999999994,19
+Southeast,ES,nova venécia,2952.6299999999997,19
+Southeast,MG,coromandel,2948.41,25
+South,RS,feliz,2947.850000000001,14
+Southeast,MG,espinosa,2947.44,6
+Central-West,MT,colider,2943.95,8
+Southeast,SP,taquarituba,2942.6000000000004,16
+Northeast,BA,teixeira de freitas,2935.09,19
+South,SC,itapiranga,2921.890000000001,11
+Southeast,MG,diamantina,2907.9300000000003,27
+Southeast,SP,mogidascruzes,2890.79,18
+Northeast,PE,araripina,2888.550000000001,12
+South,RS,veranopolis,2878.08,18
+Northeast,PE,abreu e lima,2871.9199999999996,11
+Southeast,MG,monte siao,2866.4399999999996,20
+Northeast,BA,abrantes,2861.7400000000007,5
+North,PA,pacaja,2860.9599999999996,6
+South,SC,icara,2850.8999999999996,21
+Central-West,GO,goiania,2844.75,18
+South,PR,missal,2838.9900000000002,7
+Southeast,SP,cravinhos,2838.3200000000006,24
+Southeast,SP,tapiratiba,2835.2799999999997,12
+South,RS,sao gabriel,2829.8199999999997,23
+Southeast,RJ,iguaba grande,2829.6500000000005,19
+Southeast,MG,manhumirim,2817.53,16
+Southeast,MG,joao pinheiro,2814.03,16
+Northeast,SE,nossa senhora do socorro,2809.56,14
+Southeast,MG,santa juliana,2803.5400000000004,9
+North,PA,paragominas,2799.86,18
+South,RS,canela,2798.2600000000007,17
+Southeast,MG,brumadinho,2795.2400000000007,26
+Central-West,GO,aguas lindas de goias,2788.7999999999997,24
+South,SC,ararangua,2786.7400000000007,18
+Northeast,CE,crateus,2779.4000000000005,9
+Central-West,MS,aparecida do taboado,2768.5900000000015,7
+Central-West,GO,inhumas,2733.51,16
+Northeast,CE,tiangua,2732.68,9
+Northeast,PE,ouricuri,2730.73,8
+Northeast,MA,fatimarmnte dutra,2729.75,12
+Southeast,MG,araújos,2711.2200000000003,5
+Northeast,CE,eusebio,2707.56,13
+South,PR,cornélio procópio,2705.5800000000004,24
+Central-West,MT,querencia,2701.95,10
+South,SC,laguna,2696.2300000000005,14
+Southeast,SP,ilha solteira,2694.7300000000005,24
+Southeast,SP,americo brasiliense,2688.89,17
+Southeast,SP,rio grande da serra,2681.5899999999997,26
+Southeast,MG,tres pontas,2671.8299999999995,20
+Northeast,BA,irece,2660.9099999999994,13
+Central-West,GO,goiatuba,2648.120000000001,10
+Central-West,GO,ipameri,2641.99,13
+Southeast,SP,socorro,2640.2199999999993,19
+Southeast,MG,guarani,2634.3099999999995,7
+South,RS,marau,2631.9900000000007,22
+Northeast,PE,serra talhada,2625.9500000000003,10
+South,SC,penha,2621.6800000000007,17
+Southeast,SP,itaporanga,2621.13,12
+South,RS,são borja,2616.8900000000003,18
+Southeast,SP,piratininga,2614.56,9
+Northeast,BA,riachao do jacuipe,2613.59,5
+Northeast,MA,caxias,2604.149999999999,16
+Northeast,PE,carpina,2600.23,10
+Northeast,AL,teotonio vilela,2599.38,8
+Southeast,RJ,paty do alferes,2597.7099999999996,13
+Southeast,RJ,sao fidelis,2597.419999999999,23
+Southeast,ES,piúma,2590.17,17
+Southeast,SP,laranjal paulista,2583.8199999999997,17
+South,RS,estrela,2583.6899999999996,16
+Northeast,BA,mucuri,2582.39,9
+South,RS,sao sebastiao do cai,2576.190000000001,13
+Central-West,MT,paranatinga,2574.32,2
+Southeast,MG,nova era,2565.16,15
+Southeast,MG,santos dumont,2559.5799999999995,22
+Southeast,MG,bambui,2558.6800000000003,18
+Southeast,RJ,são joão da barra,2548.1099999999997,15
+Southeast,RJ,piraí,2544.0700000000006,15
+Southeast,SP,porto ferreira,2540.42,27
+Southeast,RJ,pinheiral,2529.3800000000006,14
+Central-West,MS,nova andradina,2527.5499999999997,11
+Southeast,SP,aguaí,2509.95,10
+Central-West,MT,comodoro,2504.2799999999997,7
+Northeast,PE,gravata,2494.0199999999995,11
+Southeast,SP,junqueiropolis,2491.42,15
+Southeast,MG,matias barbosa,2489.6599999999994,13
+South,PR,lapa,2488.54,14
+Northeast,BA,cruz das almas,2486.57,18
+Northeast,BA,serrinha,2481.6000000000004,15
+Southeast,SP,viradouro,2480.9500000000003,18
+Southeast,SP,santa rita do passa quatro,2479.1399999999994,18
+South,RS,quaraí,2474.1499999999996,4
+Southeast,RJ,cambuci,2468.5699999999997,9
+South,RS,carazinho,2466.7400000000002,23
+South,PR,rio negro,2465.8699999999994,15
+Southeast,SP,conchal,2464.8799999999997,19
+Southeast,SP,espírito santo do pinhal,2464.28,18
+Northeast,PE,taquaritinga do norte,2461.9,7
+Southeast,MG,paraisópolis,2453.2199999999993,15
+South,RS,são lourenço do sul,2453.1500000000005,14
+Southeast,MG,barao de cocais,2452.94,18
+Southeast,SP,bofete,2441.59,6
+Southeast,MG,varzea da palma,2440.9699999999993,11
+South,SC,campos novos,2438.3800000000006,14
+North,PA,novo progresso,2436.08,5
+Northeast,PE,igarassu,2420.73,13
+Northeast,BA,jaguarari,2417.35,8
+Northeast,PB,cajazeiras,2410.67,11
+South,RS,cruzeiro do sul,2410.37,4
+Southeast,MG,conselheiro pena,2393.18,15
+Southeast,ES,anchieta,2387.85,14
+South,PR,sarandi,2382.83,18
+Southeast,MG,camanducaia,2381.7599999999998,9
+Central-West,GO,ipora,2362.54,15
+Northeast,SE,lagarto,2362.35,11
+South,PR,palmas,2359.92,19
+Southeast,MG,sacramento,2358.5400000000004,13
+Northeast,CE,ico,2355.3499999999995,8
+South,SC,mafra,2355.0099999999993,26
+South,RS,três de maio,2334.8500000000004,12
+South,RS,farroupilha,2332.43,22
+South,PR,palmeira,2328.24,12
+Northeast,PB,pianco,2324.99,1
+Southeast,MG,santo antonio do monte,2315.53,15
+Southeast,MG,guanhaes,2313.75,18
+Central-West,MS,naviraí,2313.24,8
+Northeast,PE,sanharó,2310.0,3
+Central-West,GO,uruaçu,2307.27,17
+South,SC,bombinhas,2305.3,15
+Northeast,BA,caetité,2300.45,10
+Southeast,RJ,cantagalo,2289.85,17
+South,PR,antonina,2285.4000000000005,10
+South,PR,são mateus do sul,2284.5200000000004,15
+Central-West,GO,cristalina,2275.49,8
+Northeast,AL,sao sebastiao,2269.98,1
+Southeast,SP,miguelópolis,2265.4999999999995,14
+North,PA,tailândia,2256.46,4
+Central-West,GO,novo gama,2255.12,14
+Southeast,SP,pompeia,2252.9499999999994,17
+North,PA,nova esperança do piriá,2252.66,1
+Southeast,MG,caxambu,2245.96,17
+Northeast,MA,timon,2242.63,15
+Southeast,SP,santo anastacio,2240.33,17
+North,TO,paraíso do tocantins,2238.86,10
+Northeast,SE,cedro de são joão,2235.98,3
+Southeast,ES,santa maria de jetibá,2231.0699999999997,15
+Southeast,MG,campo belo,2218.3099999999995,21
+Central-West,GO,piracanjuba,2211.4,10
+Northeast,PB,pombal,2210.2,6
+Southeast,SP,cesario lange,2209.0600000000004,13
+Central-West,MT,mirassol d oeste,2207.23,14
+Southeast,MG,igarapé,2202.09,10
+Southeast,MG,itanhandu,2201.8399999999997,14
+South,PR,goioerê,2191.01,11
+Northeast,BA,santa maria da vitoria,2185.07,13
+South,SC,cocal do sul,2182.24,4
+South,RS,triunfo,2180.86,11
+Southeast,MG,lagoa grande,2175.7700000000004,4
+Southeast,SP,morro agudo,2163.53,10
+South,PR,jaguariaíva,2163.12,18
+Central-West,GO,porangatu,2162.7400000000002,13
+Southeast,SP,santa rosa de viterbo,2159.19,14
+Northeast,PE,belo jardim,2157.69,12
+South,PR,jandaia do sul,2156.7499999999995,8
+Northeast,AL,maragogi,2135.5299999999997,5
+South,RS,eldorado do sul,2127.0400000000004,15
+Southeast,SP,santa adélia,2126.1,16
+South,RS,charqueadas,2125.02,17
+Southeast,SP,osvaldo cruz,2124.3599999999997,16
+Southeast,SP,nova granada,2122.45,19
+Southeast,SP,palmital,2122.0299999999993,18
+Central-West,GO,ceres,2116.38,7
+Northeast,PB,esperanca,2108.09,6
+Southeast,MG,engenheiro navarro,2106.55,1
+Southeast,SP,fartura,2106.4100000000003,10
+Southeast,SP,cajati,2100.6899999999996,16
+Southeast,SP,ipua,2096.16,4
+Southeast,MG,passa quatro,2092.36,10
+North,PA,barcarena,2083.47,11
+Central-West,GO,niquelândia,2080.4300000000003,14
+South,PR,quatro barras,2079.83,18
+Northeast,PE,parnamirim,2079.47,4
+Northeast,CE,camocim,2078.27,8
+Southeast,MG,eloi mendes,2077.9500000000003,10
+South,SC,são joão batista,2075.8900000000003,10
+Southeast,MG,buritis,2075.62,14
+Southeast,ES,ecoporanga,2075.11,18
+Northeast,BA,santo amaro,2066.7400000000002,10
+Northeast,PE,agrestina,2066.34,1
+Southeast,SP,pariquera-acu,2065.21,15
+Southeast,MG,iturama,2064.0799999999995,15
+South,PR,cafelândia,2055.82,12
+South,RS,santa vitoria do palmar,2049.6699999999996,12
+Southeast,MG,esmeraldas,2043.24,14
+Northeast,PB,sapé,2042.83,2
+South,PR,loanda,2042.7900000000002,13
+Southeast,RJ,itaocara,2042.5000000000002,16
+Southeast,MG,leopoldina,2038.2100000000005,17
+South,RS,camaqua,2037.2199999999996,13
+Southeast,MG,itamarandiba,2036.2700000000002,8
+Southeast,RJ,conceição de macabu,2035.17,13
+South,PR,pinhalão,2032.35,7
+Southeast,SP,auriflama,2029.77,10
+Northeast,MA,sao luis,2026.3200000000002,16
+South,PR,mangueirinha,2022.9399999999998,9
+Southeast,RJ,miracema,2021.9699999999998,19
+South,PR,guaratuba,2017.3099999999997,9
+Central-West,MT,paranaita,2016.47,4
+South,SC,barra velha,2014.4100000000003,15
+South,SC,são francisco do sul,2012.7699999999995,17
+South,PR,bandeirantes,2005.85,13
+North,PA,canaã dos carajás,1991.36,9
+Southeast,ES,castelo,1990.94,18
+South,PR,ampere,1985.95,9
+South,RS,parobé,1985.0699999999997,12
+Southeast,ES,itaguaçu,1972.9900000000005,7
+Central-West,MT,pontes e lacerda,1972.9,9
+Northeast,PI,são joão do piauí,1972.7199999999998,6
+Southeast,SP,itai,1972.6600000000003,10
+Southeast,MG,carmo do rio claro,1969.5300000000004,9
+Southeast,MG,são joaquim de bicas,1965.5099999999995,8
+Central-West,GO,alto paraiso de goias,1963.3100000000004,9
+Northeast,MA,santa inês,1956.91,12
+North,TO,alvorada,1954.4399999999998,6
+North,RO,cacoal,1954.0300000000002,9
+Southeast,MG,visconde do rio branco,1952.66,18
+Northeast,CE,brejo santo,1949.35,10
+South,SC,faxinal dos guedes,1948.7700000000002,11
+South,PR,piraquara,1947.2399999999993,14
+Southeast,MG,abaeté,1946.8100000000002,12
+Southeast,MG,mantena,1946.55,11
+Southeast,MG,lagoa da prata,1945.6999999999994,11
+Northeast,PE,ipojuca,1945.2,17
+Southeast,SP,ibate,1944.1200000000001,13
+South,RS,palmeira das missões,1943.52,16
+Southeast,MG,bocaiúva,1943.22,13
+Northeast,PE,catende,1941.6799999999998,7
+Central-West,MS,paranaiba,1937.59,15
+North,PA,ourilandia do norte,1934.3500000000001,5
+Southeast,MG,carmo do cajuru,1932.42,10
+South,SC,xaxim,1928.2500000000002,10
+South,SC,morro da fumaça,1921.45,7
+Central-West,GO,santa fe de goias,1921.27,4
+Southeast,SP,bom jesus dos perdoes,1920.77,17
+Southeast,MG,juíz de fora,1918.6100000000001,13
+Southeast,SP,itajobi,1915.7100000000005,10
+South,RS,ronda alta,1914.31,6
+Central-West,MS,chapadão do sul,1913.41,14
+North,TO,porto nacional,1911.38,8
+South,SC,balneário piçarras,1897.8799999999999,10
+Northeast,BA,camamu,1897.51,9
+Northeast,BA,itamaraju,1883.3200000000002,12
+South,RS,lagoa vermelha,1883.0399999999997,14
+Southeast,RJ,itatiaia,1882.2899999999997,18
+Central-West,DF,riacho fundo,1876.25,13
+Northeast,PE,petrolandia,1875.7199999999996,9
+Northeast,MA,são josé de ribamar,1870.87,14
+South,RS,taquari,1870.8600000000001,11
+Central-West,DF,nucleo bandeirante,1869.85,14
+South,PR,mariental,1867.85,1
+Southeast,ES,montanha,1862.7700000000002,10
+South,RS,canguçu,1860.47,14
+Central-West,MS,coxim,1854.6200000000001,11
+Northeast,CE,campos sales,1853.7800000000002,4
+Southeast,SP,jardinópolis,1851.4799999999996,13
+North,AC,rio de janeiro,1849.1299999999999,19
+Northeast,PE,bom conselho,1848.32,7
+North,PA,jacundá,1844.8200000000002,6
+Southeast,ES,domingos martins,1844.8099999999995,13
+Central-West,MS,sidrolandia,1842.5299999999997,11
+Northeast,CE,nova russas,1842.03,7
+Southeast,RJ,carmo,1839.5100000000002,13
+Southeast,RJ,aperibe,1835.9099999999999,12
+South,RS,torres,1833.32,17
+Southeast,SP,itatinga,1832.1,4
+Northeast,PI,corrente,1831.1399999999999,4
+Southeast,SP,caconde,1829.57,10
+Northeast,PE,gameleira,1827.12,4
+Southeast,MG,paraguacu,1826.2900000000004,12
+South,RS,teutonia,1826.22,14
+Southeast,SP,cândido mota,1824.0999999999995,16
+Northeast,CE,beberibe,1823.9099999999999,3
+Southeast,SP,tambaú,1823.4899999999998,19
+Northeast,BA,pojuca,1820.7799999999997,13
+North,PA,redencao,1818.4800000000002,12
+Southeast,RJ,sao francisco de itabapoana,1816.4100000000003,15
+Northeast,PB,santa rita,1815.86,7
+Southeast,SP,paraibuna,1810.7499999999998,10
+Southeast,SP,guariba,1810.72,14
+Northeast,BA,esplanada,1808.3400000000001,5
+Northeast,CE,limoeiro do norte,1806.86,12
+Northeast,CE,ipueiras,1805.78,3
+North,PA,quatro bocas,1804.79,5
+Central-West,GO,morrinhos,1804.72,14
+South,SC,pomerode,1797.55,9
+Northeast,CE,nova olinda,1792.9299999999998,3
+Central-West,GO,quirinópolis,1789.7999999999997,14
+Southeast,SP,pirajui,1789.32,12
+Central-West,GO,minaçu,1787.83,11
+Southeast,RJ,inoa,1786.3400000000004,14
+Southeast,MG,vazante,1780.2999999999997,6
+North,PA,sao felix do xingu,1774.08,8
+Northeast,CE,cruz,1772.5500000000002,7
+Southeast,MG,santana do jacare,1769.22,4
+Northeast,RN,currais novos,1769.0900000000004,8
+Southeast,MG,boa esperanca,1769.0,11
+Southeast,ES,afonso claudio,1767.92,11
+Southeast,SP,jarinu,1767.06,19
+Northeast,BA,catu,1763.24,10
+Southeast,ES,linharesl,1761.79,12
+Northeast,CE,itapipoca,1761.25,11
+South,PR,nova esperança,1760.46,8
+South,SC,imbuia,1759.81,4
+Southeast,MG,carmopolis de minas,1756.72,5
+Northeast,MA,vitorino freire,1744.3700000000001,3
+Northeast,PE,bezerros,1739.9500000000003,11
+South,SC,guaramirim,1736.2599999999995,13
+Southeast,MG,ibia,1736.1799999999998,8
+Central-West,GO,santa helena de goiás,1733.6799999999998,9
+Central-West,GO,senador canedo,1733.0599999999997,15
+Southeast,ES,são gabriel da palha,1732.6399999999999,13
+South,RS,flores da cunha,1732.5700000000002,12
+Southeast,ES,ibatiba,1724.5999999999997,9
+Northeast,MA,nova olinda do maranhao,1724.3299999999997,4
+South,PR,jacarezinho,1720.46,17
+South,RS,mostardas,1720.33,11
+Southeast,SP,reginopolis,1719.3200000000002,3
+Southeast,MG,entre rios de minas,1709.62,7
+South,RS,dom pedrito,1708.09,10
+Central-West,DF,recanto das emas,1707.25,14
+Southeast,SP,cordeirópolis,1705.2900000000004,16
+Southeast,MG,malacacheta,1702.2100000000003,7
+Southeast,SP,araçoiaba da serra,1701.7600000000004,11
+North,PA,marituba,1699.5,15
+Southeast,MG,buenopolis,1698.09,5
+Southeast,MG,lambari,1692.9099999999999,8
+Southeast,MG,piranguinho,1689.85,9
+South,PR,andirá,1688.5900000000001,11
+South,RS,toropi,1682.98,3
+South,SC,correia pinto,1680.1799999999998,11
+Northeast,BA,mata de são joão,1679.07,12
+Central-West,MS,cassilândia,1677.5900000000001,5
+Southeast,SP,bastos,1673.9399999999998,17
+South,RS,crissiumal,1671.3000000000002,2
+Northeast,PB,queimadas,1670.94,5
+Southeast,MG,mata verde,1667.51,6
+Southeast,SP,jose bonifacio,1666.93,12
+South,PR,siqueira campos,1663.6200000000003,9
+Central-West,MT,itaúba,1661.97,5
+North,RO,costa marques,1658.28,2
+Southeast,SP,tanabi,1658.1399999999999,11
+Northeast,PE,barreiros,1653.6999999999998,6
+South,RS,arroio do meio,1648.1699999999998,10
+South,SC,garuva,1647.66,5
+Southeast,RJ,porto real,1645.92,7
+Southeast,MG,tupaciguara,1645.3600000000001,13
+Northeast,MA,loreto,1643.64,1
+Northeast,PB,guarabira,1642.8600000000001,10
+Southeast,MG,conceicao das alagoas,1641.4,3
+Northeast,CE,acaraú,1639.94,8
+Southeast,MG,nova ponte,1638.5400000000002,9
+Central-West,GO,goianésia,1638.1199999999997,15
+Southeast,SP,pitangueiras,1634.64,16
+Southeast,ES,vila valério,1632.2899999999995,8
+South,RS,casca,1628.94,7
+Northeast,BA,formosa do rio preto,1628.1600000000003,3
+North,RO,pimenta bueno,1622.27,7
+Northeast,AL,maceio,1621.4899999999998,7
+Southeast,ES,jaguaré,1618.38,14
+South,SC,orleans,1617.6699999999998,8
+Southeast,ES,baixo guandu,1617.17,8
+Northeast,MA,sao joao dos patos,1615.4700000000003,7
+Southeast,SP,iguape,1615.1999999999998,14
+Southeast,MG,divino,1611.7199999999998,14
+North,PA,xinguara,1608.51,9
+Southeast,MG,conceição do mato dentro,1606.34,12
+Southeast,MG,itapecerica,1603.68,13
+North,AC,rio bracnco,1599.89,7
+Northeast,PE,afogados da ingazeira,1596.3899999999996,8
+Southeast,MG,jequitinhonha,1595.86,11
+South,SC,lauro müller,1595.6,8
+Southeast,SP,pacaembu,1595.07,6
+Southeast,ES,marilandia,1593.2199999999998,8
+Northeast,AL,penedo,1592.67,8
+South,PR,ibiporã,1590.84,12
+Southeast,MG,mutum,1589.8700000000001,8
+Southeast,MG,araçuaí,1588.7799999999997,9
+Southeast,MG,periquito,1588.1,2
+Southeast,MG,baependi,1587.3900000000003,8
+Southeast,MG,ipaba,1585.2599999999998,8
+Southeast,SP,chavantes,1583.4399999999998,14
+Southeast,SP,pirapozinho,1582.47,14
+South,RS,igrejinha,1581.6399999999999,17
+Southeast,MG,águas formosas,1580.57,5
+Southeast,SP,biritiba mirim,1579.77,10
+Southeast,MG,barroso,1575.5200000000004,11
+Northeast,CE,morada nova,1571.6,9
+Northeast,BA,candeias,1565.6499999999999,13
+Northeast,CE,santana do acarau,1563.58,4
+South,RS,girua,1560.97,10
+Northeast,PI,altos,1560.8700000000001,5
+Southeast,RJ,italva,1556.26,14
+South,SC,itaiopolis,1555.42,8
+Southeast,MG,simonesia,1549.8700000000001,8
+Southeast,MG,corinto,1545.6300000000003,11
+South,RS,chapada,1545.33,4
+South,PR,santo antônio da platina,1544.84,12
+North,AP,santana,1543.94,9
+Southeast,SP,são miguel arcanjo,1543.7799999999995,13
+South,RS,nova prata,1541.25,16
+Southeast,SP,pinhalzinho,1537.9599999999998,12
+Central-West,MS,fatima do sul,1536.86,4
+Northeast,PE,saloa,1536.08,3
+Southeast,SP,mirandopolis,1535.4099999999999,13
+Southeast,SP,tabapua,1535.21,12
+Northeast,BA,ibitita,1534.58,1
+Southeast,SP,iracemápolis,1532.5,18
+South,RS,campinas do sul,1531.24,6
+Southeast,RJ,sao jose do vale do rio preto,1527.6599999999996,12
+Southeast,RJ,boa esperança,1527.51,1
+Central-West,GO,são luís de montes belos,1524.13,8
+Southeast,SP,itabera,1522.98,7
+South,RS,itaqui,1522.3200000000004,9
+Southeast,SP,bocaina,1520.6200000000001,6
+Northeast,CE,pacajus,1519.9999999999998,6
+Central-West,GO,são miguel do araguaia,1518.0300000000002,5
+Northeast,CE,barbalha,1515.41,6
+North,PA,são miguel do guamá,1514.3999999999999,5
+Northeast,BA,buerarema,1510.32,4
+Southeast,RJ,mendes,1509.9899999999998,12
+Southeast,MG,astolfo dutra,1509.6899999999998,11
+Southeast,SP,agudos,1508.95,16
+South,RS,ivoti,1507.4299999999998,13
+South,SC,sombrio,1506.6100000000001,11
+Southeast,SP,altinópolis,1506.04,4
+South,RS,três passos,1503.72,11
+Northeast,PI,guadalupe,1502.7600000000002,4
+Southeast,SP,alumínio,1500.6400000000003,13
+Northeast,RN,parelhas,1496.8000000000002,4
+North,PA,conceicao do araguaia,1494.6000000000001,7
+Southeast,SP,casa branca,1492.8799999999999,13
+Northeast,PE,palmares,1487.0300000000002,8
+South,SC,apiúna,1484.8,7
+South,RS,bom retiro do sul,1484.21,2
+Southeast,SP,divinolândia,1482.9,7
+Northeast,BA,alcobaça,1481.9,4
+South,RS,espumoso,1480.46,7
+Northeast,PE,sao bento do una,1477.8,4
+Northeast,BA,tapiramuta,1476.8999999999999,2
+Northeast,RN,upanema,1476.25,3
+Southeast,SP,teodoro sampaio,1473.91,12
+Southeast,SP,santa gertrudes,1471.0500000000002,11
+South,SC,capinzal,1469.2299999999998,10
+South,PR,sao miguel do iguacu,1468.23,10
+South,SC,forquilhinha,1468.18,13
+Northeast,BA,coaraci,1468.1200000000001,4
+North,PA,santana do araguaia,1467.9099999999999,3
+Southeast,MG,turmalina,1467.05,9
+Northeast,RN,joao camara,1466.8100000000002,2
+North,TO,araguaina,1466.2900000000002,8
+Southeast,MG,rio pomba,1464.86,6
+Southeast,MG,dores de campos,1464.1899999999998,8
+Central-West,GO,neropolis,1464.02,7
+Northeast,AL,palmeira dos indios,1463.46,8
+Southeast,SP,rosana,1461.32,13
+North,TO,guarai,1459.3700000000001,4
+Southeast,MG,botelhos,1456.4699999999998,8
+Southeast,SP,duartina,1453.3000000000002,10
+Central-West,MS,caarapo,1447.9299999999998,4
+South,SC,celso ramos,1440.9400000000003,2
+Southeast,SP,descalvado,1439.57,13
+Southeast,SP,sao simao,1439.2900000000002,10
+Southeast,SP,ouroeste,1437.5700000000002,11
+North,PA,braganca,1437.27,9
+Southeast,MG,bonfinópolis de minas,1433.7500000000002,2
+Southeast,MG,são francisco,1431.7,12
+Southeast,SP,itapui,1430.8899999999999,7
+South,SC,ibirama,1429.2,13
+South,PR,assis chateaubriand,1426.3,12
+South,RS,jansen,1425.06,5
+South,SC,gravatal,1418.28,6
+Northeast,MA,cedral,1416.52,3
+Northeast,CE,ubajara,1414.6299999999997,3
+Northeast,PI,cocal,1413.8799999999999,8
+South,PR,realeza,1412.76,6
+Southeast,SP,ipaussu,1409.2599999999998,7
+Northeast,PI,fronteiras,1408.8400000000001,3
+Southeast,SP,conchas,1408.56,10
+South,PR,primeiro de maio,1407.6100000000001,7
+Northeast,PB,mamanguape,1406.47,6
+Southeast,MG,são gonçalo do sapucaí,1403.98,9
+Southeast,SP,dois corregos,1402.5900000000001,11
+Central-West,GO,campinorte,1400.6100000000001,7
+Northeast,PE,bonito,1398.8400000000001,5
+Northeast,BA,vera cruz,1394.8199999999997,7
+South,RS,campestre da serra,1390.06,2
+South,SC,herval doeste,1386.93,9
+South,RS,santo augusto,1386.88,9
+Southeast,MG,carandaí,1386.44,11
+Southeast,SP,bálsamo,1383.48,6
+Southeast,MG,perdizes,1382.5000000000002,8
+South,PR,campina grande do sul,1382.49,10
+South,SC,rio negrinho,1381.73,13
+South,SC,navegantes,1379.13,9
+Southeast,SP,itariri,1378.73,6
+Central-West,GO,silvânia,1373.1499999999999,7
+Northeast,PB,pirpirituba,1372.25,1
+Central-West,MT,confresa,1371.6200000000001,7
+Southeast,SP,guararema,1370.4099999999999,11
+Southeast,RJ,areal,1364.6299999999999,7
+South,RS,tapejara,1364.49,9
+Northeast,BA,tucano,1364.1,9
+North,PA,tucumã,1362.9900000000002,4
+Southeast,MG,areado,1360.55,6
+Northeast,AL,coruripe,1359.09,3
+Southeast,MG,raul soares,1357.77,12
+Southeast,SP,são lourenço da serra,1357.0300000000002,12
+Southeast,ES,santa teresa,1356.7399999999998,11
+Northeast,PB,sousa,1356.4300000000003,7
+Central-West,MT,canarana,1356.31,10
+Central-West,GO,uruana,1355.95,3
+Northeast,MA,barra do corda,1354.3300000000002,7
+Northeast,AL,delmiro gouveia,1353.71,4
+Southeast,MG,são joão evangelista,1353.0800000000002,7
+Southeast,SP,barão ataliba nogueira,1351.51,1
+South,SC,schroeder,1349.22,9
+Central-West,MT,aripuana,1348.3799999999999,8
+Northeast,BA,inhambupe,1346.98,7
+Southeast,SP,pirangi,1346.4299999999998,8
+Southeast,SP,parapuã,1345.8300000000002,8
+Southeast,SP,maracai,1345.6100000000001,8
+Central-West,GO,chapadão do céu,1343.2499999999998,8
+Southeast,MG,barra longa,1341.55,1
+Southeast,MG,monte belo,1340.3000000000002,5
+Northeast,CE,jaguaruana,1339.3000000000002,4
+Southeast,SP,pontal,1333.05,12
+Northeast,CE,reriutaba,1331.6299999999999,3
+South,RS,arroio do sal,1330.31,7
+Northeast,MA,coroatá,1328.47,9
+Southeast,SP,guara,1328.1999999999998,8
+Southeast,SP,salto de pirapora,1326.18,13
+Southeast,RJ,sumidouro,1325.97,10
+Northeast,BA,casa nova,1324.3600000000001,7
+Southeast,MG,pompeu,1321.67,11
+South,RS,frederico westphalen,1319.8899999999999,14
+Southeast,SP,saltinho,1316.35,5
+Southeast,MG,sarzedo,1316.3300000000002,18
+Northeast,PI,campo maior,1314.71,7
+Southeast,SP,urupês,1313.2700000000002,10
+Southeast,ES,boa esperanca,1312.95,7
+Southeast,SP,salesópolis,1310.9600000000003,10
+South,SC,sao joaquim,1310.39,9
+Northeast,PB,alhandra,1307.91,2
+Northeast,BA,conceição do coité,1307.04,9
+Central-West,GO,acreuna,1306.4499999999998,7
+Northeast,BA,riacho de santana,1302.47,4
+Southeast,RJ,mangaratiba,1301.99,13
+Northeast,RN,macau,1297.69,5
+Northeast,CE,redenção,1297.66,4
+Southeast,MG,raposos,1297.3099999999995,11
+Northeast,PE,venturosa,1297.06,2
+South,RS,rosário do sul,1292.52,14
+Southeast,SP,charqueada,1290.8799999999999,10
+Northeast,BA,itaberaba,1286.19,10
+South,SC,araquari,1285.3600000000001,11
+Northeast,BA,alcobaca,1283.3000000000002,10
+Northeast,CE,quixere,1281.01,3
+South,PR,arapoti,1280.91,9
+South,RS,rolante,1280.29,10
+Northeast,PE,toritama,1277.99,5
+Southeast,MG,capinópolis,1277.9500000000003,11
+South,RS,butiá,1277.9199999999998,6
+Central-West,MS,costa rica,1273.9,12
+Southeast,MG,prata,1270.36,10
+Southeast,SP,brotas,1269.88,12
+Northeast,BA,camacan,1269.4,6
+Northeast,AL,santana do mundau,1268.01,3
+South,PR,ibaiti,1264.1399999999999,11
+Northeast,MA,colinas,1263.4,3
+Northeast,CE,jijoca de jericoacoara,1262.22,4
+North,RO,alto paraiso,1260.76,1
+North,AM,coari,1259.0400000000002,1
+Southeast,SP,águas da prata,1257.57,10
+Southeast,MG,cristina,1256.38,8
+South,PR,itapejara d  oeste,1255.92,6
+Northeast,CE,cascavel,1254.75,5
+South,RS,capão do leão,1254.6599999999999,4
+Southeast,MG,arapora,1253.3700000000001,5
+Southeast,SP,santo antonio do pinhal,1252.69,2
+Northeast,CE,hidrolandia,1251.75,7
+Northeast,CE,tauá,1251.37,10
+South,RS,terra de areia,1250.93,5
+Northeast,PI,valença do piauí,1247.8700000000001,4
+Southeast,RJ,santa maria madalena,1247.4499999999998,7
+Central-West,MT,bom jesus do araguaia,1247.2900000000002,1
+Northeast,RN,caraubas,1246.76,3
+Southeast,MG,poço fundo,1244.88,8
+South,RS,jaguarão,1242.0100000000002,8
+Northeast,BA,entre rios,1241.52,6
+Northeast,PE,lajedo,1237.92,7
+Southeast,MG,sao jose da lapa,1237.5200000000002,8
+Central-West,GO,goiás,1236.73,8
+South,PR,pontal do parana,1235.05,8
+Northeast,BA,prado,1234.5900000000001,5
+Southeast,SP,buritama,1234.42,9
+Southeast,SP,engenheiro coelho,1234.24,13
+Northeast,MA,acailandia,1233.48,7
+Southeast,SP,rio das pedras,1231.52,11
+Southeast,RJ,japuíba,1230.8500000000001,5
+Southeast,MG,ervalia,1230.45,7
+Central-West,MT,alto araguaia,1228.13,5
+Central-West,GO,anapolis,1227.99,7
+Northeast,BA,macaúbas,1227.1499999999999,9
+Northeast,BA,santo estevao,1226.69,5
+South,RS,arroio dos ratos,1226.52,9
+Southeast,SP,pilar do sul,1225.32,12
+Southeast,SP,brodowski,1224.5900000000001,10
+Central-West,GO,goianápolis,1224.04,4
+Central-West,DF,ceilandia norte,1220.2699999999998,8
+Northeast,PB,brejo do cruz,1217.78,1
+South,RS,garibaldi,1216.25,9
+Central-West,GO,rubiataba,1210.69,7
+Central-West,GO,serranopolis,1210.27,3
+North,PA,uruara,1199.1299999999999,6
+Southeast,SP,vera cruz,1198.44,10
+South,SC,luiz alves,1195.6799999999998,5
+Central-West,MS,rio brilhante,1195.1599999999999,11
+South,RS,xangri-lá,1192.87,8
+Southeast,MG,mar de espanha,1191.57,9
+Southeast,SP,tarumã,1189.9499999999998,9
+Southeast,SP,guareí,1187.44,5
+Southeast,MG,mirai,1186.53,9
+Southeast,SP,monte aprazivel,1186.5000000000002,10
+South,PR,nova prata do iguacu,1185.1899999999998,6
+North,RO,extrema,1184.52,4
+Northeast,RN,sao goncalo do amarante,1184.28,7
+Southeast,ES,pinheiros,1182.5100000000002,8
+Northeast,PE,tabira,1178.89,5
+Southeast,ES,fundao,1177.9499999999998,5
+Northeast,PE,lagoa grande,1177.19,4
+Southeast,SP,tarabai,1174.4,5
+Southeast,MG,gouveia,1167.23,4
+North,TO,dianopolis,1165.41,7
+Central-West,GO,caçu,1163.5300000000002,8
+Southeast,SP,cajobi,1162.8899999999999,8
+South,SC,otacílio costa,1162.85,5
+Southeast,SP,paulicéia,1162.1,3
+Southeast,MG,arceburgo,1160.83,7
+Southeast,MG,catas altas,1160.35,5
+South,SC,treze tílias,1159.36,11
+Southeast,MG,sao jose da barra,1158.11,6
+Northeast,RN,caicara do norte,1157.41,1
+Central-West,GO,itaberaí,1151.08,6
+Central-West,MS,bonito,1150.9699999999998,8
+Northeast,BA,seabra,1148.26,6
+Southeast,SP,lucélia,1147.89,12
+Southeast,SP,patrocínio paulista,1147.46,2
+Northeast,PE,cabrobo,1146.91,6
+South,PR,colorado,1145.8499999999997,6
+South,SC,sao lourenco do oeste,1143.7900000000002,10
+Southeast,MG,aimorés,1143.77,10
+South,RS,encruzilhada do sul,1142.59,8
+Northeast,PI,bom jesus,1142.14,4
+Northeast,MA,pedreiras,1141.76,3
+South,RS,bom principio,1140.75,6
+Central-West,MT,sapezal,1139.52,8
+South,PR,ortigueira,1139.45,8
+Northeast,PB,bayeux,1139.4099999999999,7
+Northeast,CE,santa quitéria,1139.12,5
+Southeast,SP,luís antônio,1131.4299999999998,7
+Southeast,MG,brazópolis,1131.3999999999999,7
+Central-West,GO,crixas,1129.4399999999998,8
+Southeast,MG,fervedouro,1128.6100000000001,8
+South,SC,piratuba,1128.48,6
+Southeast,SP,franca sp,1127.4299999999998,10
+South,RS,nova roma do sul,1127.29,1
+Southeast,ES,são josé do calçado,1127.26,6
+North,AC,cruzeiro do sul,1127.06,3
+Northeast,BA,jeremoabo,1126.37,6
+Northeast,CE,morrinhos,1124.79,4
+North,PA,piçarra,1122.86,1
+Southeast,SP,pedregulho,1122.18,2
+Northeast,MA,grajau,1121.01,6
+North,PA,concordia do para,1120.9,3
+Northeast,CE,quixeramobim,1119.97,6
+Northeast,BA,arraial d'ajuda,1118.7,10
+Southeast,SP,santo antonio do aracangua,1117.99,1
+Southeast,SP,serrana,1115.27,13
+Central-West,GO,bom jesus de goias,1112.5300000000002,8
+Southeast,RJ,porciúncula,1112.1299999999999,8
+Central-West,MT,campos de júlio,1110.35,6
+South,PR,paicandu,1106.22,10
+Southeast,MG,itamonte,1105.0600000000002,10
+Southeast,SP,buri,1103.3899999999999,10
+Southeast,SP,sao sebastiao da grama,1102.02,4
+South,PR,godoy moreira,1101.83,1
+South,PR,pinhao,1101.52,8
+Southeast,SP,dourado,1098.3500000000001,8
+Central-West,GO,iaciara,1098.31,4
+Southeast,SP,vargem grande do sul,1096.15,13
+South,PR,cambara,1096.0600000000002,10
+Southeast,MG,três marias,1095.9,13
+Southeast,SP,cardoso,1095.32,6
+Southeast,SP,potirendaba,1095.1000000000001,9
+South,SC,benedito novo,1093.77,6
+Southeast,MG,virginópolis,1092.22,8
+Southeast,MG,pecanha,1091.8,5
+Southeast,SP,cosmorama,1091.55,6
+Southeast,SP,estiva gerbi,1090.98,7
+Southeast,MG,candeias,1090.18,10
+Southeast,SP,regente feijó,1088.31,10
+Northeast,BA,ipiau,1088.0299999999997,8
+Central-West,MT,matupa,1087.8700000000001,7
+South,SC,itapoá,1087.75,9
+South,PR,prudentopolis,1085.1699999999998,7
+South,SC,urussanga,1083.08,10
+Northeast,SE,simão dias,1082.91,7
+Southeast,RJ,sapucaia,1081.6299999999999,8
+Southeast,SP,pradopolis,1081.3100000000002,10
+Central-West,GO,planaltina,1080.95,12
+Southeast,MG,fronteira,1079.5299999999997,6
+South,SC,porto belo,1079.32,9
+Northeast,AL,inhapi,1075.1,2
+Southeast,SP,oriente,1075.02,3
+Northeast,PE,lagoa dos gatos,1073.47,3
+Northeast,BA,barra da estiva,1072.6799999999998,7
+Northeast,SE,sao francisco,1072.06,3
+Southeast,MG,eugenopolis,1071.3899999999999,5
+Northeast,PE,condado,1071.11,4
+South,PR,vitoria,1071.03,2
+Southeast,MG,bom jardim de minas,1068.38,8
+North,TO,cristalandia,1067.93,3
+Northeast,PE,dormentes,1067.73,2
+Southeast,MG,paraopeba,1066.7400000000002,9
+South,PR,palotina,1065.77,10
+South,RS,nova santa rita,1064.0,5
+Southeast,MG,conceicao da aparecida,1063.6499999999999,5
+South,PR,sao joao,1062.61,11
+Southeast,MG,borda da mata,1062.25,6
+South,RS,não-me-toque,1062.1000000000001,7
+Southeast,RJ,bacaxa,1061.0400000000002,10
+Northeast,CE,sao benedito,1058.76,4
+South,PR,coronel vivida,1058.5900000000001,11
+Central-West,GO,goianira,1057.77,8
+Northeast,AL,são miguel dos campos,1054.1100000000001,2
+Southeast,ES,alfredo chaves,1052.61,7
+Southeast,MG,jordânia,1047.2,5
+South,RS,caçapava do sul,1044.83,5
+South,RS,balneário pinhal,1043.9399999999998,7
+Southeast,SP,icém,1043.64,9
+South,RS,serafina corrêa,1042.3799999999999,9
+South,PR,colonia castrolanda,1041.71,3
+Northeast,PI,regeneração,1041.64,6
+Northeast,PE,águas belas,1041.4,6
+Northeast,BA,jacaraci,1040.27,4
+South,SC,pinhalzinho,1040.1999999999998,9
+Northeast,MA,lago da pedra,1038.96,5
+South,PR,munhoz de melo,1037.26,4
+Southeast,RJ,varre-sai,1035.3700000000001,4
+Northeast,BA,itacaré,1032.79,8
+South,PR,quedas do iguaçu,1030.44,8
+Northeast,PE,pesqueira,1030.0299999999997,9
+Central-West,MT,campo verde,1029.69,10
+Northeast,PE,são lourenço da mata,1029.0,9
+South,SC,capivari de baixo,1028.73,5
+Southeast,ES,sao domingos do norte,1028.5000000000002,7
+Southeast,SP,mombuca,1028.45,13
+Southeast,MG,itaobim,1026.5600000000002,6
+Central-West,GO,abadiania,1025.52,1
+Northeast,CE,bela cruz,1024.47,4
+Southeast,MG,alvinópolis,1020.9599999999999,11
+South,PR,assai,1019.8,5
+Southeast,MG,monte santo de minas,1018.0,9
+Northeast,BA,canavieiras,1017.29,6
+Southeast,MG,belo horizonta,1015.7,6
+Southeast,MG,belo oriente,1015.3200000000002,7
+Southeast,MG,sao goncalo do rio abaixo,1013.4300000000001,6
+Northeast,PI,paulistana,1013.26,3
+Southeast,SP,pedro de toledo,1013.0900000000001,9
+South,PR,figueira,1012.8699999999998,4
+Southeast,SP,holambra ii,1012.82,5
+South,SC,canelinha,1012.72,4
+Southeast,SP,boa esperança do sul,1012.6199999999999,11
+South,SC,santa cecília,1011.42,6
+South,SC,palma sola,1010.55,4
+Southeast,SP,taiúva,1010.1300000000001,5
+Southeast,ES,itarana,1010.02,3
+Southeast,SP,itaju,1008.3699999999999,3
+South,PR,sertanopolis,1008.1399999999999,4
+Central-West,GO,mozarlandia,1008.0399999999997,7
+Northeast,MA,paço do lumiar,1005.9300000000001,7
+South,RS,candido godoi,1005.8399999999999,1
+South,PR,santa fé,1005.44,5
+Northeast,RN,são miguel,1004.52,4
+Southeast,SP,capela do alto,1004.25,3
+Southeast,RJ,"rio de janeiro, rio de janeiro, brasil",1003.81,9
+Central-West,GO,santa barbara de goias,1003.5,5
+Central-West,GO,itapuranga,1003.2600000000001,7
+Central-West,GO,itaja,1001.9,3
+Southeast,MG,grao mogol,999.3,3
+Central-West,DF,sao sebastiao,999.24,7
+Northeast,BA,cansanção,998.37,7
+Northeast,AL,campo alegre,997.96,2
+South,PR,faxinal,995.73,9
+Southeast,SP,guapiacu,995.55,6
+South,RS,são marcos,994.7600000000001,9
+Southeast,MG,bom sucesso,994.7,4
+South,SC,bom jesus,993.16,2
+Southeast,SP,miracatu,991.81,5
+Northeast,CE,lavras da mangabeira,986.4599999999999,2
+South,SC,rodeio,985.95,7
+Southeast,SP,irapuru,985.29,6
+Southeast,SP,julio mesquita,984.5900000000001,2
+South,RS,júlio de castilhos,983.0399999999998,10
+Southeast,SP,angatuba,983.0300000000001,8
+South,PR,cruzeiro do oeste,982.5,7
+Southeast,SP,urânia,980.29,4
+South,PR,guaira,979.8000000000001,7
+Southeast,ES,itapemirim,979.3599999999999,8
+Southeast,MG,são gonçalo do pará,975.8499999999999,3
+Southeast,SP,borborema,975.5500000000001,9
+Northeast,BA,mairi,974.31,2
+Southeast,MG,guaranésia,972.8300000000002,9
+South,SC,nova trento,972.21,6
+Central-West,GO,santa rita do araguaia,972.0300000000001,7
+Southeast,MG,conceicao do rio verde,970.1500000000001,5
+Southeast,MG,alpinopolis,969.4499999999999,7
+Southeast,MG,novo cruzeiro,968.8700000000001,9
+North,PA,goianesia do para,964.7099999999999,3
+Northeast,PE,moreno,960.09,5
+Southeast,MG,arinos,959.82,8
+South,RS,portao,959.4599999999998,10
+Central-West,DF,brasília,957.1599999999999,5
+Northeast,RN,sao jose de mipibu,956.19,3
+Central-West,GO,aparecida de goiania,953.8700000000001,8
+Northeast,PI,amarante,953.84,1
+Southeast,SP,santa branca,953.35,9
+Central-West,GO,inaciolandia,952.92,3
+Southeast,SP,jacaré (cabreúva),952.5799999999999,8
+Central-West,MS,alcinópolis,952.35,6
+North,RO,espigao do oeste,951.1700000000001,6
+Central-West,GO,goianesia,950.5999999999999,3
+Northeast,PE,paudalho,950.14,2
+South,PR,cidade gaucha,950.0999999999999,5
+Northeast,MA,alto parnaíba,948.0999999999999,5
+North,TO,tocantinopolis,947.28,7
+Northeast,CE,santana do cariri,946.6800000000001,3
+South,PR,nova londrina,946.56,9
+Southeast,SP,sao luis do paraitinga,945.99,3
+Southeast,MG,resplendor,944.6000000000001,10
+Southeast,SP,areiópolis,944.24,3
+Southeast,MG,matozinhos,944.16,12
+Central-West,MT,barra do bugres,943.6500000000001,4
+Northeast,RN,santana do seridó,943.37,2
+Southeast,MG,marilac,942.78,1
+Southeast,MG,rio manso,939.6800000000001,5
+Northeast,BA,queimadas,937.57,4
+Southeast,SP,aracariguama,937.0699999999999,10
+Southeast,SP,piquete,934.55,9
+Southeast,SP,nazaré paulista,934.3299999999999,7
+South,RS,tapes,934.2600000000001,6
+South,PR,porecatu,930.71,9
+Northeast,MA,são mateus do maranhão,930.7,3
+North,TO,lagoa da confusão,929.74,5
+Southeast,ES,mimoso do sul,928.89,10
+Southeast,MG,dores do indaia,928.8599999999999,7
+South,PR,mambore,928.47,8
+Central-West,GO,campos belos,927.53,7
+Northeast,MA,são bernardo,923.3899999999999,3
+Southeast,MG,brasília de minas,922.9199999999998,9
+Southeast,MG,lagoa formosa,921.92,7
+Central-West,GO,mambaí,921.9,2
+Northeast,BA,ruy barbosa,921.1499999999999,7
+Southeast,MG,datas,920.94,1
+Southeast,MG,lima duarte,920.8599999999999,6
+South,RS,getúlio vargas,919.9399999999999,8
+Northeast,PB,juru,919.38,1
+Northeast,MA,buriticupu,919.03,5
+Southeast,SP,guaicara,917.5600000000002,8
+Central-West,GO,itaguari,913.7,1
+South,PR,imbituva,913.6600000000001,8
+Southeast,RJ,trajano de morais,913.04,8
+Southeast,RJ,arrozal,912.81,3
+Southeast,MG,tarumirim,912.25,4
+Central-West,GO,piranhas,911.81,4
+Southeast,ES,joao neiva,911.3999999999999,8
+Southeast,SP,ibira,911.03,7
+South,RS,tres coroas,910.48,6
+Southeast,MG,cachoeira do campo,909.84,2
+Northeast,BA,boninal,909.8,2
+Southeast,SP,lutécia,908.84,1
+South,RS,chui,908.1599999999999,5
+South,RS,cerro largo,907.81,7
+South,PR,mallet,907.63,6
+Southeast,SP,avanhandava,905.33,7
+Southeast,SP,joanópolis,904.51,6
+South,SC,são joão do sul,902.37,2
+Northeast,CE,acopiara,901.67,7
+Northeast,CE,varjota,901.1800000000001,4
+South,PR,carlópolis,901.18,6
+Northeast,SE,sao cristovao,900.43,7
+South,PR,salto do lontra,900.11,4
+South,RS,candiota,899.5999999999999,4
+Central-West,DF,brazlandia,898.5200000000001,7
+Southeast,SP,igarapava,897.02,7
+Southeast,SP,nuporanga,895.41,3
+Northeast,MA,icatu,892.9,1
+Northeast,MA,santa helena,892.14,3
+Northeast,BA,nova viçosa,891.14,5
+Central-West,MS,amambaí,890.69,6
+Central-West,MS,dois irmãos do buriti,890.15,3
+Northeast,SE,capela,889.17,3
+South,SC,botuverá,886.2,6
+Southeast,SP,jacupiranga,885.57,5
+Northeast,BA,ubaíra,884.9100000000001,6
+Southeast,MG,santa rita de caldas,882.2199999999999,6
+Southeast,SP,bilac,881.9099999999999,8
+Northeast,BA,conde,881.52,2
+Southeast,MG,rio paranaiba,881.4800000000001,9
+Northeast,PE,lagoa do carro,880.78,2
+Southeast,SP,juquia,880.09,9
+Northeast,MA,ze doca,878.9200000000001,5
+Northeast,BA,barra do choça,877.49,3
+Central-West,DF,são sebastião,877.4200000000001,6
+South,SC,ilhota,877.22,4
+Northeast,BA,maracas,877.0900000000001,5
+South,RS,campos borges,877.04,3
+South,SC,papanduva,876.65,8
+Southeast,MG,serro,876.62,2
+Central-West,GO,cidade ocidental,876.5699999999999,8
+Southeast,MG,são pedro dos ferros,875.73,4
+Central-West,MT,colniza,875.49,3
+Southeast,SP,taguaí,873.5600000000002,10
+South,SC,seara,873.34,6
+Southeast,MG,campina verde,868.85,10
+Central-West,GO,guapo,868.7,6
+Southeast,MG,bicas,868.5500000000001,7
+Southeast,MG,formoso,867.1,2
+Northeast,BA,arataca,865.78,1
+Southeast,MG,virgem da lapa,864.44,3
+South,SC,laurentino,863.27,5
+South,PR,marmeleiro,862.98,7
+Northeast,CE,jaguaribe,861.8000000000001,5
+North,TO,araguatins,859.8999999999999,5
+Southeast,RJ,vila muriqui,856.4499999999999,7
+Southeast,SP,murutinga do sul,855.71,2
+Southeast,SP,bananal,855.71,6
+Central-West,MT,chapada dos guimaraes,854.78,4
+Northeast,PE,goiana,853.9599999999999,9
+Northeast,BA,itajuípe,852.2800000000002,3
+South,PR,morretes,848.92,4
+Southeast,SP,paraíso,848.74,5
+Southeast,SP,echaporã,847.25,2
+Southeast,SP,cafelândia,846.2,8
+South,SC,presidente getúlio,846.13,6
+Southeast,SP,ribeirão bonito,846.12,7
+Northeast,BA,itirucu,845.37,3
+Southeast,SP,jordanésia,845.2699999999999,5
+Northeast,MA,viana,845.14,5
+Central-West,GO,são joão d'aliança,844.86,3
+South,SC,alfredo wagner,844.67,2
+Southeast,MG,pedralva,844.33,3
+South,PR,floresta,844.0899999999999,5
+Southeast,SP,igarata,843.8699999999999,5
+Northeast,PI,matias olimpio,841.4,1
+North,TO,sandolândia,841.28,1
+Southeast,MG,carbonita,841.1200000000001,4
+Southeast,MG,muzambinho,840.63,9
+Northeast,RN,jucurutu,839.8299999999999,4
+Southeast,SP,cananéia,838.8900000000001,8
+Central-West,GO,luziania,838.26,5
+South,SC,catanduvas,834.99,6
+Southeast,SP,cabreúva,834.1200000000001,6
+Central-West,GO,firminópolis,832.5,7
+Northeast,BA,morro de são paulo,832.0,1
+South,RS,três cachoeiras,831.4199999999998,7
+Southeast,SP,santa albertina,830.42,7
+South,RS,pejucara,830.35,4
+Northeast,MA,arari,828.79,2
+Northeast,PI,piripiri,828.5600000000001,7
+Northeast,BA,sao felipe,827.01,2
+Northeast,BA,madre de deus,826.74,7
+South,SC,vargem bonita,826.27,5
+Southeast,RJ,avelar,824.24,4
+South,SC,rio do campo,822.25,4
+Central-West,MT,alto taquari,821.17,3
+South,SC,cunha porã,820.9499999999999,5
+Northeast,PI,urucui,820.26,4
+South,PR,vere,818.2199999999999,3
+Northeast,BA,coribe,816.78,8
+South,RS,estação,815.2199999999999,5
+Northeast,CE,caninde,814.2,6
+Northeast,MA,joao lisboa,810.71,5
+Southeast,MG,nepomuceno,810.6800000000001,9
+Central-West,GO,anicuns,809.19,8
+Southeast,MG,jaboticatubas,808.8699999999999,1
+Northeast,PE,iati,807.24,3
+South,PR,capanema,805.98,9
+Southeast,MG,caetanopolis,805.6199999999999,8
+North,RO,alta floresta d'oeste,805.5,3
+Northeast,PE,timbaúba,804.45,7
+Northeast,PI,oeiras,803.9100000000001,6
+South,PR,santa helena,803.75,9
+North,RO,nova mamore,803.1600000000001,2
+Northeast,BA,conceição da feira,802.95,2
+Southeast,SP,sabino,802.87,3
+Northeast,MA,maracaçumé,802.42,4
+South,RS,cacequi,801.37,4
+Northeast,CE,alto santo,801.01,3
+South,RS,barros cassal,800.36,3
+Southeast,MG,piedade de caratinga,799.83,7
+Southeast,MG,jaíba,799.0400000000001,6
+Northeast,BA,andorinha,797.61,5
+South,SC,abelardo luz,797.5799999999999,6
+Northeast,BA,medeiros neto,797.2900000000001,7
+Northeast,PB,cuité,796.51,3
+North,RO,jaru,795.24,5
+South,PR,peabiru,793.96,5
+South,PR,santa cruz de monte castelo,793.0500000000001,4
+South,RS,rio pardo,791.4499999999999,5
+South,PR,jaguapitã,790.68,1
+Southeast,MG,divisa nova,788.71,1
+Southeast,SP,catiguá,788.52,6
+Southeast,SP,sao bento do sapucai,788.0600000000002,7
+Northeast,BA,miguel calmon,787.81,5
+South,SC,guabiruba,786.81,5
+Southeast,SP,cajuru,786.74,9
+Southeast,RJ,carapebus,786.52,5
+Southeast,MG,campanha,786.2700000000001,7
+Northeast,CE,solonopole,785.74,2
+South,PR,corbélia,785.2199999999999,3
+Northeast,BA,sobradinho,783.7400000000001,5
+South,SC,são joão do itaperiú,782.74,1
+Northeast,BA,ribeira do pombal,782.3599999999999,8
+Southeast,ES,bom jesus do norte,781.85,4
+Central-West,GO,santa cruz de goias,779.6899999999999,2
+Southeast,SP,dumont,779.6400000000001,4
+Central-West,GO,santo antonio do descoberto,778.98,4
+Southeast,MG,tocantins,778.49,6
+Northeast,BA,livramento de nossa senhora,777.5699999999999,5
+South,PR,terra boa,773.42,4
+Northeast,MA,matoes do norte,772.28,2
+Northeast,MA,esperantinópolis,771.41,3
+Northeast,PE,belem de sao francisco,771.02,2
+South,PR,terra rica,769.6299999999999,7
+Northeast,CE,barro,769.02,4
+South,RS,cidreira,769.02,5
+Northeast,BA,urandi,767.8100000000001,2
+Southeast,SP,guaraçaí,767.1100000000001,5
+South,RS,santo cristo,766.18,7
+Central-West,MT,jauru,762.8599999999999,5
+Southeast,SP,colina,762.25,9
+Northeast,CE,guaiuba,762.05,2
+North,PA,garrafao do norte,762.0,3
+Northeast,RN,itaú,761.37,2
+South,SC,palmitos,760.98,5
+Southeast,SP,nova europa,760.8899999999999,8
+Southeast,SP,paranapanema,759.71,11
+Northeast,RN,macaiba,757.17,5
+Northeast,CE,marco,756.76,3
+South,RS,nova hartz,755.22,3
+Central-West,GO,jaragua,755.07,7
+Northeast,MA,cururupu,754.6700000000001,3
+Central-West,GO,bela vista de goias,753.3499999999999,7
+South,RS,pedro osório,752.98,3
+Northeast,PE,custódia,752.1700000000001,5
+Southeast,MG,perdoes,752.01,9
+South,PR,ubirata,751.43,7
+Southeast,SP,lindoia,751.3400000000001,9
+Northeast,RN,açu,749.59,3
+Southeast,MG,conceição do pará,749.55,3
+North,RO,rolim de moura,748.15,7
+Southeast,MG,mateus leme,746.5999999999999,9
+Southeast,RJ,comendador levy gasparian,746.56,7
+South,SC,sao ludgero,746.51,3
+North,PA,capanema,746.26,4
+Central-West,MS,mundo novo,745.76,3
+Southeast,SP,nhandeara,745.3199999999999,8
+South,RS,barra do ribeiro,742.89,5
+South,PR,manoel ribas,742.3199999999999,4
+South,RS,morro reuter,741.4000000000001,3
+South,PR,pirai do sul,740.98,6
+Northeast,SE,propria,740.75,4
+Southeast,SP,taquarivai,738.9000000000001,3
+Northeast,CE,guaraciaba do norte,738.15,4
+Northeast,BA,morro do chapéu,737.8399999999999,7
+Southeast,SP,sao francisco da praia,737.7900000000001,7
+Southeast,SP,santa cruz das palmeiras,736.51,9
+Northeast,BA,camacari,736.29,5
+Northeast,MA,cantanhede,735.85,1
+South,RS,horizontina,735.55,7
+Northeast,RN,santa cruz,734.7,4
+Central-West,MS,camapua,734.34,6
+Southeast,MG,frei inocencio,733.8900000000001,5
+Northeast,PE,tracunhaem,733.7,2
+North,TO,miranorte,733.42,2
+Central-West,MS,bataguassu,732.9200000000001,5
+Southeast,SP,maristela,731.4200000000001,4
+South,SC,passo de torres,731.26,7
+Northeast,BA,rio do pires,731.25,4
+Southeast,MG,morada nova de minas,730.3699999999999,3
+Southeast,MG,monte azul,729.88,5
+South,RS,sao jeronimo,729.34,7
+Southeast,MG,itambacuri,727.89,6
+Northeast,SE,graccho cardoso,723.72,1
+North,PA,hidrelétrica tucuruí,721.48,3
+Northeast,PE,sirinhaem,720.2299999999999,5
+Northeast,PB,são bento,720.21,3
+Central-West,MS,jutí,719.48,4
+North,RO,ouro preto do oeste,718.48,4
+Northeast,CE,senador pompeu,718.1099999999999,4
+Central-West,MT,nova mutum,715.6700000000001,5
+Southeast,SP,guarantã,715.01,5
+Southeast,SP,apiaí,714.94,6
+Southeast,MG,conceicao dos ouros,714.9200000000001,4
+South,RS,pinheiro machado,713.3100000000001,5
+South,SC,petrolândia,712.05,5
+Northeast,PE,surubim,711.22,5
+Southeast,MG,santa cruz de minas,710.39,5
+North,PA,breves,710.19,1
+Northeast,BA,itororo,709.37,2
+Southeast,MG,rio acima,709.23,8
+Southeast,MG,rio pardo de minas,708.49,5
+Southeast,SP,morungaba,708.32,7
+South,PR,paulo frontin,707.4,5
+Southeast,MG,lagoa dourada,707.3,5
+South,PR,itaperuçu,707.2,4
+Northeast,CE,paraipaba,706.54,5
+Northeast,CE,paracuru,705.9200000000001,4
+Southeast,SP,bady bassitt,705.7,7
+Northeast,CE,itaitinga,704.17,4
+Northeast,MA,urbano santos,703.99,5
+Southeast,MG,jequitiba,703.86,2
+Northeast,MA,itapecuru mirim,702.9499999999999,4
+South,PR,guaraci,701.96,2
+South,RS,sao jose do norte,701.78,7
+Northeast,PE,limoeiro,701.2099999999999,7
+Northeast,CE,granja,700.3000000000001,5
+Southeast,MG,carmo de minas,699.53,3
+Southeast,MG,juatuba,699.3299999999999,4
+Southeast,MG,baldim,699.0400000000001,2
+South,SC,campo ere,697.99,7
+Southeast,SP,fernando prestes,696.58,6
+Central-West,MS,são gabriel do oeste,695.94,7
+South,RS,são sepé,695.71,6
+Northeast,PE,floresta,694.69,6
+Southeast,MG,medina,694.4,6
+Southeast,MG,santo antônio do jacinto,693.5600000000002,8
+Northeast,AL,rio largo,693.0400000000001,6
+Southeast,MG,águas vermelhas,692.89,3
+Southeast,RJ,silva jardim,691.27,4
+Southeast,MG,mário campos,690.8999999999999,3
+South,RS,porto xavier,690.1799999999998,5
+Southeast,MG,ibiaí,689.95,3
+Northeast,BA,coronel joão sá,689.71,3
+Northeast,SE,poço verde,689.31,4
+Northeast,AL,mar vermelho,689.02,2
+South,SC,sao carlos,688.57,5
+Central-West,GO,castelândia,688.41,5
+South,SC,maravilha,686.6,9
+Southeast,MG,jeceaba,683.51,6
+Southeast,ES,marechal floriano,681.38,5
+Northeast,PE,jaqueira,679.1700000000001,3
+Southeast,MG,campos gerais,679.1700000000001,5
+Northeast,PE,arcoverde,677.4,5
+Southeast,MG,jequeri,676.84,1
+South,RS,vera cruz,676.1000000000001,4
+Northeast,PI,canto do buriti,674.83,1
+Southeast,SP,salto grande,674.34,1
+Southeast,RJ,sao goncalo,673.75,6
+South,RS,candelaria,673.1,4
+South,PR,perola doeste,672.75,2
+South,RS,soledade,671.66,5
+Southeast,SP,lagoinha,668.73,3
+Northeast,BA,ubaitaba,667.93,4
+South,RS,antonio prado,667.57,5
+Northeast,PE,jupi,666.8599999999999,2
+South,SC,palmeira,665.88,3
+Southeast,RJ,rio das flores,665.69,6
+Central-West,MT,nova bandeirantes,665.53,4
+South,PR,ribeirão claro,663.8,5
+South,PR,nova aurora,661.97,3
+Northeast,MA,fortuna,661.92,3
+Northeast,MA,são bento,661.03,2
+Northeast,BA,capim grosso,660.78,5
+Southeast,SP,rafard,659.46,5
+South,PR,iguaracu,659.2,2
+Southeast,SP,valparaiso,658.49,8
+South,PR,bela vista do paraiso,658.4899999999999,3
+Southeast,ES,conceição do castelo,658.0,5
+South,PR,teixeira soares,657.9200000000001,1
+Southeast,RJ,ipiabas,657.72,4
+Central-West,GO,orizona,657.08,6
+Southeast,SP,paulo de faria,656.48,5
+Northeast,AL,belem,656.4699999999999,3
+South,RS,catuípe,655.7200000000001,4
+Central-West,MT,porto dos gauchos,655.67,1
+South,SC,pouso redondo,655.27,3
+South,RS,anta gorda,655.25,4
+Southeast,SP,eldorado,654.0600000000001,6
+Southeast,MG,tiradentes,653.58,4
+Central-West,MT,pedra preta,653.5,4
+Southeast,ES,rio novo do sul,651.8899999999999,6
+Southeast,MG,mato verde,651.31,3
+Southeast,RJ,raposo,650.8399999999999,3
+Southeast,SP,jordanesia,650.5,9
+Northeast,PE,feira nova,649.77,5
+Southeast,SP,ariranha,647.27,5
+Southeast,MG,sapucai-mirim,647.16,4
+South,RS,lavras do sul,646.56,3
+South,PR,ivaí,645.77,2
+South,PR,sengés,645.5,5
+Central-West,MT,araputanga,645.25,4
+Northeast,BA,potiraguá,644.7,7
+South,RS,roque gonzales,643.6100000000001,5
+Northeast,PI,sao jose do divino,643.33,1
+North,TO,colinas do tocantins,643.08,3
+South,PR,jesuítas,642.93,4
+South,SC,anitápolis,642.38,2
+Southeast,SP,uchoa,641.29,3
+South,PR,ivaiporã,640.86,7
+Southeast,MG,pirapetinga,640.39,7
+Northeast,PB,desterro,639.98,1
+Northeast,CE,horizonte,639.41,5
+Northeast,BA,uibai,639.3599999999999,4
+Southeast,RJ,tanguá,636.04,6
+South,RS,dom feliciano,635.95,5
+Southeast,SP,palestina,634.57,10
+Northeast,PE,ilha de itamaraca,632.1500000000001,4
+Northeast,PE,jatoba,631.27,4
+Northeast,PE,sao lourenco da mata,631.2,3
+South,RS,cristal,631.04,3
+Northeast,BA,piritiba,630.22,6
+Northeast,PE,são josé do egito,630.2,4
+Southeast,SP,orindiúva,629.59,5
+Northeast,SE,barra dos coqueiros,629.46,3
+Northeast,AL,barra de santo antônio,629.12,2
+South,PR,terra roxa,629.03,3
+Southeast,SP,sales oliveira,627.74,6
+Southeast,MG,carai,626.69,6
+Northeast,BA,euclides da cunha,625.62,5
+Northeast,PE,jaboatao dos guararapes,625.6000000000001,4
+Southeast,SP,presidente bernardes,624.07,6
+Southeast,MG,itueta,623.79,3
+South,RS,são francisco de paula,622.6800000000001,5
+North,RO,são miguel do guaporé,622.23,4
+Southeast,MG,caldas,621.94,5
+Southeast,SP,lavrinhas,621.35,1
+Northeast,CE,carius,618.69,3
+Northeast,PI,são miguel do tapuio,618.51,3
+Northeast,BA,uauá,618.18,4
+Southeast,RJ,quatis,617.87,5
+Southeast,MG,cachoeira de minas,616.9200000000001,7
+Southeast,RJ,cardoso moreira,616.88,6
+Central-West,GO,vianopolis,616.76,3
+Southeast,MG,alfredo vasconcelos,616.74,3
+Southeast,RJ,sao sebastiao do alto,616.7,4
+South,SC,iporã do oeste,615.23,6
+Northeast,BA,cacule,615.05,3
+Northeast,MA,paulino neves,614.63,1
+Southeast,MG,martins soares,613.9000000000001,6
+Southeast,MG,rio novo,613.25,4
+Northeast,CE,icapuí,611.5899999999999,5
+Northeast,AL,tanque d'arca,611.54,2
+Northeast,BA,una,610.34,5
+Central-West,GO,parauna,610.1600000000001,4
+Northeast,BA,tanhacu,609.8,4
+South,RS,são valentim,609.47,3
+Southeast,MG,guimarânia,609.33,4
+South,PR,pitanga,607.7099999999999,3
+Southeast,MG,teixeiras,607.65,6
+Central-West,GO,cachoeira alta,605.4799999999999,6
+Northeast,BA,santa cruz cabrália,605.18,5
+Southeast,MG,canápolis,604.6800000000001,5
+North,PA,curuca,604.45,3
+South,RS,tenente portela,604.0500000000001,3
+Southeast,MG,conquista,602.4200000000001,6
+North,PA,itupiranga,602.38,1
+Southeast,SP,cristais paulista,600.64,4
+South,RS,nova petrópolis,600.0600000000001,8
+Southeast,MG,francisco sa,599.75,3
+South,SC,são josé do cedro,598.77,5
+South,RS,irai,598.26,2
+Northeast,SE,nossa senhora das dores,598.23,1
+South,PR,bituruna,598.23,5
+Southeast,SP,rifaina,597.77,2
+South,PR,campina da lagoa,593.8199999999999,2
+South,RS,campo novo,593.01,2
+Northeast,CE,aracoiaba,592.44,3
+Southeast,SP,itobi,591.42,7
+North,PA,santa isabel do pará,591.2199999999999,5
+Southeast,RJ,engenheiro paulo de frontin,590.89,6
+Southeast,MG,caputira,590.6600000000001,2
+Southeast,MG,capitólio,590.12,5
+Northeast,PE,gloria do goita,587.92,2
+Southeast,SP,general salgado,587.28,6
+Northeast,BA,iguai,587.1400000000001,2
+Southeast,MG,sao tiago,586.45,5
+Northeast,BA,utinga,586.4499999999999,5
+Northeast,MA,pindaré mirim,586.2,3
+South,RS,sananduva,585.57,6
+South,PR,francisco beltrao,583.52,2
+Northeast,RN,nova cruz,583.25,3
+Southeast,MG,padre carvalho,582.94,1
+Central-West,MT,alto boa vista,581.99,5
+Southeast,MG,ibiraci,581.14,4
+Southeast,MG,rio piracicaba,580.14,4
+Northeast,BA,mutuipe,580.09,4
+Southeast,MG,carmo da mata,578.61,6
+Northeast,PI,castelo do piauí,577.6700000000001,2
+Southeast,MG,pote,577.53,3
+Southeast,SP,tupi paulista,577.2000000000002,6
+Central-West,MT,cocalinho,576.56,4
+South,PR,florestopolis,575.77,3
+North,PA,breu branco,575.7,3
+Southeast,SP,analandia,575.7,4
+Northeast,BA,itarantim,574.72,3
+Southeast,ES,muqui,574.3800000000001,4
+Northeast,BA,cachoeira,573.71,4
+North,RO,machadinho doeste,572.96,3
+Southeast,MG,santa maria de itabira,570.49,4
+Northeast,PI,esperantina,569.46,4
+South,PR,areia branca dos assis,569.4300000000001,3
+Northeast,PB,soledade,568.75,3
+Southeast,SP,areias,568.6300000000001,3
+South,SC,corupa,568.43,4
+Central-West,GO,alexania,568.25,5
+Southeast,MG,congonhal,568.1899999999999,4
+Southeast,MG,lajinha,567.6899999999999,3
+Central-West,MT,denise,566.63,2
+Northeast,PE,barra de guabiraba,565.8,2
+Southeast,MG,inhapim,565.35,7
+South,PR,kalore,563.96,2
+Northeast,BA,milagres,563.4399999999999,2
+South,PR,lobato,562.77,3
+South,PR,barbosa ferraz,562.57,3
+Central-West,GO,edeia,560.9100000000001,4
+Northeast,BA,ibicaraí,559.5999999999999,5
+Northeast,CE,penaforte,559.03,2
+Southeast,MG,presidente olegario,557.4100000000001,6
+South,PR,altonia,557.18,3
+Northeast,MA,tutoia,556.87,2
+Southeast,SP,severínia,556.45,5
+South,PR,astorga,556.28,7
+Northeast,RN,jardim do seridó,555.81,3
+Northeast,BA,paramirim,555.47,5
+South,PR,araruna,555.07,4
+South,PR,paula freitas,553.46,1
+Southeast,MG,pedrinópolis,553.3,3
+Northeast,MA,pinheiro,553.23,4
+South,RS,entre-ijuis,552.52,3
+Southeast,MG,matipó,552.35,4
+Northeast,CE,baturité,551.09,3
+Northeast,BA,sao sebastiao do passe,550.53,5
+South,RS,jaquirana,547.98,1
+Southeast,MG,sao geraldo,547.8100000000001,4
+South,PR,xambre,547.74,2
+North,AC,senador guiomard,547.09,2
+Northeast,SE,poço redondo,546.78,1
+Northeast,CE,boa viagem,546.76,3
+South,PR,sao pedro do ivai,546.72,3
+Southeast,MG,guarara,546.5699999999999,2
+Northeast,MA,pio xii,546.03,1
+Northeast,PE,bom jardim,545.35,2
+Northeast,CE,ipu,545.2,4
+Northeast,PB,bananeiras,544.74,5
+Southeast,RJ,sao jose de uba,544.52,3
+Southeast,MG,pedra azul,543.8000000000001,5
+Northeast,CE,trairi,543.53,2
+Northeast,PI,eliseu martins,543.06,4
+Northeast,AL,pindoba,542.52,2
+Northeast,BA,curaçá,542.24,3
+North,PA,capitao poco,540.89,3
+Southeast,SP,cedral,540.35,6
+South,PR,rio azul,538.54,5
+Northeast,CE,pacuja,538.4,1
+Southeast,MG,são joão do manteninha,537.22,3
+Southeast,MG,irai de minas,536.94,2
+South,SC,praia grande,536.92,4
+South,PR,rio bonito do iguaçu,536.22,4
+Southeast,ES,apiaca,534.42,6
+Southeast,MG,ipiacu,534.0899999999999,3
+Northeast,AL,colônia leopoldina,531.85,2
+Northeast,BA,itabela,529.97,4
+Southeast,MG,gameleiras,529.94,3
+Northeast,MA,cidelandia,528.8,1
+Southeast,MG,chapada gaúcha,528.01,4
+South,SC,rio fortuna,527.47,3
+Central-West,MT,diamantino,527.42,7
+South,PR,rio branco do sul,526.72,6
+Southeast,ES,dores do rio preto,526.3299999999999,4
+Northeast,BA,ipupiara,525.85,1
+Northeast,PE,ipubi,525.79,3
+Northeast,PE,itambé,525.5,4
+Northeast,PB,paulista,525.46,1
+South,PR,ceu azul,525.2900000000001,7
+Southeast,SP,terra roxa,525.0600000000001,3
+Southeast,MG,sao romao,524.0600000000001,5
+South,PR,cruz machado,523.23,3
+Central-West,MS,bela vista,522.88,3
+Northeast,BA,fatima,522.28,2
+Southeast,MG,alto caparao,522.0799999999999,2
+Northeast,PE,amaraji,521.89,2
+North,PA,cameta,521.85,4
+South,PR,japurá,521.54,5
+Northeast,CE,sao goncalo do amarante,520.94,5
+South,SC,vargeão,520.65,1
+Northeast,BA,pintadas,520.5,2
+Central-West,MT,dom aquino,520.36,3
+Northeast,BA,jiquiriçá,519.9300000000001,1
+Southeast,SP,torrinha,519.4200000000001,6
+South,PR,cambira,519.35,2
+Northeast,PB,solânea,519.29,1
+Southeast,MG,cabo verde,519.17,3
+Northeast,CE,caririacu,519.14,2
+South,RS,palmares do sul,518.4,5
+Southeast,MG,santa maria do suacui,517.75,2
+Southeast,SP,pedra bela,517.33,3
+Southeast,MG,cristália,517.3100000000001,3
+North,PA,nova ipixuna,517.03,1
+Southeast,MG,maravilhas,516.36,4
+Southeast,SP,ribeirao branco,515.49,2
+South,PR,diamante do norte,515.27,5
+North,PA,dom eliseu,515.0799999999999,5
+South,RS,montauri,514.4200000000001,2
+Southeast,SP,itapirapua paulista,514.0699999999999,2
+Northeast,RN,portalegre,513.01,2
+Northeast,PE,brejo da madre de deus,512.73,4
+Central-West,GO,nova aurora,512.62,1
+Central-West,GO,bonfinópolis,512.6,2
+South,PR,capitao leonidas marques,512.0899999999999,5
+Southeast,SP,guaraci,511.57000000000005,2
+Northeast,BA,iraquara,510.63,5
+Central-West,GO,sanclerlândia,510.34000000000003,4
+Central-West,MT,guarantã do norte,509.2900000000001,5
+Southeast,SP,dobrada,508.9,2
+Northeast,RN,santo antonio,507.98,1
+Southeast,MG,perdigao,507.58,7
+Northeast,BA,gandu,507.45,4
+Southeast,MG,minas novas,507.14,4
+South,RS,sao jose do ouro,507.09,5
+North,PA,bom jesus do tocantins,506.46,3
+Northeast,BA,nazaré,504.82000000000005,3
+North,RO,seringueiras,504.64,2
+Southeast,MG,palma,504.04999999999995,4
+Southeast,MG,cachoeira de pajeú,504.03,3
+Southeast,ES,mantenópolis,503.02,4
+Central-West,MT,juara,502.95000000000005,5
+Southeast,MG,limeira d oeste,502.42999999999995,2
+Southeast,SP,quadra,501.88,3
+Northeast,MA,carolina,500.69,2
+South,SC,dionísio cerqueira,500.54,3
+Northeast,BA,iaçu,499.85,4
+Central-West,MT,terra nova do norte,499.34999999999997,3
+Southeast,MG,campos altos,498.61,5
+South,PR,general carneiro,498.52000000000004,5
+Southeast,SP,ibirarema,498.18999999999994,5
+Southeast,MG,iapu,497.92999999999995,4
+Southeast,ES,itaoca,497.2,2
+South,SC,salto veloso,497.07,4
+Southeast,MG,são joão da ponte,496.76,1
+South,PR,nova santa rosa,496.62000000000006,4
+Northeast,CE,altaneira,496.26,2
+Southeast,SP,magda,496.07,2
+Central-West,MS,bodoquena,495.53,2
+Central-West,GO,itapirapuã,495.34,2
+South,RS,santo antonio das missoes,495.32000000000005,4
+Northeast,BA,arembepe,494.05999999999995,2
+South,PR,rebouças,493.38,6
+Northeast,BA,baianopolis,493.28,2
+Northeast,RN,apodi,492.07,3
+Central-West,MT,peixoto de azevedo,491.56,4
+Northeast,MA,barreirinhas,490.72999999999996,4
+Northeast,PB,rio tinto,490.25,2
+Southeast,SP,roseira,490.14000000000004,5
+South,SC,sao martinho,489.99,2
+Central-West,GO,pontalina,488.71999999999997,2
+Northeast,PE,santa maria da boa vista,488.56999999999994,2
+South,PR,vera cruz do oeste,488.34000000000003,3
+Northeast,BA,remanso,487.98999999999995,5
+Southeast,MG,bom repouso,487.95,4
+Northeast,PE,carnaiba,487.15,2
+Southeast,SP,tabatinga,487.11,5
+Northeast,CE,tamboril,485.92,3
+Southeast,SP,pedrinhas paulista,485.48,4
+Southeast,MG,dom silverio,484.12,4
+Northeast,PI,bertolinia,483.87,1
+South,SC,ponte serrada,483.78,3
+Northeast,PE,serrita,483.72,2
+South,SC,balneario barra do sul,482.62,4
+Southeast,SP,brauna,482.35,5
+Southeast,MG,rodeiro,482.21,3
+Southeast,SP,elias fausto,481.48,5
+Southeast,RJ,itaborai,480.72,4
+Northeast,BA,rio real,480.5999999999999,3
+Southeast,MG,tumiritinga,480.31,1
+Southeast,RJ,glicerio,480.25,2
+Northeast,PE,sertania,479.92,4
+Southeast,SP,joão ramalho,479.57000000000005,3
+South,SC,massaranduba,479.34,3
+Southeast,MG,tombos,479.11,5
+Northeast,BA,itambé,478.76,3
+Northeast,CE,aquiraz,478.65000000000003,2
+South,PR,santa isabel do ivaí,478.6,3
+Northeast,BA,jucurucu,478.31,2
+Northeast,BA,ituaçu,478.07000000000005,3
+Southeast,MG,mendes pimentel,477.72999999999996,5
+Northeast,CE,forquilha,477.45000000000005,4
+Southeast,MG,munhoz,477.12,4
+Southeast,MG,santo antônio do amparo,477.0300000000001,4
+Central-West,MS,nova alvorada do sul,476.8799999999999,3
+Southeast,ES,pedro canário,476.54999999999995,5
+Northeast,PE,são joão,476.52,1
+Southeast,SP,santa cruz da conceicao,476.27000000000004,4
+North,TO,sitio novo do tocantins,476.27,2
+Southeast,MG,jacuí,475.87,4
+Northeast,AL,paulo jacinto,475.5799999999999,2
+Central-West,MS,ladario,475.57000000000005,5
+Southeast,SP,panorama,474.64000000000004,5
+Southeast,SP,silveiras,474.25,3
+Southeast,MG,martinho campos,473.7,2
+Southeast,ES,muniz freire,473.61,3
+Northeast,CE,jardim,473.44000000000005,2
+Southeast,SP,jacarei,473.21999999999997,3
+Northeast,RN,são miguel do gostoso,473.04,2
+Southeast,SP,clementina,472.98,4
+Northeast,BA,cândido sales,472.52,3
+Northeast,PB,barra de santa rosa,472.32,2
+North,RO,nova brasilandia d oeste,472.14,2
+Central-West,MS,batayporã,472.12,3
+Central-West,GO,joviania,472.11,5
+Northeast,PB,imaculada,471.91,3
+South,RS,nova bassano,471.77,4
+South,SC,nova veneza,470.90000000000003,3
+Southeast,MG,juruaia,470.59,6
+Southeast,SP,riolândia,470.31,3
+Northeast,RN,almino afonso,470.01,1
+South,RS,tupancireta,469.51,4
+Northeast,SE,pinhao,469.47,1
+Northeast,AL,mata grande,469.35,2
+Southeast,MG,luminarias,468.68,3
+Southeast,MG,piedade do rio grande,466.9,3
+Northeast,BA,caravelas,466.78000000000003,3
+South,RS,nova palma,466.62,2
+Southeast,MG,bandeira do sul,466.30000000000007,2
+South,PR,centenário do sul,465.35,4
+South,RS,boa vista do cadeado,464.98,1
+Northeast,MA,alcântara,464.86,1
+Northeast,BA,rodelas,464.74999999999994,3
+Northeast,AL,junqueiro,464.40999999999997,2
+South,PR,guaraniacu,463.62,5
+Southeast,ES,água doce do norte,463.5200000000001,4
+Southeast,MG,monte verde,463.45000000000005,3
+South,SC,governador celso ramos,463.36,3
+Northeast,AL,anadia,462.59999999999997,2
+Northeast,CE,arneiroz,462.53,2
+South,RS,vila flores,462.5,3
+Northeast,PE,passira,461.72,1
+Southeast,SP,palmeira doeste,461.33,6
+Southeast,MG,jesuania,461.09,5
+Northeast,MA,capinzal do norte,460.6,2
+Northeast,PB,santa luzia,460.49,5
+South,SC,ibiam,460.34,4
+Southeast,MG,itau de minas,460.03,5
+Northeast,BA,lagoa real,459.92,1
+South,RS,são paulo das missões,459.26000000000005,2
+South,SC,mondai,458.31,2
+South,RS,arroio grande,457.84000000000003,3
+Southeast,SP,colômbia,457.24,5
+Northeast,PE,nossa senhora do o,457.19,2
+Southeast,ES,sooretama,456.35,5
+South,PR,carambeí,456.25,3
+Southeast,SP,arandu,455.65,4
+South,SC,lontras,455.59000000000003,3
+Northeast,PB,pitimbu,455.10999999999996,1
+Northeast,RN,goianinha,454.71000000000004,3
+North,TO,taguatinga,454.45000000000005,3
+Southeast,SP,santa lucia,454.26,3
+Northeast,CE,ipaporanga,453.81,2
+Northeast,CE,milagres,452.89,2
+South,PR,japira,451.94000000000005,3
+South,PR,alto parana,451.84,2
+Southeast,MG,são pedro da união,451.64,3
+South,RS,aurea,451.5,2
+Northeast,BA,carinhanha,451.5,2
+South,SC,balneário arroio do silva,450.66999999999996,4
+South,PR,colonia vitoria,450.5300000000001,6
+Northeast,PE,altinho,449.82,2
+Central-West,GO,indiara,449.47,4
+Southeast,MG,são joão do paraíso,449.43000000000006,4
+South,RS,redentora,449.34000000000003,3
+South,RS,são martinho,448.32000000000005,1
+Northeast,PE,afranio,448.03999999999996,2
+Southeast,SP,sud mennucci,448.01,5
+North,AM,humaita,447.71,4
+Northeast,BA,tanque novo,447.39,3
+South,PR,ribeirão do pinhal,447.33000000000004,5
+Southeast,MG,cruzilia,447.26000000000005,4
+South,SC,jacinto machado,447.16999999999996,4
+North,AC,xapuri,445.89,2
+Southeast,MG,manga,445.78999999999996,3
+Southeast,MG,iguatama,445.55999999999995,4
+Central-West,MT,porto alegre do norte,445.32,1
+Northeast,CE,aurora,444.7,3
+Southeast,RJ,rio claro,444.48,3
+South,SC,balneário rincão,444.3,3
+Southeast,MG,confins,444.25,1
+Southeast,MG,cambuquira,444.24,5
+Northeast,MA,bacuri,444.21000000000004,3
+Southeast,MG,serra dos aimores,443.08000000000004,5
+Southeast,SP,adolfo,441.59000000000003,5
+Central-West,MT,reserva do cabacal,440.88,2
+Central-West,GO,são simão,440.52,4
+Southeast,MG,piedade dos gerais,440.1600000000001,3
+Northeast,PI,pedro ii,440.15,2
+North,PA,augusto correa,440.00000000000006,3
+Northeast,BA,antonio cardoso,439.92,2
+South,PR,candido de abreu,439.92,4
+Southeast,RJ,santanesia,439.58,4
+South,PR,planalto,439.03,4
+Northeast,MA,dom pedro,438.68000000000006,3
+Northeast,AL,satuba,438.32,2
+Northeast,PE,tuparetama,437.69000000000005,3
+South,RS,tucunduva,437.36,3
+Southeast,MG,sao joao batista do gloria,436.83000000000004,3
+Southeast,SP,narandiba,436.65999999999997,2
+Southeast,ES,são roque do canaã,436.01,5
+Southeast,SP,quintana,435.85,4
+Southeast,MG,francisco badaro,435.80999999999995,3
+North,PA,rio maria,435.57,3
+North,TO,natividade,435.27,1
+Northeast,BA,bonito,435.25,2
+Southeast,MG,itinga,434.67,3
+Northeast,PE,ribeirao,434.53000000000003,4
+North,TO,conceição do tocantins,433.97,3
+South,SC,rio do oeste,433.84000000000003,3
+South,PR,moreira sales,433.47999999999996,3
+Southeast,MG,rio casca,433.47,5
+Southeast,SP,sales,433.12,5
+South,RS,erval grande,432.74,2
+South,PR,maripá,432.73,3
+South,PR,alto piquiri,432.5,1
+Northeast,PE,inaja,432.33,2
+North,TO,bandeirantes do tocantins,432.2,2
+Northeast,PE,canhotinho,430.49,2
+North,RO,alvorada d'oeste,430.1,1
+Northeast,BA,amelia rodrigues,430.02,3
+North,TO,xambioá,429.76,3
+Northeast,CE,aratuba,429.74,2
+Northeast,RN,carnaubais,429.65000000000003,2
+Southeast,SP,pongai,429.05,4
+Central-West,GO,caiaponia,428.96999999999997,4
+South,SC,saudades,428.94999999999993,4
+Southeast,MG,santa rita de minas,428.77,3
+Southeast,SP,santana de parnaiba,428.34000000000003,5
+Southeast,SP,iacanga,427.95000000000005,6
+Northeast,MA,estreito,427.65000000000003,3
+Northeast,BA,serrolândia,427.35,3
+Southeast,SP,itapura,426.5999999999999,6
+North,AP,laranjal do jari,426.18000000000006,2
+South,SC,aurora,425.47,2
+Southeast,SP,três fronteiras,425.25,5
+North,AP,oiapoque,425.24,1
+Southeast,MG,sao domingos do prata,424.99,4
+Northeast,AL,feliz deserto,423.75,2
+Northeast,CE,maranguape,423.63,4
+South,PR,floraí,422.95,2
+Northeast,MA,paraibano,422.90999999999997,3
+South,RS,maximiliano de almeida,422.55000000000007,3
+Southeast,MG,montalvânia,422.43,3
+Southeast,MG,madre de deus de minas,422.11,3
+Northeast,CE,apuiares,421.56000000000006,2
+South,RS,jari,421.21000000000004,4
+Northeast,BA,ibitira,421.03,1
+South,PR,santa tereza do oeste,420.59000000000003,3
+Central-West,GO,vicentinopolis,420.54999999999995,2
+Southeast,SP,taciba,419.6,2
+Northeast,CE,amanari,419.39,1
+Southeast,MG,bandeira,419.21000000000004,3
+Northeast,PE,camocim de são félix,419.02,2
+Central-West,GO,nova veneza,419.0,4
+Southeast,SP,valentim gentil,418.87,3
+Northeast,MA,coelho neto,418.6,3
+Central-West,MT,cláudia,418.38,4
+South,RS,mata,418.35,1
+South,RS,capela de santana,417.53000000000003,2
+Northeast,MA,governador eugênio barros,417.45,1
+Northeast,BA,caldeirao grande,417.25,3
+Central-West,GO,agua limpa,416.8,1
+Southeast,SP,florida paulista,416.53,4
+Southeast,ES,mucurici,415.66,1
+Southeast,SP,ribeirão do sul,415.45,3
+Southeast,SP,embauba,414.81,1
+South,SC,ascurra,414.25,4
+Southeast,SP,estrela d'oeste,413.78,2
+Southeast,MG,abadia dos dourados,413.5,3
+Southeast,MG,virgolândia,413.44,2
+Central-West,GO,campos verdes,413.04,1
+Southeast,MG,pingo-d'agua,413.02000000000004,1
+Northeast,RN,acari,412.43,1
+Southeast,MG,sabinópolis,412.4,5
+Northeast,CE,monsenhor tabosa,412.32000000000005,3
+Southeast,MG,conceicao das pedras,412.05,4
+Southeast,MG,chapada do norte,411.86999999999995,2
+South,PR,tomazina,411.31000000000006,3
+South,RS,sertão,410.35,3
+South,RS,caibate,410.31999999999994,2
+Northeast,RN,pendencias,410.02,2
+Southeast,MG,sao felix de minas,409.5,1
+Southeast,SP,jumirim,408.24,3
+Central-West,GO,fazenda nova,407.77,4
+Central-West,GO,palmeiras de goias,407.33000000000004,3
+Southeast,MG,pains,406.77000000000004,3
+Northeast,BA,serra do ramalho,406.71999999999997,4
+North,RO,sao francisco do guapore,405.61,2
+Southeast,SP,pindorama,405.52,2
+South,PR,pien,405.37,4
+South,PR,quitandinha,405.09,2
+Southeast,MG,goncalves,405.07,3
+Northeast,MA,sucupira do norte,404.20000000000005,2
+Southeast,SP,indiaporã,404.14,3
+South,SC,concordia,403.83000000000004,3
+North,RO,urupa,403.21,3
+South,RS,sobradinho,403.11,3
+Central-West,GO,ouvidor,401.07,1
+South,RS,capao do cipo,400.99,3
+Southeast,MG,senador cortes,400.65999999999997,1
+South,RS,cambara do sul,400.64,1
+Northeast,BA,itatim,400.46,3
+Southeast,MG,piranga,400.39,4
+Southeast,MG,santa margarida,400.35,2
+Southeast,MG,guidoval,400.11,2
+Northeast,PE,cumaru,399.98,2
+Southeast,MG,itacarambi,399.58000000000004,3
+Northeast,BA,pocoes,399.2,2
+Southeast,SP,álvaro de carvalho,399.0,2
+Southeast,ES,conceição da barra,398.59,3
+Northeast,CE,chorozinho,398.42,1
+Central-West,GO,itapaci,398.11,4
+Northeast,AL,porto calvo,397.93,2
+Southeast,MG,sao goncalo do rio preto,397.9,3
+Northeast,BA,ibipitanga,396.72,2
+Central-West,MT,arenapolis,396.46000000000004,2
+North,PA,brasil novo,396.1,3
+South,PR,são jorge do ivaí,395.96,1
+South,SC,guarujá do sul,395.63,4
+Southeast,SP,jambeiro,395.03999999999996,4
+Northeast,AL,igaci,395.0,2
+Southeast,MG,soledade de minas,394.78,5
+Central-West,MT,juruena,394.38,3
+South,RS,santa clara do sul,394.12,2
+South,PR,ângulo,394.06,3
+Northeast,BA,morpara,393.73,2
+Northeast,PI,união,393.32,1
+South,PR,tapejara,393.24,2
+Northeast,PB,frei martinho,393.21000000000004,2
+Southeast,MG,taquaraçu de minas,392.66,2
+North,PA,itaituba,392.63,3
+South,PR,joaquim távora,392.01,3
+Southeast,SP,timburi,390.86,3
+Southeast,SP,lavinia,390.4100000000001,4
+Southeast,ES,iconha,390.13000000000005,5
+Northeast,PE,oroco,389.46000000000004,3
+Southeast,SP,indiana,389.33000000000004,3
+Central-West,MS,itaquirai,388.72,2
+Southeast,SP,macedônia,388.43000000000006,4
+Southeast,MG,serra azul de minas,388.01,2
+Northeast,BA,itiuba,387.5,4
+Central-West,MT,campinapolis,387.09,3
+Northeast,MA,bequimao,386.15,1
+Southeast,MG,itapeva,386.1,5
+South,PR,tibagi,386.07000000000005,4
+South,SC,anita garibaldi,385.92999999999995,5
+Northeast,PE,camutanga,385.34000000000003,3
+South,PR,santa mônica,384.83000000000004,2
+Southeast,MG,prudente de morais,384.76000000000005,3
+Southeast,MG,campestre,384.32,3
+South,PR,jundiai do sul,384.01,3
+Northeast,BA,barra do mendes,383.28,3
+Northeast,PB,belem,383.03,1
+Southeast,MG,tabuleiro,382.78000000000003,2
+Southeast,MG,são tomás de aquino,382.55999999999995,3
+Southeast,MG,florestal,382.46999999999997,3
+Southeast,SP,tejupá,382.40000000000003,3
+Southeast,MG,serrania,382.17,2
+Southeast,RJ,tocos,381.47,2
+Central-West,MT,nova lacerda,380.75,1
+South,SC,tres barras,380.56,5
+Southeast,SP,barra do turvo,380.5,3
+Southeast,MG,volta grande,379.96000000000004,4
+Northeast,CE,pereiro,379.74,3
+Southeast,SP,birigui,379.64,3
+Northeast,AL,marechal deodoro,379.2,1
+Northeast,AL,paripueira,379.2,1
+Southeast,SP,moncoes,379.13,2
+Southeast,SP,sao jose da bela vista,379.07,3
+South,SC,urubici,378.58000000000004,3
+South,PR,santa terezinha de itaipu,378.11,3
+South,SC,ipumirim,377.52000000000004,5
+Northeast,AL,canapi,377.32,1
+Northeast,BA,ponto novo,377.0,1
+Northeast,RN,sao vicente,376.40999999999997,2
+Southeast,MG,inimutaba,376.39,2
+Southeast,MG,itanhomi,375.53000000000003,4
+Southeast,MG,coroaci,374.99,2
+Southeast,SP,são francisco da praia,374.70000000000005,3
+Southeast,MG,belo vale,374.48,3
+South,SC,tangara,373.82,1
+Northeast,PE,lagoa do ouro,373.35,2
+South,PR,santa mariana,373.34999999999997,4
+South,RS,são josé do hortêncio,373.23,2
+North,PA,moju,372.88,4
+South,SC,monte carlo,372.87,3
+Southeast,SP,nipoa,372.35,2
+Southeast,ES,vargem alta,372.35,5
+South,SC,irani,372.32000000000005,4
+South,RS,hulha negra,372.06,1
+Northeast,PE,ibimirim,372.03,3
+Northeast,PE,itapetim,371.99,2
+South,PR,reserva,371.55,3
+Southeast,SP,bento de abreu,371.48,2
+South,SC,siderópolis,371.11,4
+Northeast,MA,olho d agua das cunhas,370.97,2
+Northeast,PE,itapissuma,370.86,3
+Southeast,MG,carmo da cachoeira,370.64,4
+North,TO,pedro afonso,368.9,3
+South,RS,nova esperanca do sul,368.64,2
+Southeast,SP,iepe,368.51,5
+South,SC,itá,368.03,3
+Southeast,MG,papagaios,367.66,4
+Northeast,PB,coremas,367.59,3
+South,RS,boa vista das missoes,367.56,1
+Northeast,BA,sao francisco do conde,367.33,3
+Southeast,MG,granada,367.28999999999996,5
+Southeast,SP,glicério,366.88,2
+Southeast,MG,vargem grande do rio pardo,365.98,1
+Southeast,MG,maria da fé,365.65,3
+Southeast,MG,aiuruoca,365.03,4
+Northeast,BA,pilão arcado,364.68000000000006,4
+South,PR,curiúva,364.52,4
+Southeast,MG,cassia,364.41,6
+Northeast,PB,sumé,364.39,3
+Northeast,CE,jucás,363.96,1
+Northeast,BA,cordeiros,363.64,1
+Central-West,MT,novo sao joaquim,362.64,3
+Northeast,PE,santa cruz,362.46000000000004,2
+Northeast,RN,montanhas,361.07,1
+South,RS,tupandi,361.03999999999996,3
+Southeast,MG,ubaporanga,360.71000000000004,3
+South,RS,palmitinho,359.98999999999995,5
+Northeast,BA,barra do tarrachil,359.94,3
+Northeast,BA,ibicoara,359.84000000000003,3
+Northeast,SE,canindé de são francisco,359.83,2
+South,PR,ivaté,358.34,3
+Northeast,BA,araci,358.24,3
+Southeast,MG,porteirinha,358.05,5
+Central-West,MT,ribeirãozinho,358.01,2
+North,PA,bonito,357.6,2
+South,SC,anchieta,357.53000000000003,3
+South,RS,imigrante,357.34999999999997,3
+Northeast,PI,buriti dos lopes,356.82,2
+Northeast,BA,vereda,356.65,2
+South,RS,gaurama,356.61,3
+Northeast,PI,gilbues,356.51,1
+South,PR,santa izabel do oeste,356.35,2
+Northeast,CE,cedro,356.11,1
+Southeast,SP,ouro verde,356.03999999999996,3
+Central-West,GO,pirenopolis,355.74,4
+North,PA,curralinho,355.29,1
+Southeast,SP,pardinho,355.06,1
+Southeast,MG,dona euzébia,354.93999999999994,2
+North,TO,cariri do tocantins,354.26,2
+North,TO,formoso do araguaia,354.12,4
+Southeast,SP,arapei,353.71,2
+Southeast,MG,santana da vargem,353.59999999999997,4
+Southeast,MG,verissimo,353.01,3
+Northeast,MA,centro novo do maranhão,352.81,1
+North,PA,vigia,352.65,3
+Southeast,MG,ribeirao vermelho,352.53000000000003,2
+South,PR,renascenca,352.23,4
+Northeast,PB,pocinhos,351.92,3
+Northeast,BA,santa inês,351.77,3
+Northeast,AL,sao luis do quitunde,351.55,2
+Northeast,AL,jequia da praia,351.24,2
+Central-West,MT,são josé do rio claro,351.04999999999995,2
+Northeast,RN,ceara mirim,351.02,2
+South,SC,atalanta,351.0,1
+Northeast,PE,joaquim nabuco,350.45000000000005,4
+Northeast,PI,jose de freitas,350.42,3
+Northeast,PB,itaporanga,349.91999999999996,2
+Northeast,PE,pedra,349.79,3
+South,PR,mariluz,349.65,2
+Northeast,MA,porto franco,349.14,2
+South,RS,pantano grande,348.93,3
+South,RS,constantina,348.77,1
+Southeast,MG,cabeceira grande,348.75,3
+Southeast,SP,cruzalia,348.25,3
+Northeast,PI,piracuruca,347.44,2
+Southeast,SP,santo antônio do jardim,347.13,5
+Northeast,BA,botuporã,346.51,1
+Central-West,GO,americano do brasil,346.29,3
+South,SC,campo alegre,346.28999999999996,3
+Northeast,AL,olho d'agua das flores,346.07,3
+Southeast,MG,vieiras,345.15,1
+Southeast,MG,carneirinho,345.03,3
+South,SC,nova itaberaba,344.77,2
+Southeast,SP,inúbia paulista,344.7,3
+Northeast,PB,princesa isabel,344.62,1
+Southeast,MG,coluna,344.56,3
+South,SC,rancho queimado,343.99,2
+Northeast,BA,pedrao,343.71,1
+South,SC,tunapolis,343.68,1
+South,PR,sao joao do triunfo,343.4,3
+Central-West,MS,miranda,343.15999999999997,4
+North,PA,benevides,343.03000000000003,2
+Northeast,PB,mari,342.8,3
+Central-West,GO,rialma,342.48,3
+Southeast,MG,itapagipe,341.5,5
+South,PR,quatigua,341.35,5
+Northeast,MA,campestre do maranhão,340.95,2
+South,SC,nossa senhora de caravaggio,340.34000000000003,2
+Central-West,GO,mundo novo,340.15,2
+South,RS,dona francisca,340.15,2
+Central-West,MT,alto garcas,340.06,2
+North,PA,viseu,340.02,1
+Southeast,SP,oscar bressane,339.93,3
+Southeast,SP,arealva,339.88,4
+Northeast,PB,alagoinha,339.52000000000004,2
+South,PR,congonhinhas,338.86,2
+North,RO,candeias do jamari,338.74,1
+Northeast,BA,santa teresinha,338.1,2
+South,RS,planalto,337.81,3
+Central-West,MS,rio negro,336.89,1
+Northeast,MA,são pedro da água branca,336.56,1
+Southeast,MG,igaratinga,336.38,1
+Central-West,MT,vera,336.24,3
+South,SC,água doce,336.05,1
+North,RO,buritis,335.58,2
+Central-West,MT,vila rica,335.36,3
+Central-West,MS,jardim,334.97,3
+North,RO,colorado do oeste,334.64,3
+Central-West,GO,maurilândia,334.51,4
+South,PR,uraí,334.39,3
+Southeast,MG,antônio prado de minas,334.21,3
+Southeast,MG,recreio,334.19,3
+Northeast,BA,santaluz,333.97,3
+Southeast,MG,divinésia,333.51,1
+Northeast,SE,tomar do geru,333.47,2
+South,SC,sao jose do cerrito,333.34000000000003,3
+Northeast,BA,wanderley,333.11,2
+Southeast,MG,sao sebastiao do rio verde,332.58,1
+Southeast,ES,rio bananal,332.32000000000005,4
+Northeast,CE,abaiara,332.15,2
+Northeast,CE,potengi,331.95000000000005,2
+South,RS,nova alvorada,331.88,3
+South,PR,inácio martins,331.28,5
+Southeast,MG,riacho dos machados,331.25,3
+South,SC,maracaja,331.25,2
+Central-West,MT,nova monte verde,330.93,3
+Northeast,BA,ibiraja,330.14,2
+South,SC,balneario gaivota,329.12,3
+South,SC,major vieira,329.03000000000003,3
+Southeast,SP,bernardino de campos,328.87,4
+South,RS,arvorezinha,328.79,4
+Southeast,MG,setubinha,328.77,3
+South,PR,indianopolis,328.55000000000007,4
+South,PR,saudade do iguaçu,328.37,4
+North,PA,santa isabel do para,328.35,1
+Northeast,RN,serra de sao bento,328.15,2
+Southeast,SP,vista alegre do alto,327.66999999999996,3
+Southeast,ES,alto rio novo,327.23,2
+South,PR,nova fátima,326.79,4
+South,PR,itambaracá,326.27,2
+Northeast,BA,presidente tancredo neves,325.58,4
+Northeast,PE,vicencia,325.48,2
+Northeast,BA,nova soure,325.43000000000006,3
+Northeast,BA,itamari,324.99,3
+South,RS,restinga seca,324.33,3
+Northeast,MA,magalhães de almeida,323.52,1
+Northeast,CE,araripe,323.37,2
+Northeast,PE,mirandiba,323.16,3
+Southeast,SP,rechan,322.37,2
+Northeast,BA,bom jesus da serra,322.28999999999996,2
+Southeast,SP,motuca,322.25,3
+Northeast,PB,ibiara,321.98,1
+South,SC,chapadao do lageado,321.90000000000003,1
+Northeast,CE,novo oriente,321.4,3
+Southeast,ES,jerônimo monteiro,321.11,2
+South,RS,ibiaçá,320.87,2
+Southeast,SP,ocaucu,320.77,5
+Northeast,AL,piacabucu,320.4,2
+Northeast,RN,sao paulo do potengi,319.78,2
+North,TO,novo alegre,319.09000000000003,1
+South,RS,arroio do tigre,319.0,2
+South,SC,aguas frias,318.98,1
+South,PR,porto rico,318.92,1
+South,PR,rondon,318.86,2
+North,PA,placas,318.58000000000004,2
+Northeast,PE,poção,318.53000000000003,1
+Northeast,PB,junco do seridó,318.41999999999996,2
+Southeast,MG,são joão do oriente,318.11,2
+Southeast,MG,delfinópolis,318.02,3
+Southeast,SP,canitar,317.91999999999996,2
+Southeast,MG,medeiros,317.7,2
+Northeast,PE,flores,317.51,1
+Northeast,MA,cândido mendes,316.58000000000004,1
+Southeast,MG,laranjal,316.3,1
+Northeast,MA,cajari,316.3,1
+South,SC,sangao,316.25,3
+South,PR,janiópolis,316.22,3
+Northeast,BA,pau brasil,315.91999999999996,1
+Northeast,AL,igreja nova,315.90999999999997,2
+Northeast,PB,água branca,315.59000000000003,2
+Northeast,SE,umbauba,315.39,3
+Southeast,MG,luisburgo,314.57,2
+Southeast,MG,cantagalo,314.4,2
+Northeast,MA,sao vicente ferrer,314.37,1
+Southeast,MG,dom vicoso,313.8,2
+Northeast,MA,santa luzia,313.52,2
+South,PR,pérola,313.31,2
+Southeast,MG,campanário,313.29,2
+Southeast,MG,icaraí de minas,313.03,2
+Northeast,RN,areia branca,312.99,3
+South,SC,sao pedro de alcantara,312.90999999999997,2
+Southeast,MG,divinolândia de minas,312.82,5
+Central-West,MT,são josé dos quatro marcos,312.23,2
+South,PR,borrazopolis,312.23,2
+Central-West,GO,doverlândia,311.87,2
+Northeast,PE,buenos aires,311.83000000000004,2
+Northeast,MA,mirinzal,311.65,3
+South,RS,formigueiro,311.27,2
+Southeast,MG,romaria,310.46,2
+South,SC,ouro,310.25,1
+Central-West,MS,paranhos,309.99,1
+South,PR,cafeara,309.82,2
+Northeast,BA,quixabeira,309.41999999999996,3
+Northeast,AL,união dos palmares,309.25,1
+Southeast,MG,campo do meio,309.08,4
+Southeast,MG,carvalhópolis,308.84000000000003,3
+Central-West,MS,ivinhema,308.82,3
+Northeast,CE,iracema,308.77,2
+Southeast,MG,alterosa,308.64,3
+Southeast,MG,bonfim,308.55000000000007,4
+Northeast,AL,batalha,308.1,3
+Southeast,MG,piraúba,307.69000000000005,3
+South,PR,diamante d'oeste,307.69,1
+Northeast,BA,lencois,307.68,1
+Southeast,RJ,nilopolis,307.47,2
+Northeast,RN,sao jose do campestre,307.46,1
+South,PR,altamira do parana,307.11,2
+Northeast,CE,ipaumirim,307.10999999999996,1
+South,SC,nova erechim,306.78,3
+Northeast,BA,coracao de maria,306.06,1
+Northeast,SE,pirambu,305.77,1
+South,PR,serranopolis do iguacu,305.73,2
+North,PA,sao joao de pirabas,305.33000000000004,2
+Northeast,PE,cortês,305.32000000000005,2
+Southeast,MG,araponga,305.13,2
+Southeast,SP,águas de são pedro,304.03,2
+Southeast,MG,santa helena de minas,303.63,2
+Northeast,BA,sapeacu,303.47,2
+Northeast,BA,itacare,303.27,1
+Southeast,MG,monte alegre de minas,302.90999999999997,4
+Northeast,RN,patu,302.87,3
+Southeast,MG,pouso alto,302.81,3
+South,SC,jabora,302.79,2
+South,SC,riqueza,302.68,3
+South,PR,santo antônio do caiuá,302.55,1
+Southeast,SP,sete barras,302.52000000000004,4
+Northeast,MA,presidente juscelino,302.46000000000004,1
+Southeast,MG,goiabeira,302.27,2
+South,RS,salto do jacuí,301.94,4
+Northeast,BA,rio do antonio,301.75,2
+South,RS,condor,301.46999999999997,4
+Northeast,MA,bom jesus das selvas,301.41999999999996,2
+Central-West,GO,leopoldo de bulhões,300.76,1
+North,PA,porto trombetas,300.29,2
+South,RS,boqueirão do leão,300.14,2
+Northeast,PE,joão alfredo,300.07,3
+Northeast,PE,são josé do belmonte,299.84000000000003,2
+Northeast,CE,pentecoste,299.21000000000004,2
+Northeast,AL,boca da mata,298.03,2
+Northeast,AL,maravilha,297.54,2
+Northeast,PE,triunfo,296.53,2
+Southeast,MG,santana dos montes,296.46000000000004,2
+Northeast,AL,sao jose da laje,296.36,2
+Northeast,PB,livramento,295.98999999999995,1
+Northeast,CE,uruoca,295.57000000000005,2
+Northeast,PE,santa terezinha,295.52,1
+Northeast,CE,catarina,295.29,3
+Northeast,PE,moreilândia,295.12,2
+South,PR,itaipulandia,294.59999999999997,6
+Northeast,RN,japi,294.19,1
+Northeast,BA,crisopolis,293.57,4
+Northeast,BA,angical,293.5,1
+Southeast,SP,santo expedito,293.46,1
+Southeast,SP,américo de campos,293.35999999999996,1
+Central-West,GO,paranaiguara,293.34999999999997,3
+Northeast,BA,palmeiras,292.3,2
+South,PR,itambe,292.28,1
+Southeast,SP,campina do monte alegre,291.99,2
+Northeast,PI,barras,291.68,3
+Central-West,DF,candangolandia,291.34000000000003,3
+Northeast,CE,miraima,291.3,2
+South,RS,tuparendi,291.12,2
+Northeast,BA,rio de contas,290.72,3
+South,RS,parai,290.6,3
+Northeast,PE,sao jose da coroa grande,289.78999999999996,2
+Southeast,MG,rubim,289.48,3
+Southeast,MG,santo antonio do itambe,289.46999999999997,3
+South,SC,armazem,289.35,2
+Northeast,CE,ibiapina,289.34,3
+Northeast,SE,itabaianinha,289.33,2
+Southeast,SP,mendonca,289.08000000000004,4
+Northeast,RN,barauna,288.37,1
+Northeast,CE,milhã,288.29999999999995,2
+Southeast,SP,ipiguá,287.65999999999997,2
+Southeast,ES,irupi,287.63,2
+Southeast,SP,manduri,287.21,3
+Northeast,MA,chapadinha,287.06,3
+Northeast,BA,buritirama,286.11,2
+Central-West,MT,tabaporã,286.07000000000005,2
+Southeast,MG,merces,285.82,4
+Northeast,BA,mucugê,285.74,1
+Southeast,MG,caiana,285.61,3
+Northeast,AL,santana do ipanema,285.45,1
+Southeast,RJ,são josé do turvo,285.36,3
+Northeast,PB,uirauna,285.36,1
+Central-West,GO,alto horizonte,285.15,2
+South,PR,guamiranga,284.89,1
+Northeast,BA,olindina,284.41,3
+Southeast,SP,gastao vidigal,283.72,3
+South,RS,glorinha,283.3,2
+Southeast,MG,vargem alegre,283.15,2
+South,RS,aceguá,282.39,2
+Southeast,ES,presidente kennedy,282.31,2
+South,RS,monte alverne,282.01,1
+South,SC,agronômica,281.5,2
+Southeast,MG,santana do manhuaçu,281.44,3
+Northeast,PE,sao vicente ferrer,281.39,2
+Southeast,MG,cocais,281.3,1
+Southeast,MG,novo oriente de minas,281.0,1
+Southeast,SP,sarapuí,280.89,2
+South,RS,minas do leao,280.72,1
+Southeast,MG,carmésia,280.63,1
+Southeast,SP,santa ernestina,280.13,2
+Southeast,SP,trabiju,279.91,1
+South,SC,irineopolis,279.87,4
+Southeast,SP,potim,279.84000000000003,2
+Southeast,MG,cristiano otoni,279.38,2
+Central-West,MT,feliz natal,279.38,1
+Central-West,DF,núcleo bandeirante,278.98,3
+Central-West,MT,porto esperidião,278.83000000000004,2
+Northeast,BA,itanhem,278.65999999999997,1
+Southeast,MG,alto rio doce,278.54999999999995,4
+Southeast,MG,varzelândia,277.9,3
+Southeast,MG,chaveslandia,277.51,2
+South,PR,salto do itarare,276.46999999999997,1
+Southeast,MG,resende costa,276.09000000000003,3
+South,RS,ametista do sul,275.51,2
+Northeast,RN,galinhos,275.48,1
+Southeast,MG,alto jequitiba,275.42999999999995,3
+Southeast,MG,santo antônio do grama,275.36,2
+Northeast,SE,nossa senhora da gloria,274.72,2
+Central-West,GO,nazário,274.39,2
+Northeast,RN,tenente ananias,273.92,1
+North,TO,silvanopolis,273.88,1
+South,RS,tavares,273.62,1
+Northeast,PI,luzilândia,273.01,3
+Northeast,PE,quipapa,272.99,1
+Central-West,MT,nova olímpia,272.03999999999996,2
+South,SC,paulo lopes,271.66,2
+South,PR,sao tome,271.55,2
+Southeast,MG,pimenta,271.26,2
+Northeast,PB,puxinana,271.03,1
+North,PA,sao domingos do araguaia,270.65,1
+South,RS,muliterno,270.45,1
+Southeast,SP,luiziania,270.23,3
+South,SC,grao para,269.93,3
+Southeast,SP,santa mercedes,269.57,2
+Northeast,CE,parambu,269.22,4
+Southeast,MG,itamogi,269.03000000000003,2
+Northeast,PE,bodocó,269.03000000000003,2
+Northeast,PE,rio formoso,268.93,2
+Southeast,SP,espírito santo do turvo,268.84,2
+Northeast,SE,brejo grande,268.84,1
+Northeast,PE,riacho das almas,268.77,2
+Southeast,SP,irapua,268.14,4
+Central-West,MS,aquidauana,268.09000000000003,4
+South,PR,santo antonio do sudoeste,268.07,3
+Northeast,BA,quijingue,268.06,2
+Northeast,PE,terra nova,267.93,1
+Northeast,BA,itaguaçu da bahia,267.89,1
+South,RS,ibiraiaras,267.71,2
+Central-West,GO,diorama,266.92,2
+South,PR,mercedes,266.38,2
+Northeast,BA,são félix do coribe,266.06,1
+Northeast,CE,carnaubal,265.88,2
+Southeast,MG,luizlandia do oeste,265.31,2
+South,PR,boa vista da aparecida,264.63,4
+North,PA,sao sebastiao da boa vista,264.6,2
+Northeast,SE,tobias barreto,264.52,2
+South,RS,rodeio bonito,264.44,2
+South,RS,vale real,264.34,3
+Northeast,BA,itapitanga,264.09000000000003,3
+Southeast,MG,descoberto,264.02,3
+North,TO,alianca do tocantins,264.0,2
+Northeast,PI,campo alegre do fidalgo,263.94,1
+Central-West,GO,padre bernardo,263.69,4
+Southeast,SP,cabralia paulista,263.31,4
+Northeast,SE,itaporanga d'ajuda,263.24,1
+South,SC,timbé do sul,262.92,3
+Southeast,MG,jampruca,262.83,1
+South,SC,meleiro,262.78999999999996,3
+Central-West,MS,corguinho,262.66999999999996,2
+South,RS,osvaldo kroeff,262.16,1
+South,SC,ibicare,262.09000000000003,2
+Southeast,MG,santa cruz de salinas,261.72,2
+Northeast,MA,mata roma,260.90999999999997,2
+Southeast,SP,são josé do barreiro,260.89,3
+Northeast,BA,teolândia,260.77,4
+Southeast,MG,alpercata,260.77,2
+South,RS,sarandi,260.38,5
+South,RS,manoel viana,260.36,3
+Southeast,MG,frei lagonegro,260.34000000000003,1
+North,PA,novo repartimento,260.16,2
+South,RS,colorado,259.8,3
+Northeast,MA,alto alegre do pindare,259.56,1
+Central-West,MS,agua clara,259.17,2
+Northeast,SE,macambira,259.15,1
+Northeast,BA,santana,258.77,3
+Northeast,CE,são luís do curu,258.71,2
+South,PR,paraíso do norte,258.69,3
+Northeast,BA,itapé,258.56,1
+South,SC,turvo,258.53,4
+Northeast,PB,sao jose dos cordeiros,258.03,1
+Northeast,BA,belo campo,257.64,3
+Northeast,PI,redencao do gurgueia,257.56,1
+Southeast,SP,mineiros do tiete,257.34,3
+Northeast,BA,uruçuca,257.27,2
+Northeast,SE,neópolis,257.1,1
+Southeast,SP,aparecida de são manuel,256.78999999999996,2
+Central-West,GO,corumbaiba,256.46999999999997,4
+Southeast,MG,coronel murta,255.84,1
+Southeast,MG,sao sebastiao do maranhao,255.20999999999998,3
+Southeast,SP,ilha comprida,254.85,3
+Northeast,BA,planaltino,254.44,1
+South,PR,ipora,254.26,2
+North,TO,arraias,254.23000000000002,2
+Southeast,MG,sao miguel do anta,254.08999999999997,1
+North,TO,pequizeiro,253.98000000000002,1
+Southeast,MG,sericita,253.62,2
+Northeast,PE,buíque,253.09,1
+Central-West,MT,jaciara,252.88,3
+South,RS,ciriaco,252.74,1
+South,RS,nonoai,252.67,2
+Northeast,PI,novo oriente do piauí,252.57,2
+Northeast,MA,guimaraes,252.11,1
+South,RS,boa vista do burica,252.09,1
+South,RS,ararica,252.0,2
+Southeast,SP,guapiara,251.95,3
+South,PR,nova laranjeiras,251.59,1
+Northeast,MA,carutapera,251.23000000000002,2
+Southeast,MG,prados,250.95000000000002,3
+South,SC,trombudo central,250.85999999999999,4
+Central-West,DF,sobradinho,250.57999999999998,3
+South,PR,wenceslau braz,250.51,2
+Northeast,RN,martins,250.31,2
+South,PR,cerro azul,250.18,4
+Southeast,SP,rubiácea,250.15,2
+South,PR,lunardelli,250.07999999999998,2
+Southeast,SP,santo antonio da alegria,250.03,3
+Southeast,SP,queluz,249.9,2
+Northeast,BA,caraíbas,249.8,1
+Southeast,MG,cristais,249.61,3
+Central-West,MT,união do sul,249.2,1
+South,PR,lupionopolis,248.77,2
+North,AC,manoel urbano,248.71,1
+Central-West,MS,itaporã,248.44,3
+Southeast,MG,leandro ferreira,248.10000000000002,2
+South,SC,passos maia,248.1,2
+Southeast,SP,ribeira,248.02999999999997,3
+Northeast,CE,mombaça,247.98000000000002,1
+Northeast,BA,riachao das neves,247.76999999999998,2
+Southeast,MG,são josé do goiabal,247.67,2
+Central-West,GO,aragarças,247.60000000000002,3
+North,PA,oeiras do pará,247.45999999999998,2
+Northeast,BA,conceição do jacuípe,247.07999999999998,3
+Southeast,MG,guaraciaba,246.93,2
+Northeast,BA,presidente dutra,246.62,3
+Southeast,MG,mamonas,246.36,1
+Southeast,RJ,portela,246.26,1
+South,SC,antonio carlos,245.94,2
+Southeast,MG,imbe de minas,245.81,2
+Central-West,MT,carlinda,245.67000000000002,2
+North,PA,santa barbara do para,245.45,1
+South,RS,ajuricaba,245.37,2
+Southeast,MG,alvarenga,245.10999999999999,2
+South,PR,bom jesus do sul,245.10000000000002,1
+Southeast,MG,diogo de vasconcelos,244.70999999999998,2
+Northeast,CE,irauçuba,244.13,2
+Central-West,MT,curvelandia,243.78,1
+Northeast,BA,pindobacu,243.72,3
+Southeast,MG,jequitaí,243.3,2
+North,PA,ipixuna do pará,242.99,2
+North,AM,urucurituba,242.94,2
+Northeast,RN,guamare,242.64,2
+North,TO,couto de magalhaes,242.63,2
+South,RS,progresso,242.59,1
+Southeast,SP,mirante do paranapanema,242.49,3
+South,SC,quilombo,240.79,4
+Northeast,RN,ielmo marinho,240.32,2
+Central-West,GO,campo alegre de goias,240.27,2
+Northeast,BA,sao domingos,239.44,3
+Southeast,MG,capetinga,239.37,2
+Southeast,SP,coroados,239.34,2
+Northeast,CE,deputado irapuan pinheiro,239.0,2
+Southeast,MG,bueno brandao,238.32999999999998,4
+Central-West,DF,guara,237.96,2
+Central-West,GO,palminopolis,237.94,1
+South,RS,herval,237.65,2
+Central-West,MT,santo antônio do leste,237.55,1
+South,RS,santo expedito do sul,237.54000000000002,1
+South,RS,gramado dos loureiros,237.54000000000002,1
+Southeast,SP,flora rica,237.26,1
+South,RS,roca sales,237.16000000000003,2
+South,PR,enéas marques,237.14999999999998,4
+Northeast,BA,jaguaquara,237.14000000000001,2
+Northeast,BA,teofilândia,236.92,3
+South,RS,três arroios,236.8,3
+Northeast,CE,carire,236.28,3
+Southeast,RJ,laje do muriae,235.28,1
+North,RO,cabixi,234.5,1
+South,PR,nova cantu,234.31,2
+Northeast,BA,serra dourada,234.2,2
+Northeast,RN,lagoa de velhos,234.19,1
+South,RS,morro redondo,233.66,1
+Northeast,PB,areia,233.46,2
+South,PR,tunas do paraná,233.3,2
+Southeast,MG,rio preto,233.2,4
+Northeast,BA,canudos,232.89000000000001,1
+Southeast,MG,serra bonita,232.82,1
+South,SC,santa rosa de lima,232.79000000000002,3
+Southeast,MG,divisa alegre,232.35000000000002,2
+South,PR,flor da serra do sul,232.06,2
+South,RS,novo barreiro,232.03000000000003,2
+South,RS,ilopolis,231.58,3
+South,PR,doutor camargo,230.63,1
+Northeast,BA,xique-xique,230.56,3
+South,SC,witmarsum,230.35000000000002,3
+Northeast,BA,cipo,230.12,1
+Northeast,MA,satubinha,229.96999999999997,2
+Northeast,MA,buriti,229.91,1
+Southeast,SP,zacarias,229.85,2
+Northeast,SE,telha,229.65,1
+South,PR,são joão do ivaí,229.56,2
+Central-West,GO,cumari,229.51,2
+North,TO,goianorte,229.5,2
+South,RS,ipê,229.22000000000003,2
+Southeast,MG,ressaquinha,229.07,1
+Southeast,SP,alambari,228.94,3
+Northeast,BA,saubara,228.60000000000002,1
+Northeast,RN,ipueira,228.57,1
+Southeast,MG,sao joao da mata,228.39,2
+Central-West,GO,cavalcante,228.07,2
+Southeast,MG,senador amaral,228.0,2
+Southeast,SP,avaí,227.96,1
+South,RS,agua santa,227.59000000000003,2
+South,PR,capitão leônidas marques,227.25,2
+Southeast,SP,alvares florence,227.23,2
+Central-West,MT,nova canaa do norte,227.15,3
+Southeast,MG,morro da garca,227.14,1
+Northeast,AL,barra de sao miguel,226.64000000000001,2
+South,RS,mato leitão,226.59000000000003,2
+Southeast,MG,chácara,226.28,2
+Northeast,CE,erere,226.23,1
+Northeast,BA,são josé da vitória,225.76000000000002,2
+Northeast,PB,picuí,225.61,2
+Northeast,BA,dario meira,225.26,2
+Southeast,SP,floreal,225.0,2
+Northeast,RN,francisco dantas,224.78,1
+Northeast,BA,abaré,224.73,2
+Northeast,MA,araguana,224.07,1
+Southeast,SP,lourdes,223.84,2
+Northeast,PE,calcado,223.54,1
+Southeast,MG,pocrane,223.12,3
+Northeast,BA,irará,222.82,2
+South,RS,david canabarro,222.77,2
+Northeast,BA,muritiba,222.63,1
+South,PR,paranacity,222.60000000000002,3
+Northeast,BA,aramari,222.56,2
+Southeast,SP,poloni,222.41000000000003,3
+South,RS,cerro grande do sul,222.36,2
+Northeast,CE,pacoti,222.29000000000002,2
+Southeast,MG,berizal,221.98000000000002,1
+Northeast,RN,alexandria,221.92,2
+Northeast,SE,boquim,221.82,1
+Central-West,GO,alvorada do norte,221.72,3
+Northeast,PE,correntes,221.59,1
+Southeast,MG,bh,221.27,2
+South,RS,santo antonio do planalto,221.07,1
+Northeast,BA,são miguel das matas,221.0,1
+Southeast,MG,azurita,220.85000000000002,3
+Northeast,PB,fagundes,220.74,1
+Southeast,SP,herculandia,220.64,3
+Northeast,SE,japoata,220.60000000000002,1
+Central-West,MT,cotriguacu,220.48,2
+Southeast,MG,montezuma,220.35,2
+South,PR,abatiá,220.19,3
+South,PR,salgado filho,219.94,3
+Southeast,SP,santa rita d oeste,219.73000000000002,3
+Northeast,MA,sao domingos do maranhao,219.51,2
+Central-West,GO,hidrolina,218.95999999999998,2
+Southeast,MG,tiros,218.65999999999997,3
+Southeast,MG,bom jesus do amparo,218.54,1
+Northeast,BA,ibiassucê,218.42000000000002,2
+South,SC,santa rosa do sul,218.27,1
+South,PR,clevelândia,218.19,3
+Central-West,GO,mara rosa,218.17000000000002,2
+Northeast,BA,america dourada,217.92000000000002,1
+Northeast,SE,general maynard,217.85,1
+Northeast,MA,parnarama,217.82,1
+South,SC,xavantina,217.70999999999998,2
+Southeast,SP,galia,217.64,1
+Southeast,MG,santa rita do ibitipoca,216.81,2
+Southeast,MG,são gonçalo do abaeté,216.48,2
+Central-West,MS,vicentina,216.07,1
+Northeast,CE,tururu,215.6,1
+Southeast,MG,andrequice,215.14,1
+Southeast,MG,macuco de minas,215.14,1
+South,RS,capao da porteira,215.13,2
+Central-West,MT,gaucha do norte,214.94000000000003,2
+Southeast,MG,cachoeira da prata,214.43,2
+South,RS,fontoura xavier,214.16,1
+Southeast,MG,moema,214.12,1
+Northeast,MA,pocao de pedras,214.05,1
+South,SC,rio das antas,213.78,2
+Northeast,CE,frecheirinha,213.71,2
+Southeast,SP,mira estrela,213.56,1
+Northeast,PI,baixa grande do ribeiro,213.47,1
+Northeast,PI,agua branca,213.41,2
+Southeast,SP,são joão de iracema,213.38,3
+South,RS,bossoroca,213.34,1
+Northeast,BA,jussari,213.19,2
+Southeast,MG,ritápolis,212.32999999999998,3
+Southeast,MG,fruta de leite,212.16,2
+Northeast,PE,jatauba,212.12,2
+Southeast,MG,cachoeira do brumado,211.17000000000002,1
+South,PR,chopinzinho,211.14,4
+South,RS,campina das missões,211.0,2
+Southeast,SP,estrela do norte,210.76999999999998,3
+Central-West,MT,nortelandia,210.64000000000001,1
+Southeast,MG,sao roque de minas,210.54000000000002,2
+Northeast,PE,panelas,210.49,2
+Southeast,SP,rinópolis,210.49,3
+Southeast,MG,guape,210.48000000000002,1
+Northeast,MA,pastos bons,210.22,2
+Southeast,MG,ladainha,210.20999999999998,2
+Northeast,BA,ubatã,210.18,1
+Northeast,BA,nova canaã,210.07999999999998,2
+South,PR,ventania,209.88,3
+Southeast,SP,nova campina,209.51999999999998,2
+Northeast,PI,isaías coelho,209.46,1
+South,RS,jaguari,209.34,3
+South,PR,espigão alto do iguaçu,209.32,2
+Southeast,MG,bugre,209.3,1
+Central-West,MT,rio branco,209.17000000000002,4
+Southeast,MG,inconfidentes,208.97,2
+Northeast,PE,macaparana,208.71,2
+South,SC,sao bernardino,208.48000000000002,1
+South,PR,sao jose dos pinhais,208.42000000000002,1
+Southeast,ES,celina,208.23,2
+Southeast,MG,acaiaca,207.9,2
+South,RS,maquine,207.39999999999998,1
+Central-West,GO,matrinchã,207.18,2
+South,RS,salvador do sul,206.99,1
+Southeast,MG,santana do deserto,206.99,1
+Central-West,GO,carmo do rio verde,206.32,2
+South,RS,maçambará,205.72,2
+Southeast,SP,engenheiro balduíno,205.54,1
+Northeast,CE,fortim,205.53,1
+Northeast,RN,lagoa nova,205.2,2
+Northeast,PB,pedras de fogo,204.63,2
+Northeast,AL,lagoa da canoa,204.53,1
+Southeast,MG,arantina,204.41,1
+Northeast,BA,apuarema,204.38,1
+North,PA,mãe do rio,203.61,2
+Northeast,AL,monteiropolis,203.43,1
+Northeast,RN,sao jose do serido,203.31,1
+Central-West,GO,cocalzinho de goiás,203.08,1
+Northeast,BA,abaíra,203.0,2
+North,RO,guajará-mirim,202.85,3
+South,SC,belmonte,202.5,1
+Southeast,SP,aguas de santa barbara,202.03,3
+Northeast,CE,saboeiro,201.83,1
+South,PR,palmital,201.75,1
+Southeast,MG,ataleia,200.69,2
+South,PR,alto alegre,200.69,2
+Southeast,MG,luz,200.53,2
+Northeast,AL,porto de pedras,200.35,1
+Southeast,MG,ribeiro junqueira,200.32999999999998,1
+Southeast,MG,urucania,200.32999999999998,1
+Northeast,CE,quixelo,200.25,2
+Southeast,SP,lucianópolis,199.97,2
+Northeast,BA,tabocas do brejo velho,199.95999999999998,3
+Southeast,ES,aguia branca,199.94,2
+Northeast,BA,iramaia,199.37,2
+Southeast,MG,são joão do manhuaçu,199.26,2
+Southeast,SP,aparecida de monte alto,199.26,1
+Southeast,MG,capitão andrade,199.0,1
+Northeast,PB,curral de cima,199.0,1
+Southeast,ES,pancas,198.9,1
+Northeast,CE,várzea alegre,198.65,2
+Northeast,PI,bocaina,198.62,1
+Northeast,PB,triunfo,198.57,1
+Southeast,SP,emilianópolis,198.49,2
+Southeast,MG,carlos chagas,198.46,3
+South,PR,lindoeste,198.25,2
+South,RS,capivari do sul,197.95,1
+Northeast,BA,ichu,197.92000000000002,2
+Southeast,MG,pequi,197.5,1
+Central-West,GO,apore,197.38,1
+Southeast,MG,claraval,197.04,1
+South,PR,jaboti,196.95999999999998,2
+South,SC,jaguaruna,196.89,2
+Southeast,MG,sao goncalo do rio das pedras,196.5,1
+Northeast,RN,jose da penha,196.43,1
+Southeast,MG,desembargador otoni,196.02,1
+Central-West,GO,campinaçu,195.91,1
+Southeast,SP,porangaba,195.63,2
+Northeast,BA,ilheus,195.39,2
+Central-West,GO,jesupolis,195.34,2
+North,TO,parana,195.25,2
+Northeast,BA,maragogipe,195.04000000000002,2
+Southeast,ES,santo antonio do canaa,194.88,1
+Northeast,BA,barra,194.83999999999997,2
+Northeast,PB,areial,194.82,1
+Northeast,RN,governador dix-sept rosado,194.82,1
+South,SC,ipira,194.73999999999998,2
+Southeast,RJ,purilandia,194.48000000000002,1
+Northeast,RN,lagoa d'anta,194.34,1
+South,RS,são vendelino,194.28,2
+South,PR,sapopema,193.31,2
+Northeast,PI,pimenteiras,193.21,2
+Northeast,BA,itagimirim,193.06,1
+Northeast,PB,caldas brandao,192.32,1
+South,RS,fazenda vilanova,192.21,2
+Central-West,GO,rianápolis,191.99,1
+South,RS,vila langaro,191.91,3
+South,PR,roncador,191.73000000000002,2
+Southeast,MG,felício dos santos,191.58,1
+South,RS,coxilha,191.5,2
+Northeast,PI,sao lourenco do piaui,191.11,1
+Northeast,PI,campo grande do piauí,190.88,1
+Northeast,RN,severiano melo,190.82999999999998,1
+Northeast,PE,capoeiras,190.53,1
+Northeast,AL,taquarana,190.43,1
+Southeast,MG,nazareno,190.26,2
+Southeast,MG,orizânia,190.08999999999997,1
+South,PR,jardim olinda,189.84,1
+Central-West,MT,castanheira,189.39,3
+Southeast,SP,marinopolis,188.98000000000002,2
+Northeast,BA,itaparica,188.36,1
+Southeast,MG,ipuiúna,188.34,1
+North,RO,presidente medici,188.32999999999998,2
+Northeast,BA,nova fatima,188.29000000000002,1
+Northeast,BA,correntina,188.10999999999999,2
+Southeast,RJ,visconde de maua,188.05,3
+Central-West,GO,sao joao da parauna,187.84,1
+Northeast,BA,cravolandia,187.83,1
+Northeast,PB,cubati,187.59,2
+Southeast,MG,capim branco,187.17,2
+North,PA,floresta do araguaia,186.79000000000002,1
+Southeast,MG,silvianopolis,186.76000000000002,3
+South,PR,luiziana,186.57,2
+Northeast,PE,chã grande,186.48999999999998,1
+Northeast,PE,santa filomena,186.4,1
+Southeast,SP,euclides da cunha paulista,186.39,2
+Northeast,MA,jatoba,186.36,1
+South,SC,arroio trinta,185.84,1
+Northeast,BA,oliveira dos brejinhos,185.84,2
+Southeast,MG,sao joao da serra negra,185.7,2
+Northeast,BA,brotas de macaúbas,185.62,1
+Central-West,GO,cachoeira dourada,185.02,2
+Northeast,PI,pio ix,184.84,1
+Central-West,GO,urutai,184.79,3
+South,RS,miraguaí,183.29,1
+Southeast,MG,são josé do divino,182.84,1
+Northeast,CE,massape,182.79,2
+South,RS,putinga,182.56,2
+South,PR,pranchita,182.35999999999999,1
+South,SC,sao domingos,182.17999999999998,2
+Northeast,PI,conceicao do caninde,181.81,1
+Southeast,MG,sao geraldo da piedade,181.76000000000002,1
+Southeast,MG,paiva,181.74,2
+Northeast,BA,itapicuru,181.54,2
+South,RS,victor graeff,181.25,2
+Northeast,BA,itubera,181.22,3
+Southeast,MG,ibertioga,181.21,1
+Central-West,MS,tres lagoas,181.03,2
+North,PA,mojuí dos campos,180.87,2
+Northeast,PI,caldeirão grande do piauí,180.76,1
+Northeast,PB,lagoa,180.76,1
+North,TO,colmeia,180.69,2
+South,PR,amapora,180.65,2
+Southeast,MG,carrancas,180.62,3
+Southeast,MG,senador firmino,180.44,2
+South,SC,caibi,180.41000000000003,3
+Central-West,GO,aruana,180.31,2
+South,RS,santa bárbara do sul,180.09,2
+South,PR,boa esperança,179.77,1
+Northeast,CE,chaval,179.45,1
+Southeast,MG,mendonca,179.35,1
+Southeast,SP,itirapina,179.21,2
+Central-West,GO,mimoso de goias,179.12,1
+South,PR,quinta do sol,178.66000000000003,3
+Northeast,PB,alagoa grande,178.52,1
+Northeast,CE,groairas,178.5,1
+Southeast,MG,santa fé de minas,178.27,1
+South,PR,marilândia do sul,178.27,1
+South,PR,rio verde,178.27,1
+Southeast,MG,santo antonio dos campos,177.99,1
+Northeast,RN,riacho da cruz,177.34,1
+South,SC,romelândia,176.87,1
+Northeast,BA,candeal,176.65,1
+Southeast,MG,rio espera,176.45000000000002,1
+Southeast,ES,iuna,176.26999999999998,2
+Northeast,CE,madalena,176.24,1
+Central-West,GO,aurilandia,176.2,1
+Central-West,GO,nova crixas,176.18,1
+Southeast,MG,turvolândia,176.09,2
+South,PR,santa amélia,175.87,1
+South,RS,ivora,175.79000000000002,1
+Central-West,MT,salto do céu,175.61,2
+South,RS,lagoao,175.42999999999998,1
+Southeast,MG,simao pereira,175.41,1
+Northeast,PB,conceição,175.24,2
+Southeast,MG,machacalis,175.17,2
+Southeast,ES,jacigua,175.11,2
+North,TO,lajeado,175.1,1
+Northeast,PI,ilha grande,174.68,1
+North,TO,pindorama do tocantins,174.18,2
+South,PR,mariopolis,173.95000000000002,1
+Northeast,PE,quixada,173.89000000000001,1
+South,PR,ibema,173.89000000000001,1
+Northeast,PI,alegrete do piaui,173.88,1
+Northeast,BA,presidente janio quadros,173.88,1
+Northeast,PI,sao jose do piaui,173.88,1
+Northeast,PI,itaueira,173.62,2
+Southeast,MG,coracao de jesus,173.38,3
+Central-West,GO,sao patricio,172.95999999999998,1
+Northeast,BA,dom basilio,172.70999999999998,3
+Central-West,MT,poxoreu,172.59,2
+North,TO,aparecida do rio negro,172.57999999999998,1
+Southeast,SP,lupercio,172.11,3
+North,RR,bonfim,171.69,1
+South,PR,são jorge d'oeste,171.55,2
+Northeast,BA,pindai,171.54,2
+Southeast,RJ,tres irmaos,171.20000000000002,1
+Southeast,SP,caiuá,170.99,2
+Central-West,MS,tacuru,170.71,1
+Northeast,RN,sitio novo,170.14000000000001,1
+Northeast,PE,são domingos,170.01,1
+Northeast,PB,inga,169.99,1
+Northeast,BA,saude,169.98000000000002,2
+Southeast,MG,senhora de oliveira,169.94,2
+Northeast,PB,remígio,169.92000000000002,1
+Northeast,CE,guassussê,169.92000000000002,1
+Central-West,GO,simolândia,169.73,2
+South,RS,seberi,169.67000000000002,2
+Southeast,MG,careacu,169.58999999999997,2
+Southeast,SP,santa maria da serra,169.42000000000002,2
+Northeast,BA,heliopolis,169.28,1
+Southeast,SP,alfredo marcondes,169.23,1
+Southeast,MG,andrelândia,169.07,3
+Northeast,RN,marcelino vieira,169.02,1
+South,PR,itaguajé,168.96,2
+Northeast,RN,carnauba dos dantas,168.45000000000002,1
+Northeast,AL,pilar,168.36,3
+Southeast,MG,urucuia,168.29000000000002,1
+Southeast,MG,paula candido,168.19,1
+Northeast,RN,rodolfo fernandes,168.19,2
+Southeast,ES,vila nelita,167.98,2
+South,RS,ibarama,167.92000000000002,1
+Central-West,GO,agua fria de goias,167.81,1
+South,PR,ourizona,167.8,1
+Southeast,MG,matutina,167.66,2
+South,PR,quatro pontes,167.66,1
+Northeast,PB,aroeiras,167.48000000000002,1
+North,TO,carmolandia,167.45,1
+Southeast,MG,itatiaiucu,167.15,2
+South,PR,maua da serra,167.12,2
+Central-West,MT,juscimeira,167.0,2
+Southeast,SP,são francisco,166.72,2
+Northeast,PB,santa cecilia de umbuzeiro,166.71,1
+Southeast,MG,piracema,166.59,1
+Northeast,PE,jurema,166.45999999999998,2
+Southeast,SP,jaborandi,166.38,3
+South,PR,adhemar de barros,166.29,1
+Southeast,MG,angustura,166.29,1
+Northeast,PE,caetés,166.04000000000002,1
+Northeast,BA,apora,165.9,3
+South,RS,alto alegre,165.72,1
+South,SC,paial,165.71,1
+North,RO,mirante da serra,165.60000000000002,1
+Southeast,MG,são joão das missões,165.15,2
+Southeast,SP,tecainda,165.13,1
+South,RS,protasio alves,165.06,2
+South,SC,jose boiteux,165.0,1
+North,PA,santa maria do pará,164.89,2
+Northeast,BA,itagi,164.64,2
+Northeast,PB,alagoa nova,164.29,1
+Northeast,MA,vitória do mearim,164.0,2
+Northeast,SE,carmópolis,163.45,2
+Southeast,MG,dom joaquim,163.38,1
+Central-West,GO,corumba de goias,163.28,2
+South,RS,vespasiano correa,163.25,1
+South,SC,floripa,163.09,2
+North,TO,araguaçu,162.86,1
+Northeast,PB,bonito de santa fe,162.85,1
+Northeast,CE,ocara,162.69,2
+North,TO,centenario,162.47,1
+Southeast,MG,guiricema,161.56,1
+South,PR,jardim alegre,161.44,2
+Southeast,MG,piau,161.44,2
+North,RO,cerejeiras,161.23,1
+Southeast,MG,inhaúma,161.20999999999998,2
+Northeast,BA,sao desiderio,161.19,1
+South,PR,ipiranga,161.08999999999997,3
+Central-West,GO,araguapaz,160.89,2
+Northeast,CE,meruoca,160.85,2
+South,PR,tamarana,160.84,2
+South,RS,esmeralda,160.76,1
+Northeast,CE,oros,160.71,2
+Central-West,MT,itiquira,160.66,1
+Northeast,RN,sao fernando,160.58,1
+Northeast,RN,extremoz,160.14,2
+Northeast,PB,araruna,159.85,1
+Northeast,PB,riacho de santo antonio,159.6,1
+Northeast,BA,mascote,158.99,2
+North,TO,duere,158.77,1
+Southeast,MG,central de santa helena,158.76,1
+Southeast,MG,santa cruz do prata,158.72,2
+South,PR,doutor ulysses,158.61,1
+South,SC,morro grande,158.57999999999998,1
+Northeast,PI,santa cruz do piaui,158.38,1
+Northeast,PB,juripiranga,157.99,1
+South,PR,grandes rios,157.75,2
+Southeast,SP,igaraçu do tietê,157.66,4
+Northeast,RN,felipe guerra,157.64999999999998,1
+Southeast,MG,sabara,157.60000000000002,1
+Southeast,MG,itabirinha de mantena,157.41,1
+Northeast,BA,ibitiara,157.28,1
+Northeast,BA,mundo novo,157.28,1
+Southeast,MG,aracitaba,156.74,2
+Central-West,MT,porto estrela,156.72,1
+South,SC,abdon batista,156.70000000000002,1
+Northeast,BA,paripiranga,156.65,2
+South,RS,sao joao da urtiga,156.64000000000001,1
+Southeast,MG,chale,156.22,2
+Southeast,MG,presidente kubitschek,156.06,2
+South,RS,silveira martins,155.14,1
+Northeast,PB,nova floresta,155.0,1
+South,PR,sede alvorada,154.9,1
+South,PR,imbaú,154.87,2
+Northeast,MA,boa vista do gurupi,154.75,2
+South,RS,barão de cotegipe,154.70999999999998,2
+Northeast,MA,miranda do norte,154.64,1
+Southeast,MG,dionisio,154.42000000000002,2
+Southeast,SP,neves paulista,154.32,3
+Central-West,MT,conquista d'oeste,154.04,1
+Southeast,MG,brejo bonito,153.9,1
+South,PR,cantagalo,153.84,2
+Northeast,PI,luís correia,153.36,1
+Central-West,MS,anastácio,153.35,2
+South,SC,cerro negro,153.32,1
+Southeast,MG,senador modestino gonçalves,153.17000000000002,2
+South,PR,iguatu,153.04000000000002,1
+Northeast,AL,ibateguara,152.86,2
+South,PR,farol,152.72,1
+South,RS,caseiros,152.66,1
+Southeast,MG,pirajuba,152.61,1
+Northeast,AL,dois riachos,152.25,1
+South,SC,coronel martins,152.14,2
+Southeast,MG,salto da divisa,151.66000000000003,2
+Southeast,MG,planura,151.1,2
+South,PR,mandirituba,151.08,2
+Northeast,AL,pau d'arco,150.98000000000002,1
+Southeast,MG,liberdade,150.9,3
+Northeast,PB,várzea,150.18,1
+Northeast,CE,flores,149.9,1
+Central-West,GO,mairipotaba,149.65,1
+Northeast,PI,lagoinha do piauí,149.61,1
+South,PR,rancho alegre d'oeste,149.29,1
+North,PA,monte alegre,149.26,1
+Southeast,ES,divino de sao lourenco,149.16,1
+Northeast,MA,cajapio,149.16,1
+Northeast,CE,mucambo,149.14000000000001,1
+Northeast,MA,sao joao batista,149.11,1
+Southeast,RJ,sacra família do tinguá,149.04,1
+Central-West,GO,santo antonio de goias,149.02,1
+Southeast,MG,grupiara,148.94,1
+South,RS,barra do rio azul,148.71,1
+South,PR,entre rios do oeste,148.57999999999998,3
+Central-West,GO,são luiz do norte,148.33,1
+Northeast,RN,jandaira,148.22,1
+Southeast,MG,ibiracatu,148.15,1
+South,RS,chiapetta,148.15,1
+South,PR,cruzeiro do iguaçu,148.15,1
+North,TO,pugmil,148.15,1
+Northeast,BA,wagner,147.69,1
+Northeast,BA,biritinga,147.57,1
+Southeast,MG,estrela do indaiá,147.5,2
+Northeast,PB,manaíra,147.4,1
+Northeast,CE,aiuaba,147.38,1
+Southeast,MG,ferros,147.36,2
+Northeast,PE,água preta,147.34,1
+Southeast,MG,ribeirao das neves,147.04,1
+Northeast,BA,governador lomanto junior,146.57999999999998,1
+South,RS,capitao,146.5,1
+Southeast,MG,passa tempo,146.46,1
+Southeast,MG,durande,146.19,2
+South,RS,andre da rocha,146.13,1
+Southeast,MG,pocoes de paineiras,145.95000000000002,1
+South,RS,sao francisco de assis,145.39,2
+Northeast,SE,cristinapolis,145.37,1
+Central-West,MT,tapurah,145.11,1
+South,SC,lajeado grande,145.08,1
+Northeast,BA,anguera,144.99,1
+North,TO,augustinopolis,144.89,1
+Northeast,BA,itagibá,144.86,2
+Northeast,RN,tibau do sul,144.79,1
+South,SC,peritiba,144.70999999999998,2
+Southeast,MG,comercinho,144.65,1
+Southeast,SP,jeriquara,144.65,1
+Southeast,MG,corrego fundo,144.65,1
+Southeast,ES,brejetuba,144.54,1
+Northeast,AL,são josé da tapera,144.47,1
+Southeast,MG,jacinto,144.46,2
+Southeast,MG,cruzeiro da fortaleza,144.3,2
+Southeast,SP,santa barbara d'oeste,144.20999999999998,2
+Northeast,MA,presidente médici,143.99,1
+South,RS,augusto pestana,143.95,2
+Southeast,SP,jaci,143.41,2
+Northeast,MA,moncao,143.35999999999999,1
+Northeast,BA,brejões,143.34,1
+Southeast,SP,guzolandia,143.31,1
+Southeast,MG,sao geraldo do baguari,142.96,1
+South,PR,sao pedro do iguacu,142.96,1
+Northeast,BA,central,142.89,1
+Northeast,PI,avelino lopes,142.72,2
+South,PR,turvo,142.68,2
+Southeast,MG,cachoeira dourada,142.67000000000002,1
+Northeast,PE,machados,142.66,1
+Northeast,PE,orobó,142.63,1
+Northeast,PB,serra branca,142.26,1
+South,SC,angelina,142.04999999999998,1
+Southeast,SP,gaviao peixoto,142.04000000000002,2
+Northeast,CE,barreira,142.01,1
+Southeast,MG,francisco dumont,141.87,2
+Northeast,PB,sao francisco,141.75,1
+South,RS,charrua,141.63,1
+Northeast,BA,ibirapua,141.42,1
+Southeast,SP,mariápolis,140.98000000000002,2
+Southeast,MG,agua comprida,140.65,2
+Southeast,SP,tapirai,140.53000000000003,2
+South,PR,paranapoema,140.49,1
+Southeast,SP,meridiano,140.47,1
+Southeast,SP,presidente alves,140.42,2
+Central-West,GO,ipiranga de goiás,139.98000000000002,1
+Northeast,CE,banabuiú,139.61,1
+South,PR,iretama,139.59,1
+North,AC,brasileia,139.53,1
+North,AC,epitaciolândia,139.52,1
+Northeast,BA,maiquinique,139.48000000000002,1
+South,RS,erebango,139.42,1
+North,TO,divinópolis do tocantins,139.26999999999998,1
+Southeast,SP,nova canaã paulista,139.15,2
+Southeast,ES,braco do rio,138.93,2
+Southeast,SP,natividade da serra,138.89,1
+South,RS,são nicolau,138.6,1
+Northeast,SE,japaratuba,138.24,1
+Northeast,MA,brejo,138.24,1
+Northeast,AL,cajueiro,138.15,1
+South,PR,manfrinopolis,138.07999999999998,1
+Southeast,MG,sardoa,137.99,1
+Northeast,RN,vila flor,137.98000000000002,1
+Southeast,MG,campo alegre de minas,137.93,1
+Northeast,AL,atalaia,137.65,1
+South,SC,zortea,137.57,2
+Northeast,BA,wenceslau guimaraes,137.5,1
+Southeast,MG,sao domingos das dores,137.4,2
+North,AP,vitoria do jari,137.27,1
+South,RS,mariano moro,137.26,1
+Southeast,MG,goianá,137.25,3
+Northeast,PB,arara,137.14000000000001,1
+Northeast,PB,sao mamede,137.1,1
+South,PR,sao jose da boa vista,137.07,1
+South,SC,sao cristovao do sul,137.07,1
+Northeast,MA,vargem grande,137.01,1
+South,RS,alpestre,136.98000000000002,1
+South,SC,treviso,136.98000000000002,1
+Northeast,CE,palhano,136.6,1
+South,RS,nova araçá,136.59,1
+Southeast,MG,serranopolis de minas,136.5,1
+Southeast,ES,governador lindenberg,136.28,2
+Northeast,CE,independencia,136.05,1
+Southeast,MG,antunes,135.39,1
+Southeast,SP,pontes gestal,135.07999999999998,1
+Southeast,SP,tapinas,135.07999999999998,1
+Southeast,SP,venda branca,134.82999999999998,1
+Southeast,MG,umburatiba,134.7,1
+Central-West,MT,sao felix do araguaia,134.64,1
+Southeast,MG,bela vista de minas,134.51,1
+Southeast,MG,patrocinio do muriae,134.38,2
+Southeast,SP,candido rodrigues,134.3,4
+Southeast,MG,crisolita,134.24,2
+Northeast,MA,benedito leite,134.12,1
+Northeast,MA,lago verde,134.01,1
+South,PR,california,133.95,2
+Northeast,PE,ferreiros,133.94,1
+South,RS,ipiranga do sul,133.25,1
+Northeast,MA,são benedito do rio preto,133.22,1
+North,PA,nova timboteua,133.05,1
+North,RO,cujubim,132.94,1
+Northeast,PB,assuncao,132.69,1
+Southeast,MG,japaraiba,132.46,1
+Central-West,MS,pedro gomes,132.38,1
+South,RS,barracao,132.2,2
+Northeast,BA,barro alto,132.18,2
+Northeast,AL,agua branca,132.1,1
+Southeast,MG,varjao de minas,131.89999999999998,2
+South,RS,quevedos,131.69,2
+Northeast,BA,sítio do quinto,131.65,2
+Northeast,PE,pombos,131.43,1
+Northeast,BA,piatã,131.35,2
+Southeast,SP,getulina,131.02,2
+Central-West,GO,jussara,130.91,3
+South,RS,lindolfo collor,130.65,1
+Central-West,GO,portelandia,130.63,2
+Northeast,BA,canarana,130.59,1
+Northeast,CE,antonina do norte,130.57999999999998,1
+South,PR,nova santa barbara,130.53,1
+Southeast,MG,alexandrita,130.0,1
+Southeast,MG,sao bras do suacui,129.71,2
+Central-West,GO,arenopolis,128.9,1
+Southeast,MG,união de minas,128.71,3
+Northeast,SE,monte alegre de sergipe,128.0,1
+Northeast,PE,itaquitinga,127.78999999999999,2
+South,RS,cotiporã,127.53,1
+Northeast,BA,banzae,127.41999999999999,1
+Northeast,PB,lucena,127.17,1
+Northeast,PE,xexeu,126.16,1
+Southeast,RJ,conrado,126.12,1
+Northeast,PB,brejo dos santos,125.94,1
+South,RS,herveiras,125.52,1
+Northeast,CE,jaguaribara,125.23,1
+Northeast,BA,campo alegre de lourdes,124.88999999999999,1
+South,PR,pato bragado,124.83,2
+North,TO,barrolandia,124.53999999999999,2
+Northeast,MA,buritirana,124.43,1
+Central-West,MT,santo antonio do leverger,124.41,1
+Northeast,MA,santa rita,124.33000000000001,1
+Northeast,RN,coronel joao pessoa,124.33000000000001,1
+Southeast,MG,riachinho,124.05000000000001,2
+Northeast,BA,umburanas,123.75,1
+Central-West,MT,nova ubiratã,123.75,1
+South,PR,são jorge do patrocínio,123.72000000000001,2
+Southeast,MG,claro dos pocoes,123.67999999999999,1
+Southeast,MG,porto firme,123.49,1
+Southeast,MG,felisburgo,123.47,1
+Central-West,GO,barro alto,123.33000000000001,1
+Northeast,MA,alto alegre do maranhao,123.32000000000001,1
+Southeast,MG,guarda-mor,123.11000000000001,2
+North,TO,ananás,122.75999999999999,1
+Northeast,BA,caturama,122.68,2
+North,TO,esperantina,122.58,1
+South,PR,novo itacolomi,122.22,1
+South,RS,sao pedro do sul,121.97,1
+Southeast,SP,macaubal,121.91,1
+South,RS,coqueiro baixo,121.75999999999999,2
+Southeast,MG,capela nova,121.27,1
+Northeast,BA,gentio do ouro,121.1,1
+South,SC,frei rogério,121.09,1
+Northeast,PB,montadas,120.89999999999999,1
+Southeast,MG,bom jesus da penha,120.84,2
+Northeast,PE,araçoiaba,120.71000000000001,2
+South,SC,lindoia do sul,120.22,1
+Northeast,BA,conceicao do almeida,120.14,1
+Southeast,SP,anhembi,120.09,1
+North,RO,ministro andreazza,120.05000000000001,1
+South,PR,são carlos do ivaí,119.95,1
+South,RS,fortaleza dos valos,119.95,1
+Southeast,MG,santo hipolito,119.88000000000001,1
+Southeast,MG,olhos d'agua,119.84,1
+Northeast,RN,janduís,119.38,1
+Northeast,BA,elisio medrado,118.75,2
+South,PR,douradina,118.65,1
+Northeast,BA,barrocas,118.25999999999999,1
+Northeast,CE,assaré,118.25999999999999,1
+Southeast,SP,coronel macedo,118.25,2
+Northeast,SE,nossa senhora de lourdes,118.1,1
+Southeast,SP,sao pedro do turvo,117.9,2
+Southeast,SP,nova guataporanga,117.75999999999999,1
+Central-West,GO,itaguaru,117.66,2
+Central-West,GO,turvania,117.35,2
+South,PR,vila nova,117.19,2
+North,TO,peixe,117.16,1
+Northeast,BA,retirolândia,117.0,1
+South,RS,aguas claras,116.96,1
+Southeast,SP,paulistania,116.94,1
+Southeast,MG,vermelho,116.78999999999999,1
+South,RS,monte belo do sul,116.74000000000001,1
+South,SC,sao bonifacio,116.46000000000001,1
+Northeast,BA,planalto,116.45,1
+South,SC,guaporanga,116.27,2
+Northeast,BA,governador mangabeira,116.26,1
+South,RS,sao pedro do butia,116.19,1
+Northeast,MA,são joão do paraíso,115.92000000000002,1
+Northeast,RN,frutuoso gomes,115.87,1
+Southeast,RJ,sao jose do ribeirao,115.84,1
+South,RS,santana da boa vista,115.8,2
+Northeast,MA,santa luzia do parua,115.78,1
+North,PA,aurora do para,115.46000000000001,1
+Southeast,SP,santa clara d'oeste,115.44,1
+Southeast,MG,bonito de minas,115.44,1
+South,RS,santa maria do herval,115.44,1
+Southeast,MG,sao francisco de paula,115.41999999999999,2
+Northeast,SE,campo do brito,114.89,1
+Central-West,MT,ipiranga do norte,114.83,1
+Northeast,PE,nazaré da mata,114.56,1
+Central-West,MT,figueirópolis doeste,114.42,2
+Northeast,AL,novo lino,114.26,1
+Southeast,MG,ouro verde de minas,114.19,2
+Central-West,GO,itaguacu,114.1,2
+Northeast,BA,cristopolis,113.94999999999999,2
+North,TO,almas,113.56,1
+Northeast,SE,aquidabã,113.55,1
+Southeast,MG,materlandia,113.46000000000001,2
+North,TO,praia norte,113.35,1
+Southeast,MG,palmópolis,113.19999999999999,1
+Central-West,GO,goiandira,113.13000000000001,1
+Northeast,PB,jerico,113.08,1
+Central-West,GO,aragoiânia,112.9,1
+Southeast,MG,arapuá,112.77,1
+Southeast,SP,piquerobi,112.45,1
+Northeast,PI,inhuma,112.35,1
+Southeast,SP,rubineia,112.2,1
+South,RS,sinimbu,112.11000000000001,2
+Southeast,SP,novais,111.99000000000001,1
+South,RS,eugenio de castro,111.76,1
+Southeast,SP,aramina,111.61000000000001,1
+Central-West,MS,deodapolis,111.21000000000001,2
+Central-West,MS,caracol,111.1,1
+Northeast,AL,coite do noia,111.01,1
+Northeast,BA,piripá,110.84,2
+Central-West,MS,jaraguari,110.52,2
+Northeast,AL,passo de camaragibe,110.27999999999999,1
+Northeast,BA,andaraí,109.5,1
+Southeast,MG,ingai,109.38,1
+Northeast,MA,joselandia,109.17999999999999,1
+Southeast,MG,juvenilia,109.1,2
+Northeast,PE,cha de alegria,108.94999999999999,1
+North,RO,cacaulandia,108.73,1
+Southeast,MG,lamim,108.63000000000001,1
+Northeast,BA,várzea nova,108.53,1
+Southeast,SP,serra azul,108.52000000000001,1
+Southeast,MG,bias fortes,108.47999999999999,2
+Southeast,MG,brás pires,108.02,2
+Northeast,PE,são joaquim do monte,107.95,1
+South,PR,marilena,107.86999999999999,1
+Central-West,MS,bandeirantes,107.78,1
+South,PR,bom sucesso,107.78,1
+Southeast,ES,santa leopoldina,107.78,1
+South,PR,guapirama,107.78,1
+Southeast,ES,atilio vivacqua,107.78,1
+Southeast,MG,fonseca,107.53,1
+Northeast,PI,lagoa de sao francisco,107.02,1
+Southeast,SP,monte castelo,106.89,1
+South,PR,coronel domingos soares,106.87,1
+South,RS,vanini,106.87,1
+South,RS,general camara,106.87,1
+Northeast,RN,messias targino,106.85,1
+South,RS,aratiba,106.49,1
+Northeast,PI,lagoa do piaui,106.38,1
+Northeast,MA,matoes,106.3,1
+Northeast,CE,itapiuna,106.24000000000001,2
+Central-West,MS,coronel sapucaia,106.23,1
+Southeast,SP,redencao da serra,106.23,1
+Southeast,MG,entre folhas,106.07,1
+Southeast,ES,paraju,105.74000000000001,1
+Southeast,MG,vitorinos,105.36999999999999,1
+Central-West,GO,britania,105.36999999999999,1
+South,PR,campo bonito,105.30000000000001,1
+Central-West,GO,jaupaci,105.28,1
+Southeast,MG,braunas,105.28,1
+Southeast,RJ,penedo,105.28,1
+South,RS,pedras altas,105.28,1
+Southeast,MG,ilicínea,105.28,1
+Southeast,MG,estrela do sul,105.28,1
+Northeast,BA,santa brigida,104.73,1
+South,PR,contenda,104.61000000000001,1
+South,SC,aguas mornas,104.52000000000001,1
+Southeast,MG,taparuba,104.37,1
+Southeast,RJ,itaguai,104.37,1
+Northeast,PE,tacaratu,104.35000000000001,1
+North,AC,porto acre,104.35000000000001,1
+Northeast,BA,muquem de sao francisco,104.21,2
+South,RS,santo antonio do palma,104.09,2
+Southeast,ES,novo brasil,103.75,1
+South,PR,engenheiro beltrao,103.35999999999999,2
+Southeast,MG,monte formoso,103.19,2
+Northeast,BA,cotegipe,103.14999999999999,1
+South,RS,guarani das missões,102.94,2
+Southeast,SP,buritizal,102.88,2
+South,RS,dezesseis de novembro,102.75,1
+South,RS,rio dos indios,102.75,1
+South,RS,sao jose do inhacora,102.69999999999999,1
+South,PR,rancho alegre,102.66000000000001,1
+South,RS,senador salgado filho,102.49,1
+Northeast,BA,adustina,102.27,1
+Southeast,SP,riversul,102.03,1
+Northeast,RN,angicos,101.77,1
+Northeast,BA,castro alves,101.76,2
+Southeast,SP,vargem,101.5,2
+South,RS,vila nova do sul,101.34,1
+Southeast,MG,sapucaia,101.25,1
+Northeast,AL,maribondo,100.97,1
+Northeast,SE,ribeirópolis,100.77000000000001,1
+Northeast,MA,santa quiteria do maranhao,100.75,1
+Southeast,SP,espigao,100.52,2
+South,PR,guairaçá,100.44,1
+South,PR,nova esperanca do sudoeste,100.33,1
+Northeast,CE,itarema,99.95,1
+Southeast,MG,coronel pacheco,99.9,1
+Northeast,CE,caridade,99.9,1
+South,SC,paraíso,99.65,1
+South,PR,querencia do norte,99.43,1
+Northeast,MA,gonçalves dias,99.25,1
+Northeast,BA,filadélfia,99.16000000000001,1
+South,RS,barao do triunfo,99.13999999999999,1
+Northeast,RN,pedro velho,99.11,1
+Northeast,BA,carnaiba do sertao,99.1,1
+Southeast,MG,capitao eneas,98.84,1
+South,SC,coronel freitas,98.64999999999999,1
+North,TO,arapoema,98.57,1
+Southeast,ES,ponto belo,98.56,1
+Southeast,MG,brasilandia de minas,98.49,1
+Central-West,GO,ouro verde de goias,98.23,1
+Southeast,MG,ewbank da camara,98.16,1
+South,RS,tres forquilhas,98.13,1
+Northeast,RN,antônio martins,97.67,1
+Southeast,SP,rincão,97.63,1
+Northeast,BA,anagé,97.38,1
+Southeast,RJ,passa três,97.37,2
+Northeast,PB,pilar,96.95,1
+Central-West,GO,teresina de goiás,96.8,1
+Southeast,RJ,santa rita da floresta,96.8,1
+South,SC,monte castelo,96.65,1
+Southeast,MG,olaria,96.22,1
+Southeast,MG,campo azul,96.22,1
+Southeast,MG,rio doce,96.2,1
+Southeast,SP,ubirajara,96.09,1
+Southeast,MG,pedra do indaiá,96.08,1
+Southeast,MG,itutinga,96.01,1
+Northeast,PB,pedra branca,95.84,1
+Northeast,BA,aracatu,95.75999999999999,1
+Northeast,BA,boquira,95.67,1
+North,TO,fatima,95.64,1
+Southeast,SP,taboao da serra,95.38,2
+South,PR,perobal,95.31,1
+Southeast,SP,santa salete,95.0,1
+North,PA,igarape-acu,94.76,1
+Central-West,GO,divinopolis de goias,94.3,1
+Southeast,MG,alagoa,93.98,1
+South,PR,ilha dos valadares,93.59,1
+Southeast,SP,iaras,93.57,1
+South,RS,taquaruçu do sul,93.28999999999999,1
+South,PR,porto amazonas,93.21,2
+Southeast,MG,dom cavati,93.08,1
+North,AM,itacoatiara,92.97999999999999,1
+South,SC,novo horizonte,92.67,1
+South,PR,mato rico,92.65,1
+Southeast,MG,nacip raydan,92.16000000000001,1
+Southeast,MG,campo florido,92.02,1
+Northeast,BA,ibirataia,91.72,2
+Central-West,MS,sonora,91.38,2
+Southeast,MG,sao francisco do gloria,91.35000000000001,1
+South,RS,lagoa dos tres cantos,91.18,1
+Southeast,SP,nantes,91.05,1
+Northeast,SE,riachuelo,90.97,1
+Northeast,PB,santo andre,90.9,1
+Northeast,PB,mae d'agua,90.89,1
+Southeast,RJ,macuco,90.88000000000001,1
+South,RS,viamao,90.81,1
+South,PR,inajá,90.3,2
+Southeast,MG,felixlandia,90.28,1
+Southeast,SP,salmourao,90.27,2
+Southeast,SP,cassia dos coqueiros,90.17,1
+Northeast,PE,alianca,89.92999999999999,1
+Southeast,SP,onda verde,89.49000000000001,1
+South,RS,nova padua,89.36000000000001,1
+Southeast,MG,frei gaspar,89.19,1
+South,PR,adrianopolis,89.17,1
+Northeast,BA,salobro,89.15,1
+Southeast,SP,suzanapolis,88.94,1
+Southeast,MG,santo antônio do aventureiro,88.91999999999999,1
+South,SC,bom retiro,88.37,1
+Northeast,CE,pedra branca,88.15,2
+Central-West,MT,itanhangá,88.05,1
+Southeast,SP,guatapará,87.97,1
+Northeast,PB,pedra lavrada,87.9,1
+Northeast,PI,alvorada do gurguéia,87.85,1
+Southeast,SP,paranapuã,87.80000000000001,2
+Northeast,CE,uruburetama,87.8,1
+Northeast,CE,croatá,87.8,1
+Northeast,MA,passagem franca,87.66,1
+Southeast,MG,morro do pilar,87.64,1
+Southeast,MG,ibirite,87.64,1
+South,RS,piratini,87.64,1
+South,PR,matelândia,87.6,2
+Northeast,BA,teodoro sampaio,87.28,1
+Southeast,SP,termas de ibira,87.15,1
+South,RS,sao jorge,87.02000000000001,1
+North,TO,buriti do tocantins,86.78999999999999,1
+Southeast,MG,ravena,86.72999999999999,1
+Northeast,RN,vicosa,86.58,1
+Southeast,RJ,valao do barro,86.53999999999999,1
+Northeast,BA,ibipeba,86.39,1
+Central-West,MS,anaurilandia,86.24,1
+South,PR,florida,86.15,1
+South,PR,formosa do oeste,86.15,1
+North,PA,jacareacanga,86.03999999999999,1
+Southeast,SP,guaratingueta,86.03,1
+Southeast,MG,cascalho rico,85.92,1
+Southeast,ES,laranja da terra,85.60000000000001,1
+North,PA,mocajuba,85.6,1
+Southeast,MG,sao thome das letras,85.5,2
+Southeast,MG,moeda,85.46000000000001,1
+Central-West,MS,terenos,85.26,1
+Northeast,AL,matriz de camaragibe,84.9,1
+Southeast,SP,pontalinda,84.75,2
+Northeast,RN,bodo,84.57,1
+Central-West,GO,mossâmedes,84.14,1
+Northeast,AL,murici,84.05,1
+South,PR,serra dos dourados,83.33,1
+Central-West,MS,anhandui,83.23,1
+Northeast,MA,bela vista do maranhao,83.15,1
+Southeast,SP,planalto,83.06,1
+North,PA,pau d'arco,83.05,1
+Southeast,MG,sao mateus de minas,82.88,1
+Northeast,BA,dom macedo costa,82.83,1
+Northeast,MA,sao francisco do brejao,82.75,1
+Northeast,RN,lagoa salgada,82.72,1
+Central-West,GO,brazabrantes,82.7,2
+Northeast,CE,taperuaba,82.42,1
+Northeast,BA,salinas da margarida,82.12,1
+Southeast,MG,bertópolis,82.12,1
+South,RS,rainha do mar,82.03,1
+Southeast,MG,paineiras,81.98,1
+Northeast,PB,jacaraú,81.96000000000001,1
+South,RS,pouso novo,81.82,1
+Southeast,SP,iacri,81.62,2
+Northeast,MA,humberto de campos,81.57,1
+Northeast,CE,amontada,81.57,1
+South,PR,conselheiro mairinck,81.55,1
+Northeast,BA,lamarao,81.34,1
+Northeast,PI,angical do piauí,80.92,1
+Southeast,MG,camacho,80.9,1
+Southeast,MG,rubelita,80.88,1
+North,RO,castanheiras,80.8,1
+South,PR,nossa senhora das gracas,80.75,2
+Northeast,BA,caém,80.02,1
+South,PR,santo inacio,79.7,1
+South,PR,candoi,79.5,1
+South,RS,tapera,79.07,1
+Northeast,MA,rosário,79.04,1
+South,RS,garruchos,79.03999999999999,1
+Northeast,RN,são tomé,78.84,1
+Northeast,BA,cairu,78.64,1
+Southeast,MG,berilo,78.22,1
+South,SC,galvao,78.02,1
+Southeast,SP,itaoca,78.00999999999999,1
+Northeast,BA,jandaira,77.98,1
+Northeast,RN,agua nova,77.67,1
+South,RS,novo machado,77.66,1
+Southeast,MG,mesquita,77.57,1
+South,RS,cerrito,77.57,1
+Southeast,MG,santa rita do itueto,77.57,1
+Southeast,RJ,sampaio correia,77.57,1
+Southeast,MG,padre paraíso,77.57,1
+South,RS,porto lucena,77.56,1
+Southeast,MG,queixada,77.28999999999999,1
+Central-West,MT,novo mundo,77.13,1
+Southeast,MG,sao domingos,77.06,1
+Central-West,MS,angelica,76.86,1
+South,SC,rio rufino,76.66,1
+South,PR,nova américa da colina,76.65,1
+Northeast,MA,maranhaozinho,76.57,1
+Northeast,BA,guaratinga,76.57,2
+Southeast,MG,itaguara,76.47,2
+Northeast,BA,sento sé,76.08,1
+Central-West,MS,glória de dourados,76.0,1
+Northeast,PI,sebastiao leal,75.89,1
+South,RS,nova boa vista,75.85,1
+South,RS,sete de setembro,75.72999999999999,1
+Northeast,PB,prata,75.72999999999999,1
+Southeast,MG,pavao,75.63,1
+North,PA,juruti,75.53,1
+South,PR,uniao da vitoria,75.25,1
+Southeast,SP,guarapua,75.17,1
+Southeast,ES,praia grande (fundão) - distrito,75.08,1
+Central-West,MS,brasilandia,75.07,1
+Central-West,GO,hidrolândia,74.5,1
+Southeast,SP,pedranopolis,74.41,1
+Southeast,MG,tocos do moji,74.36,1
+Southeast,MG,ponto dos volantes,74.3,2
+South,RS,jacuizinho,74.26,1
+Northeast,RN,vera cruz,74.14,1
+Southeast,SP,piacatu,74.13,1
+Southeast,SP,corumbatai,74.13,2
+Northeast,AL,girau do ponciano,74.05,1
+Southeast,MG,lagoa dos patos,74.05,1
+Northeast,PE,tamandare,73.84,1
+Northeast,BA,varzea do poco,73.83,1
+Northeast,BA,condeuba,73.83,1
+Southeast,ES,sao joao do sobrado,73.56,1
+South,SC,guaraciaba,73.38,1
+Southeast,SP,óleo,73.34,1
+Northeast,BA,cocos,73.27000000000001,1
+Northeast,BA,chorrochó,73.18,1
+South,RS,itaara,73.15,1
+South,PR,alto paraíso,73.15,1
+South,PR,bocaiuva do sul,72.7,2
+Central-West,MT,são josé do xingu,72.52,1
+Southeast,MG,dores de guanhães,72.48,1
+Southeast,SP,anhumas,72.42,1
+Northeast,CE,capistrano,72.16,1
+Southeast,RJ,piao,72.14,1
+South,PR,santa cecilia do pavao,72.14,1
+Southeast,MG,serra do salitre,72.05,1
+Northeast,CE,tabuleiro do norte,71.88,1
+Southeast,SP,jamaica,71.85,1
+Southeast,SP,sarutaiá,71.82,1
+Northeast,BA,amargosa,71.81,1
+South,RS,pontão,71.78999999999999,1
+South,PR,santana do itarare,71.53,1
+Southeast,MG,cajuri,71.53,1
+South,PR,barra do jacare,71.42999999999999,1
+Southeast,SP,populina,71.3,1
+Central-West,MS,porto murtinho,71.15,1
+South,RS,novo cabrais,71.15,1
+South,PR,campo do tenente,71.03999999999999,1
+Southeast,MG,jaguaracu,71.03999999999999,1
+Southeast,SP,palmares paulista,70.92999999999999,1
+Northeast,SE,sao miguel do aleixo,70.86,1
+Southeast,MG,santana de pirapama,70.74,1
+South,SC,presidente nereu,70.61,1
+Southeast,SP,taiaçu,70.51,1
+Northeast,CE,itaicaba,70.03,1
+Southeast,SP,rubiao junior,70.03,1
+South,PR,juranda,69.94,2
+Southeast,SP,pereiras,69.69,1
+Southeast,MG,canaa,69.54,1
+South,RS,padre gonzales,69.53999999999999,1
+Southeast,SP,balbinos,69.29,1
+Northeast,PB,são bentinho,69.15,1
+Southeast,ES,pacotuba,69.14,1
+Southeast,MG,monsenhor paulo,69.12,1
+Northeast,PB,teixeira,69.05,1
+South,RS,gramado xavier,68.97,1
+Northeast,SE,indiaroba,68.8,1
+Southeast,MG,pratapolis,68.62,1
+South,PR,santa lúcia,68.49,1
+South,RS,selbach,68.13,1
+South,RS,cerro grande,68.02,1
+South,PR,fenix,67.92,1
+South,SC,rio dos cedros,67.82,1
+South,RS,tiradentes do sul,67.7,1
+Central-West,GO,nova roma,67.59,1
+South,SC,calmon,67.5,1
+Central-West,MT,ribeirão cascalheira,67.39,1
+Southeast,ES,araguaia,67.23,1
+South,PR,vitorino,67.23,1
+South,RS,nova brescia,66.82,1
+Northeast,BA,baixa grande,66.24,1
+Central-West,MS,ribas do rio pardo,66.13,1
+Central-West,GO,nova américa,66.11,1
+Southeast,MG,amparo da serra,66.06,1
+North,PA,ourem,66.05,1
+South,SC,santa terezinha,66.00999999999999,1
+Southeast,ES,quilometro 14 do mutum,66.00999999999999,1
+Northeast,BA,ibiajara,65.8,1
+Northeast,BA,mansidão,65.78999999999999,1
+South,SC,lebon regis,65.67,1
+Northeast,PE,terezinha,65.62,1
+South,RS,machadinho,65.6,1
+Northeast,PE,cupira,65.53,1
+Northeast,BA,varzedo,65.53,1
+South,RS,jacutinga,65.5,1
+Southeast,SP,bandeirantes d'oeste,65.09,1
+North,PA,igarapé-miri,65.03,1
+Southeast,RJ,pureza,65.0,1
+South,RS,pinto bandeira,65.0,1
+South,RS,almirante tamandare do sul,65.0,1
+Southeast,MG,patis,65.0,1
+Northeast,PE,sao benedito do sul,64.83,1
+South,PR,campo magro,64.75999999999999,1
+Northeast,PI,marcos parente,64.5,1
+South,RS,unistalda,64.47,1
+Southeast,MG,caparao,64.42,1
+Southeast,MG,miradouro,64.42,1
+North,PA,ulianopolis,64.4,1
+Southeast,SP,santo andré,64.37,1
+Northeast,MA,arame,64.14,1
+North,AP,porto grande,64.14,1
+Southeast,MG,baguari,64.1,1
+Southeast,SP,elisiario,64.1,1
+South,PR,foz do jordão,64.1,1
+South,RS,vitória das missões,64.0,1
+Central-West,GO,damianopolis,63.839999999999996,2
+Northeast,AL,traipu,63.790000000000006,1
+South,SC,iomerê,63.79,1
+South,PR,guaraquecaba,63.37,1
+South,PR,são sebastião da amoreira,63.230000000000004,1
+Northeast,CE,pindoretama,63.17999999999999,1
+North,RO,mutum parana,62.57,1
+Northeast,SE,santo amaro das brotas,62.28,1
+Northeast,RN,sao rafael,62.28,1
+Central-West,GO,formoso,61.93,1
+Northeast,BA,ribeira do amparo,61.79,1
+Southeast,MG,ubai,61.730000000000004,1
+Northeast,CE,lagoa do mato,61.620000000000005,1
+Central-West,GO,crominia,61.0,1
+North,TO,novo jardim,60.98,1
+South,SC,agrolândia,60.91,1
+Southeast,SP,tuiuti,60.85,1
+Northeast,RN,florania,60.34,1
+Southeast,SP,cubatao,60.25,1
+South,RS,segredo,60.14,1
+Northeast,MA,bom jardim,60.05,1
+Northeast,BA,belmonte,60.05,1
+Central-West,MT,nobres,59.910000000000004,1
+Northeast,MA,peri mirim,59.83,1
+South,SC,ponte alta do norte,59.46,1
+Northeast,MA,sitio novo,59.14,1
+Southeast,SP,queiroz,58.9,1
+Central-West,GO,mutunópolis,58.56,1
+South,RS,alegria,58.28,1
+Southeast,MG,desterro de entre rios,58.28,1
+Northeast,SE,malhador,58.14,1
+Southeast,MG,cedro do abaete,58.09,1
+North,PA,santo antonio do taua,57.739999999999995,1
+Southeast,MG,corrego danta,57.62,1
+Southeast,SP,florínia,57.61,1
+South,RS,barao,57.53,1
+Southeast,ES,ibiraçu,57.5,1
+Southeast,MG,natércia,57.5,1
+Northeast,CE,mauriti,57.28,1
+North,TO,nova olinda,56.79,1
+Northeast,BA,capela do alto alegre,56.78,1
+Northeast,BA,igapora,56.78,1
+Northeast,BA,itaju do colônia,56.69,1
+Southeast,SP,agisse,56.37,1
+Northeast,AL,vicosa,56.05,1
+South,RS,itatiba do sul,55.95,1
+South,SC,macieira,55.56,1
+Southeast,MG,conceicao da ibitipoca,55.09,1
+Southeast,MG,coimbra,55.01,1
+Central-West,MS,inocencia,54.82,1
+Northeast,CE,coreau,54.81,1
+Northeast,AL,são brás,54.739999999999995,1
+North,TO,combinado,54.629999999999995,1
+Northeast,CE,ibicuitinga,54.62,1
+Southeast,MG,virginia,54.129999999999995,1
+Southeast,MG,açucena,54.11,1
+Northeast,RN,santa maria,53.98,1
+Northeast,PI,caxingo,53.84,1
+Northeast,BA,jussiape,53.79,1
+Central-West,MS,sanga puita,53.69,1
+Central-West,GO,jandaia,53.4,1
+Central-West,MS,paraíso das águas,53.34,1
+Northeast,AL,cacimbinhas,53.3,1
+Southeast,MG,tapuirama,53.230000000000004,1
+Southeast,MG,muriae,53.22,1
+Southeast,MG,joaima,53.0,1
+Northeast,BA,gongogi,52.129999999999995,1
+Southeast,MG,vermelho novo,52.099999999999994,1
+Northeast,BA,igrapiúna,52.05,1
+South,RS,guabiju,51.83,1
+Northeast,RN,sao joao do sabugi,51.739999999999995,1
+Northeast,BA,antonio goncalves,51.69,1
+South,PR,alexandra,51.31,1
+Central-West,MT,apiacás,51.12,1
+Southeast,MG,divino das laranjeiras,51.099999999999994,1
+South,PR,boa esperança do iguaçu,51.0,1
+Northeast,BA,acajutiba,50.95,1
+Northeast,PI,simplício mendes,50.75,1
+Central-West,GO,morro agudo de goias,50.68,1
+North,PA,tomé-açu,50.62,1
+Southeast,MG,santa maria do salto,50.480000000000004,1
+South,RS,monte bonito,50.34,1
+Southeast,MG,miravania,50.1,1
+Northeast,MA,amapá do maranhão,50.05,1
+Northeast,PE,vertentes,49.62,1
+Southeast,RJ,jamapara,49.6,1
+South,RS,picada cafe,49.6,1
+South,SC,arvoredo,49.4,1
+South,SC,santa cruz do timbo,49.31,1
+South,RS,coqueiros do sul,49.06,1
+Central-West,MS,prudêncio thomaz,49.040000000000006,1
+Northeast,RN,jardim de piranhas,48.739999999999995,1
+Southeast,SP,gabriel monteiro,48.72,1
+Northeast,BA,cabaceiras do paraguacu,48.69,1
+Southeast,MG,indianopolis,48.31,1
+Central-West,MS,guia lopes da laguna,48.22,1
+Central-West,GO,buriti alegre,48.22,1
+Southeast,MG,antônio carlos,48.209999999999994,1
+South,RS,colinas,48.09,1
+South,SC,dona emma,47.81,1
+South,RS,paraíso do sul,47.29,1
+South,PR,rosario do ivai,47.230000000000004,1
+Central-West,MT,vila bela da santissima trindade,46.78,1
+Southeast,RJ,barao de juparana,46.72,1
+Northeast,PI,várzea grande,46.65,1
+Southeast,SP,parisi,46.34,1
+Central-West,GO,novo planalto,46.29,1
+Northeast,BA,piraí do norte,46.28,1
+Southeast,SP,turmalina,46.230000000000004,1
+South,RS,boa vista do sul,46.22,1
+South,PR,corumbatai do sul,45.78,1
+Northeast,PI,rio grande do piauí,45.7,1
+North,TO,pium,45.629999999999995,1
+Southeast,MG,centralina,45.089999999999996,1
+Southeast,MG,santa rita de jacutinga,45.089999999999996,1
+South,RS,marques de souza,45.0,1
+South,PR,sulina,45.0,1
+Northeast,AL,santa luzia do norte,44.95,1
+Northeast,BA,são félix,44.69,1
+South,PR,jussara,44.589999999999996,1
+Southeast,MG,senhora dos remedios,44.51,1
+Southeast,MG,pescador,44.42,1
+Central-West,MS,eldorado,44.129999999999995,1
+South,PR,icaraíma,43.95,1
+Northeast,CE,viçosa do ceará,43.79,1
+Northeast,CE,pires ferreira,43.79,1
+Central-West,GO,flores de goias,43.22,1
+Southeast,MG,minduri,43.18,1
+North,PA,medicilândia,43.14,1
+South,PR,laranjal,43.089999999999996,1
+Central-West,GO,turvelândia,42.4,1
+Southeast,MG,silveira carvalho,42.269999999999996,1
+Northeast,CE,porteiras,42.18,1
+Central-West,MT,nova guarita,41.79,1
+Northeast,PI,francisco santos,41.7,1
+Northeast,BA,sátiro dias,41.29,1
+Northeast,RN,monte alegre,41.14,1
+Southeast,MG,morro vermelho,40.989999999999995,1
+Southeast,SP,fernao,40.85,1
+Northeast,CE,missão velha,40.62,1
+Northeast,PI,demerval lobao,40.379999999999995,1
+Northeast,BA,ipecaetá,40.19,1
+South,SC,uniao do oeste,40.089999999999996,1
+South,SC,leoberto leal,40.089999999999996,1
+Northeast,BA,monte santo,40.0,1
+Southeast,MG,sobralia,40.0,1
+Southeast,SP,boracéia,39.96,1
+South,RS,sério,39.69,1
+North,PA,tracuateua,39.61,1
+Southeast,MG,santana do capivari,39.519999999999996,1
+Southeast,MG,delfim moreira,39.37,1
+South,RS,sertão santana,39.129999999999995,1
+Northeast,PI,nova santa rita,38.82,1
+Southeast,MG,pedra menina,38.5,1
+Southeast,RJ,cambiasca,38.089999999999996,1
+Northeast,PI,joaquim pires,37.81,1
+South,RS,vista alegre,37.1,1
+South,RS,pareci novo,37.1,1
+South,RS,vale do sol,37.089999999999996,1
+Southeast,RJ,duas barras,36.95,1
+Northeast,BA,joão dourado,36.69,1
+Northeast,BA,nova redencao,36.69,1
+South,RS,faxinalzinho,35.95,1
+Southeast,MG,desterro do melo,35.86,1
+South,RS,pinhal da serra,35.0,1
+South,SC,presidente castello branco,35.0,1
+Southeast,SP,nova independência,34.86,1
+Northeast,BA,brejolândia,34.78,1
+Southeast,SP,nova luzitania,34.75,1
+South,SC,caxambu do sul,34.6,1
+South,PR,barracão,34.51,1
+Central-West,GO,jardim abc de goias,34.089999999999996,1
+South,PR,balsa nova,33.97,1
+South,RS,uniao da serra,33.6,1
+Central-West,GO,cabeceiras,33.13,1
+Central-West,GO,montividiu do norte,33.089999999999996,1
+Southeast,MG,uruana de minas,33.0,1
+South,RS,travesseiro,32.71,1
+South,PR,tupassi,32.379999999999995,1
+South,RS,agudo,32.1,1
+South,RS,presidente lucena,32.089999999999996,1
+Central-West,GO,trombas,32.07,1
+Southeast,SP,aparecida d'oeste,31.75,1
+Southeast,MG,tuparece,31.73,1
+Central-West,GO,cezarina,31.72,1
+Southeast,RJ,boa ventura,31.689999999999998,1
+North,PA,senador jose porfirio,31.63,1
+South,PR,leopolis,31.38,1
+South,RS,liberato salzano,31.22,1
+South,RS,vicente dutra,31.22,1
+Southeast,MG,são bento abade,31.1,1
+Southeast,MG,crucilandia,30.47,1
+Northeast,BA,canápolis,30.439999999999998,1
+South,RS,estrela velha,30.0,1
+Southeast,MG,estiva,29.130000000000003,1
+Southeast,MG,ponto do marambaia,28.799999999999997,1
+South,PR,reserva do iguaçu,28.52,1
+Southeast,SP,ibitiuva,27.689999999999998,1
+South,PR,ouro verde do oeste,27.380000000000003,1
+Southeast,MG,nova resende,26.09,1
+South,PR,planaltina do paraná,25.85,1
+Central-West,GO,bom jardim de goias,25.1,1
+Northeast,BA,érico cardoso,24.88,1
+Southeast,MG,santo antônio do rio abaixo,24.23,1
+Southeast,RJ,santa maria,24.11,1
+South,PR,tamboara,24.09,1
+Southeast,MG,jenipapo de minas,22.58,1
+South,PR,sabáudia,20.42,1
